@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s stars selected</item>
+        <item quantity="one">%s star selected</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Fast forward %d seconds</item>
+        <item quantity="one">Fast forward %d second</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rewind %d seconds</item>
+        <item quantity="one">Rewind %d second</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Watch %s more seconds of a video to earn points and redeem rewards</item>
+        <item quantity="one">Watch %s more second of a video to earn points and redeem rewards</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Going back to the home page in %1$d seconds…</item>
+        <item quantity="one">Going back to the home page in %1$d second…</item>
+    </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">"You've earned %d points!"</item>
+        <item quantity="one">"You've earned %d point!"</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d points</item>
+        <item quantity="one">%d point</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Sign in to claim and earn %d extra points</item>
+        <item quantity="one">Sign in to claim and earn %d extra point</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Watch %d minutes total to earn points! Complete task now?</item>
+        <item quantity="one">Watch %d minute total to earn points! Complete task now?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"You have %d points to claim
+Available today only"</item>
+        <item quantity="one">"You have %d point to claim
+Available today only"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"You've watched %d minutes today"</item>
+        <item quantity="one">"You've watched %d minute today"</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Shared successfully. You earned %d points.</item>
+        <item quantity="one">Shared successfully. You earned %d point.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Subscribed successfully. You earned %d points.</item>
+        <item quantity="one">Subscribed successfully. You earned %d point.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Earn %d points!</item>
+        <item quantity="one">Earn %d point!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Today's tasks complete! You earned %d points."</item>
+        <item quantity="one">"Today's tasks complete! You earned %d point."</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">You watched %1$1ds and earned %2$2d points!</item>
+        <item quantity="one">You watched %1$1ds and earned %2$2d point!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Watch a random video to earn %d points</item>
+        <item quantity="one">Watch a random video to earn %d point</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Watch %1$1d seconds of a video to earn %2$2d points</item>
+        <item quantity="one">Watch %1$1d seconds of a video to earn %2$2d point</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Earned %d points. Keep sharing to earn more.</item>
+        <item quantity="one">Earned %d point. Keep sharing to earn more.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Earned %d points. Keep subscribing to earn more.</item>
+        <item quantity="one">Earned %d point. Keep subscribing to earn more.</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d pastas</item>
+        <item quantity="one">%d pasta</item>
+    </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d temporadas</item>
+        <item quantity="one">%d temporada</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">As legendas vão ser mostradas %.1f segundos antes</item>
+        <item quantity="one">As legendas vão ser mostradas %.1f segundo antes</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">As legendas vão ser mostradas %.1f segundos depois</item>
+        <item quantity="one">As legendas vão ser mostradas %.1f segundo depois</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Tamanho: %.2fKB</item>
+        <item quantity="one">Tamanho: %.2fKB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Esta funcionalidade vai ser desligada por %s dias</item>
+        <item quantity="one">Esta funcionalidade vai ser desligada por %s dia</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Eliminar %s itens agora?</item>
+        <item quantity="one">Eliminar %s item agora?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s itens seleccionados</item>
+        <item quantity="one">%s item seleccionado</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Tamanho do ficheiro: %.2fKB</item>
+        <item quantity="one">Tamanho do ficheiro: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s resultados para \"%1$s\"</item>
+        <item quantity="one">%2$s resultado para \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d imagens</item>
+        <item quantity="one">%d imagem</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Duplo toque para retroceder %d segundos</item>
+        <item quantity="one">Duplo toque para retroceder %d segundo</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Duplo toque para avançar %d segundos</item>
+        <item quantity="one">Duplo toque para avançar %d segundo</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s segundos</item>
+        <item quantity="one">%1$s segundo</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s subscribers</item>
+        <item quantity="one">%s subscriber</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">As legendas foram movidas %.1f segundos para a frente</item>
+        <item quantity="one">As legendas foram movidas %.1f segundo para a frente</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">As legendas foram atrasadas por %.1f segundos</item>
+        <item quantity="one">As legendas foram atrasadas por %.1f segundo</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Ocultar %d ficheiros seleccionados?</item>
+        <item quantity="one">Ocultar %d ficheiro seleccionado?</item>
+    </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Ver %d respostas</item>
+        <item quantity="one">Ver %d resposta</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s visualização</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d out of %2$2d episodes available</item>
+        <item quantity="one">%1$1d out of %2$2d episode available</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d out of %2$2d episodes available</item>
+        <item quantity="one">%1$1d out of %2$2d episode available</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episodes total</item>
+        <item quantity="one">%d episode total</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s segundos restantes</item>
+        <item quantity="one">%s segundo restante</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"Shared successfully. You've earned %d points. Claim in the Points Center."</item>
+        <item quantity="one">"Shared successfully. You've earned %d point. Claim in the Points Center."</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"Subscribed successfully. You've earned %d points. Claim in the Points Center."</item>
+        <item quantity="one">"Subscribed successfully. You've earned %d point. Claim in the Points Center."</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d days until %3$s.</item>
+        <item quantity="one">Your content contains items (%1$s) that violate our community standards. Your account is suspended for %2$d day until %3$s.</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Eliminar permanentemente %s ficheiros agora?</item>
+        <item quantity="one">Eliminar permanentemente %s ficheiro agora?</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Adicionar até %d marcadores</item>
+        <item quantity="one">Adicionar até %d marcador</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s gostos</item>
+        <item quantity="one">%s gosto</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s visualização</item>
+    </plurals>
+</resources>

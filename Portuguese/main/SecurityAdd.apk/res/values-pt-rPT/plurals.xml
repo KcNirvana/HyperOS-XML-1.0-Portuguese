@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d dias restantes até a sessão de aumento de rede terminar. Renove a sessão para evitar problemas de velocidade de rede</item>
+        <item quantity="one">%d dia restante até a sessão de aumento de rede terminar. Renove a sessão para evitar problemas de velocidade de rede</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minutos de tempo de ecrã restante</item>
+        <item quantity="one">%s minuto de tempo de ecrã restante</item>
+    </plurals>
+</resources>

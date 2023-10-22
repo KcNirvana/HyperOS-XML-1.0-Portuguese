@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Eliminar %d transferências?</item>
+        <item quantity="one">Eliminar %d transferência?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%s transferências eliminadas</item>
+        <item quantity="one">%s transferências eliminada</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="other">%d ficheiros transferidos</item>
+        <item quantity="one">1 ficheiro transferido</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d ficheiros a aguardar</item>
+        <item quantity="one">1 ficheiro a aguardar</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Não foi possível transferir %1$d itens</item>
+        <item quantity="one">Não foi possível transferir %1$d item</item>
+    </plurals>
+</resources>

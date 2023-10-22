@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">%2$d ficheiros rejeitados incluindo %1$s</item>
+        <item quantity="one">%2$d ficheiro rejeitado incluindo %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">%2$d ficheiros recebidos incluindo %1$s</item>
+        <item quantity="one">%2$d ficheiro recebido incluindo %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d ficheiros incluindo %1$s</item>
+        <item quantity="one">%2$d ficheiro incluindo %1$s</item>
+    </plurals>
+</resources>

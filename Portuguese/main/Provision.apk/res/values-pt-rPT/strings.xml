@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_enabled">Acessibilidade activada</string>
+    <string name="agree">Concordar</string>
+    <string name="agree_and_next">Concordar</string>
+    <string name="agree_terms">Eu li e aceitei os Termos de Serviço e Política de Privacidade</string>
+    <string name="album_introduction">A Galeria permite gerir, optimizar e editar fotos e vídeos no seu dispositivo, assim como, sincronizá-los na Xiaomi Cloud</string>
+    <string name="app_name">Configuração</string>
+    <string name="application_package_introduction">Esta aplicação permite instalar aplicações de terceiros, analisá-las antes da instalação e dar recomendações após</string>
+    <string name="application_permissions">Permissões da aplicação</string>
+    <string name="back">Voltar</string>
+    <string name="backup_introduction">Pode utilizar esta aplicação para copiar e restaurar itens no seu dispositivo</string>
+    <string name="calculator_introduction">Pode utilizar esta aplicação para cálculos, conversão de unidades e divisas e empréstimos</string>
+    <string name="camera_introduction">Pode utilizar esta aplicação para tirar fotos e gravar vídeos</string>
+    <string name="carrier_introduction_china">Para o fornecermos com melhores serviços, o seu dispositivo pode enviar-nos periodicamente informações sobre a sua versão, dados de identificação (incluindo IMEI/IMSI/MSISDN/MAC,MEID/ICCID) e localização</string>
+    <string name="clock_introduction">Pode utilizar esta aplicação para ver as horas, temporizador, relógios mundiais, definir alarmes e muito mais</string>
+    <string name="close_location_service_setting">Pode desligar o acesso à localização em Definições &gt; Protecção de Privacidade &gt; Gerir ou restringir permissões individuais das aplicações em Segurança</string>
+    <string name="cm_terms_content">Para melhorarmos os serviços fornecidos, a sua operadora de rede pode enviar informações pessoais e do dispositivo para os seus servidores utilizando a rede móvel ou Wi-Fi</string>
+    <string name="cm_terms_title">Contrato de operadora de rede móvel</string>
+    <string name="compass_introduction">Pode utilizar esta aplicação para navegação, ver coordenadas, pressão atmosférica e altitude</string>
+    <string name="congratulation_label">Tudo pronto para começar!</string>
+    <string name="congratulation_pre_label">Aguarde…</string>
+    <string name="congratulation_pre_title">A preparar o sistema…</string>
+    <string name="congratulation_swipe">Deslize para cima para entrar no sistema</string>
+    <string name="congratulation_title">Configuração concluída</string>
+    <string name="content_description_complete">Concluído</string>
+    <string name="content_description_start">Iniciar</string>
+    <string name="content_introduction">O centro de conteúdos junta conteúdos e serviços de vários canais. Aqui pode ler artigos, assistir a vídeos, ver itens em destaque diariamente e receber recomendações</string>
+    <string name="continue_to_enable_accessibility">Mantenha premido dois dedos para activar a acessibilidade</string>
+    <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, para verificar as transações de Mi Pay ou para iniciar sessão em aplicações e serviços</string>
+    <string name="desc_international_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo ou para iniciar sessão em aplicações e serviços</string>
+    <string name="diagnose_report">Enviar dados de diagnóstico para encontrar e analisar problemas de sistema e melhorar a experiência de utilizador. Estes dados podem incluir informações pessoais (p.e. IP, localização, etc.)</string>
+    <string name="disageement_abnormal_download">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este serviço</string>
+    <string name="disagree">Cancelar</string>
+    <string name="disagreement_abnormal_running">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação ou restringir permissões em Segurança</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher restringir permissões e desligar esta funcionalidade nas Definições</string>
+    <string name="disagreement_donnot_use_application">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher não utilizar esta aplicação</string>
+    <string name="disagreement_donnot_use_product">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este produto. Pode escolher não utilizar este produto</string>
+    <string name="disagreement_donnot_use_service">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este serviço. Pode escolher não utilizar este serviço</string>
+    <string name="disagreement_exit_app">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher terminar sessão ou restringir permissões em Definições</string>
+    <string name="disagreement_function">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta funcionalidade. Pode escolher não utilizar esta funcionalidade</string>
+    <string name="disagreement_location_service">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este serviço</string>
+    <string name="disagreement_terminate_miuidaemon">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar este serviço</string>
+    <string name="disagreement_terminate_service">Se não concordar em conceder essas permissões ou partilhar e enviar as suas informações pessoais, não vai poder utilizar esta aplicação. Pode escolher desinstalar, terminar sessão ou restringir permissões em Definições</string>
+    <string name="download_introduction">A aplicação \"Transferências\" está a utilizar Xunlei para transferir itens para o seu dispositivo. Esta ferramenta serve para GetApps, actualizações de sistema, temas e vídeos</string>
+    <string name="enable_accessibility_canceled">Acessibilidade cancelada</string>
+    <string name="enable_accessibility_dialog_message">Ligou o TalkBack ao premir o ecrã com 2 dedos por mais de 10 segundos. O TalkBack fornece uma voz para pessoas invisuais. Se o ligou por acidente, toque no botao Cancelar e depois duplo toque no ecrã</string>
+    <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
+    <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="fast_application_introduction">A framework Aplicações rápidas permite criar e fornecer serviços em aplicações rápidas</string>
+    <string name="fast_pairing_introduction">O Mi Link permite que o seu dispositivo se ligue a dispositivos Bluetooth próximos utilizando o serviço MIUI Bluetooth. Para poder localizar dispositivos, dê permissão ao serviço MIUI Bluetooth para ligar à Internet</string>
+    <string name="font_hint_large">Tamanho do texto predefinido</string>
+    <string name="font_hint_normal">Aumentar tamanho do texto</string>
+    <string name="framework_introduction">A framework Serviços Mi permite a utilização da Conta Xiaomi, Mi Push, Estatísticas Mi e MIUI BI</string>
+    <string name="framwork_base_service">Para o fornecer com estes serviços, a framework Serviços Mi (Conta Xiaomi, Mi Push, Estatísticas Mi e MIUI BI) necessita de ligar à Internet, aceder ao seu número de telefone, IMEI e IMSI, e permitir que o seu dispositivo receba notificações push</string>
+    <string name="game_introduction">O plugin de jogos permite que inicie sessão, crie encomendas, conclua pagamentos, utilizar cupões e participar em eventos de promoções</string>
+    <string name="gamebooster_dialog_recover">Renovar</string>
+    <string name="gamebooster_dialog_start_booster">Iniciar</string>
+    <string name="google_service_introduction">Para funcionar normalmente, o Google Play necessita de ligar à Internet, aceder à localização, poder gravar áudio, efectuar chamadas, aceder a eventos do calendário, registo de chamadas, sensores, armazenamento, informação do dispositivo e contas</string>
+    <string name="home_settings_miui_home">Clássico</string>
+    <string name="home_settings_poco_launcher">Gaveta de aplicações</string>
+    <string name="home_settings_title">Seleccionar launcher predefinido</string>
+    <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
+    <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s</string>
+    <string name="input_method_category">Escolher o teclado predefinido para escrever emails ou notas. Pode instalar teclados de terceiros mais tarde.</string>
+    <string name="input_method_setting">Escolher teclado</string>
+    <string name="install_preinstall_app">A carregar aplicações…</string>
+    <string name="item_contents_wwarning">Se o seu dispositivo ficar perdido, não vai poder prevenir outras pessoas de o utilizarem. Ignorar mesmo assim?</string>
+    <string name="item_fingerprint">Impressão digital</string>
+    <string name="item_lock_screen_password">Apenas bloqueio de ecrã</string>
+    <string name="item_lock_screen_password_only">Bloqueio de ecrã</string>
+    <string name="item_return">Definir</string>
+    <string name="item_skip">Ignorar</string>
+    <string name="language_picker_other_languages_title">Mais idiomas</string>
+    <string name="language_settings">Escolher idioma</string>
+    <string name="locale_picker_other_locale_title">Mais regiões</string>
+    <string name="locale_picker_title">Escolher a sua região</string>
+    <string name="location_content">De acordo com a lei, as operadoras móveis podem obter informações de localização dos dispositivos móveis para que as entidades de emergência (bombeiros e polícia) possam garantir e prestar serviços de emergência e auxilio</string>
+    <string name="location_introduction">Os serviços de localização utilizam o posicionamento para fornecer serviços de localização específicos</string>
+    <string name="location_introduction_qcom">Os serviços de localização utilizam o posicionamento para fornecer serviços de localização específicos. Quando a localização for utilizada pelo seu dispositivo, o módulo QCC vai ligar à rede para melhorar o posicionamento</string>
+    <string name="location_location">Os serviços de emergência podem obter a sua localização actual mediante pedido</string>
+    <string name="lockscreen_introduction">Os papéis de parede aleatórios permitem obter imagens no seu ecrã de bloqueio diariamente</string>
+    <string name="mint_keyboard_oobe_checkbox">Eu li e concordei com a Política de Privacidade do teclado Mint</string>
+    <string name="mint_keyboard_oobe_terms">Política de Privacidade do teclado Mint</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
+    <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
+    <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Utilização em %s</string>
+    <string name="mobile_network">Utilizar dados móveis</string>
+    <string name="move_data_dialog_box_le">Isto permite utilizar a ligação de dados móveis e GPS baseado nos pedidos do utilizador. Sincronizar contas e outros itens podem necessitar de utilizar dados móveis dependendo das especificações do telefone</string>
+    <string name="move_data_dialog_box_title">Utilizar dados móveis pode gerar custos adicionais. Utilizar dados móveis mesmo assim?</string>
+    <string name="move_data_dialog_cancel">Cancelar</string>
+    <string name="move_data_dialog_title">Pode restringir a ligação de dados nas Definições mais tarde</string>
+    <string name="move_data_dialog_use">Utilizar</string>
+    <string name="msim_setting_default_data">Dados</string>
+    <string name="msim_setting_default_voice">Chamadas</string>
+    <string name="multisim_settings_category">Definições do cartão SIM</string>
+    <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
+    <string name="navigation_picker_gesture_guide">Guia de gestos</string>
+    <string name="navigation_picker_radio_text_full_screen">Gestos de ecrã inteiro</string>
+    <string name="navigation_picker_radio_text_virtual_key">Botões</string>
+    <string name="next">Seguinte</string>
+    <string name="next_fingerprint">Seguinte</string>
+    <string name="note_introduction">Esta aplicação permite criar, ver e editar notas</string>
+    <string name="other_settings">Definições adicionais</string>
+    <string name="other_settings_ad_dialog_agree">Ligar</string>
+    <string name="other_settings_ad_dialog_content">Após desligar esta funcionalidade, não vai mais receber anúncios personalizados. Vai continuar a receber anúncios irrelevantes para si</string>
+    <string name="other_settings_ad_dialog_disagree">Desligar</string>
+    <string name="other_settings_ad_disable_summary">Ligar anúncios personalizados</string>
+    <string name="other_settings_ad_enable">Anúncios personalizados</string>
+    <string name="other_settings_ad_enable_summary">Personalizar anúncios com base nos seus interesses</string>
+    <string name="other_settings_alarm_assistance">Localização de emergência</string>
+    <string name="other_settings_alarm_assistance_privacy">Política de Privacidade</string>
+    <string name="other_settings_alarm_assistance_summary">Pode enviar a sua localização para a polícia automaticamente utilizando SMS ou dados móveis enquanto está a ligar para o 110, 120, 119 ou 122. Leia e concorde com os nossos &lt;a href=\"%1$s\">Termos de Utilização&lt;/a> e &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de utilizar esta funcionalidade</string>
+    <string name="other_settings_alarm_assistance_user">Termos de Utilização</string>
+    <string name="other_settings_auto_update">Actualizações automáticas</string>
+    <string name="other_settings_auto_update_summary">A MIUI vai seleccionar o melhor momento para instalar as actualizações. O seu dispositivo vai ser reiniciado automaticamente</string>
+    <string name="other_settings_auto_update_summary_v1">Permitir que a MIUI seleccione a melhor altura para transferir e instalar actualizações. O seu dispositivo vai ser Your device will be rebooted automatically to apply changes.</string>
+    <string name="other_settings_enhanced_lockscreen">Papéis de parede aleatórios</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">Política de Privacidade</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Receber imagens e histórias seleccionadas diariamente no seu ecrã de bloqueio. %1$s e %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Contrato de Licença do Utilizador</string>
+    <string name="other_settings_get_apps">Actualizar aplicações automaticamente</string>
+    <string name="other_settings_get_apps_summary">"Update system and third party partner apps via GetApps to be able to use their latest features.
+You can turn off automatic updates in GetApps > Settings > Auto updates."</string>
+    <string name="other_settings_location">Localização</string>
+    <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
+    <string name="other_settings_upload_debug_log_detail">"Ajudar a melhorar a MIUI ao enviar automaticamente dados de diagnóstico, dispositivo e utilização de aplicações para a Xiaomi. Isto vai ajudar a melhorar a estabilidade do sistema.
+Os dados que enviar vão conter dados gerais sobre o seu dispositivo (p.e. nível de bateria, actividades do sistema e erros). Estes dados vão ser utilizados para melhorar a MIUI.
+Desligar esta funcionalidade não afecta o envio de informação necessário para os serviços essenciais como actualizações de sistema e segurança.
+Pode controlar esta funcionalidade das Definições > Segurança > Privacidade > Utilização e diagnóstico"</string>
+    <string name="other_settings_upload_debug_log_summary">"Ajudar a melhorar a MIUI ao enviar automaticamente dados de diagnóstico, dispositivo e utilização de aplicações para a Xiaomi. Isto vai ajudar a melhorar a estabilidade do sistema. "</string>
+    <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico</string>
+    <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
+    <string name="other_settings_user_experience_summary">"Ajudar a melhorar os nossos produtos e serviços ao partilhar estatísticas de utilização. "</string>
+    <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon permite transferir dados do seu dispositivo para outro dispositivo quando o ecrã está danificado</string>
+    <string name="permission_account">Aceder a contas no seu dispositivo:</string>
+    <string name="permission_account_introduction">Para iniciar sessão na sua Conta Xiaomi</string>
+    <string name="permission_application_package_introduction">Para aceder ao armzenamento para analisar e verificar os pacotes de instalação</string>
+    <string name="permission_backup">Aceder ao armazenamento</string>
+    <string name="permission_backup_introduction">Para aceder e guardar cópias no seu dispositivo</string>
+    <string name="permission_call_records">Aceder ao registo de chamadas:</string>
+    <string name="permission_call_records_introduction">Para aceder ao registo de chamadas para mostrar itens bloqueados</string>
+    <string name="permission_call_state_introduction">Para aceder ao estado do seu telefone, gravar chamadas e pausar gravações durante as chamadas recebidas</string>
+    <string name="permission_clock_info_introduction">Para guardar dados de alarme</string>
+    <string name="permission_contact">Aceder a contactos:</string>
+    <string name="permission_contact_introduction">Para fornecer a Lista de bloqueio e telefonar a contactos de emergência</string>
+    <string name="permission_different_device_introduction">Para identificar serviços associados a diferentes dispositivos</string>
+    <string name="permission_different_info_introduction">Para identificar dispositivos diferentes</string>
+    <string name="permission_direct_call">Efectuar chamadas:</string>
+    <string name="permission_direct_call_introduction">Para adicionar itens à Lista de bloqueio</string>
+    <string name="permission_download_introduction">Para armazenar em cache itens transferido e guardá-los no seu dispositivo</string>
+    <string name="permission_imei_service">Para aceder ao IMEI para fornecer serviços associados ao seu dispositivo</string>
+    <string name="permission_interaction_introduction">Para guardar fotos e vídeos no seu dispositivo</string>
+    <string name="permission_location">Aceder à localização:</string>
+    <string name="permission_location_introduction">Para fornecer serviços baseados na localização</string>
+    <string name="permission_log_introduction">Para guardar registos</string>
+    <string name="permission_login_introduction">Para iniciar sessão e gerir contas de sistema</string>
+    <string name="permission_message_introduction">Para enviar mensagens a contactos bloqueados</string>
+    <string name="permission_phone_imei_device">For accessing IMEI in order to identify devices</string>
+    <string name="permission_phone_network">For accessing network type in order to optimize and adjust downloadable items</string>
+    <string name="permission_phone_service">Aceder ao número de telefone, IMEI e IMSI:</string>
+    <string name="permission_photo_introduction">Para guardar imagens na Galeria e publicar estados</string>
+    <string name="permission_photo_video">Tirar fotos e gravar vídeos:</string>
+    <string name="permission_photo_video_introduction">Para tirar fotos, gravar vídeos e utilizar o flash</string>
+    <string name="permission_picture_introduction">Para guardar, editar e sincronizar fotos e vídeos</string>
+    <string name="permission_read_call_records">Editar o registo de chamadas:</string>
+    <string name="permission_read_call_records_introduction">Para adicionar itens ao registo de chamadas e eliminar chamadas bloqueadas</string>
+    <string name="permission_read_contacts">Aceder a contactos</string>
+    <string name="permission_read_contacts_introduction">Para verificar a sua identidade</string>
+    <string name="permission_read_message">Aceder a mensagens texto</string>
+    <string name="permission_read_message_introduction">Para verificar a propriedade do seu dispositivo</string>
+    <string name="permission_read_note_introduction">Para aceder a notas e anexos</string>
+    <string name="permission_read_write_file">Aceder e guardar ficheiros e fotos no seu dispositivo:</string>
+    <string name="permission_read_write_file_introduction">Para aceder, guardar e guardar em cache itens no seu dispositivo</string>
+    <string name="permission_recorder_file_introduction">Para aceder e guardar gravações de áudio</string>
+    <string name="permission_recording">Gravar chamadas e áudio:</string>
+    <string name="permission_recording_introduction">Para gravar áudio enquanto grava vídeos</string>
+    <string name="permission_screen_shoot_introduction">Para aceder e guardar gravações de ecrã</string>
+    <string name="permission_send_message">Enviar SMS:</string>
+    <string name="permission_user_record_introduction">Para gravar áudio</string>
+    <string name="permission_virusscan_introduction">Para fazer análises de vírus e optimizar o seu dispositivo</string>
+    <string name="permission_xunlei_introduction">Para iniciar sessão e gerir contas de sistema para fornecer serviços Xunlei</string>
+    <string name="poco_launcher_privacy_policy">Política de Privacidade do POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Termos de Utilização do POCO Launcher</string>
+    <string name="position_header">A partilhar localização</string>
+    <string name="position_subheading">Localização</string>
+    <string name="pref_title_data_slot">Cartão SIM de dados preferido</string>
+    <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="privacy_provision_more">Saber mais acerca da protecção de privacidade</string>
+    <string name="privacy_provision_summary">A protecção da privacidade é o compromisso por trás do design de nossos produtos</string>
+    <string name="privacy_provision_text">Temos o compromisso de respeitar e proteger a sua privacidade. Prioritizando a pesquisa e o desenvolvimento no campo da segurança da informação, a Xiaomi trabalha constantemente para melhorar os métodos, práticas e soluções técnicas que protegem seus dados. Também partilhamos nossas conquistas mais recentes com os nossos parceiros, a fim de garantir sua privacidade a todos os níveis</string>
+    <string name="privacy_provision_title">Privacidade</string>
+    <string name="protect_persoanl_info_statement">As suas informações pessoais ficam protegidas de acordo com as leis em vigor e com a nossa Política de Privacidade</string>
+    <string name="provision_back">Voltar</string>
+    <string name="provision_inputmethod_policy_description"><Data>Ver &lt;a href=%1$s>Política de Privacidade&lt;/a > do teclado seleccionado</Data></string>
+    <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
+    <string name="provision_next">Seguinte</string>
+    <string name="provision_skip_underline">Ignorar</string>
+    <string name="recorder_introduction">Pode utilizar esta aplicação para gravar áudio e copiar gravações para a Xiaomi Cloud</string>
+    <string name="require_authority_statement">Para nos permitir fornecer serviços básicos, necessita de conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
+    <string name="require_miuidaemon_authority_statement">Para nos permitir fornecer serviços básicos, necessita de conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
+    <string name="require_network_authority_statement">Para nos permitir fornecer serviços básicos, é necessário ligar à Internet e conceder as seguintes permissões para obtermos as suas informações pessoais:</string>
+    <string name="screen_recording_introduction">Esta aplicação permitir gravar o que está a acontecer no seu sistema</string>
+    <string name="security_introduction">Pode utilizar esta aplicação para limpar lixo no seu dispositivo, encontrar e eliminar vírus, optimizar desempenho para jogos, poupar bateria, gerir aplicações e muito mais</string>
+    <string name="security_mobile_account_introduction">Para iniciar sessão e gerir contas de sistema</string>
+    <string name="service_agreement">Eu li e concordei com os termos e condições</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+    <string name="service_name_album">Galeria</string>
+    <string name="service_name_application_package">Instalador de pacotes</string>
+    <string name="service_name_backup">Cópias</string>
+    <string name="service_name_calculator">Calculadora</string>
+    <string name="service_name_camera">Câmara</string>
+    <string name="service_name_carrier">Declaração sobre serviços da operadora</string>
+    <string name="service_name_clock">Relógio</string>
+    <string name="service_name_compass">Bússola</string>
+    <string name="service_name_content_center">Centro de conteúdos</string>
+    <string name="service_name_download">Transferências</string>
+    <string name="service_name_fast_application">Aplicações rápidas</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
+    <string name="service_name_game">Plugin de jogos</string>
+    <string name="service_name_google_service">Declaração sobre os serviços Google</string>
+    <string name="service_name_location">Serviços baseados na localização</string>
+    <string name="service_name_lockscreen">Papéis de parede aleatórios</string>
+    <string name="service_name_note">Notas</string>
+    <string name="service_name_recorder">Gravador</string>
+    <string name="service_name_screen_recording">Gravador de Ecrã</string>
+    <string name="service_name_security">Segurança</string>
+    <string name="service_name_service_framework">Serviços Mi</string>
+    <string name="service_policy">Leia e concorde com a nossa &amp;lt;a href=%1$s&amp;gt;Política de Privacidade&amp;lt;/a &amp;gt;</string>
+    <string name="service_policy_download">Antes de utilizar os nossos serviços, leia e concorde com a nossa &amp;lt;a href=%1$s&amp;gt;Política de Privacidade da Xunlei&amp;lt;/a &amp;gt;</string>
+    <string name="service_privacy_index">Política de Privacidade</string>
+    <string name="service_security_over_r">Leia e concorde com a nossa Política de Privacidade antes de utilizar Segurança.&lt;br/>&lt;br/>De acordo com os standards de Android 11, uma permissão única será removida 5 segundos após a aplicação correspondente parar de funcionar. Se abrir a aplicação durante este curto período de tempo, a permissão vai ser removida</string>
+    <string name="servicestate_title">Declaração sobre serviços básicos</string>
+    <string name="setting_locale">A definir região…</string>
+    <string name="shut_down">Desligar</string>
+    <string name="sim_card_detecting">A verificar o cartão SIM…</string>
+    <string name="sim_card_detecting_check">Não foi possível localizar o cartão SIM. Certifique-se que o cartão SIM está devidamente colocado</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Permitir a ligação a redes de dados móveis? Se permitir, o cartão SIM que inserir vai ser utilizado para ligar às redes de dados móveis</string>
+    <string name="sim_card_detecting_title">A procurar cartão SIM…</string>
+    <string name="sim_card_detection">Insira o cartão SIM</string>
+    <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo</string>
+    <string name="sim_card_detection_mobile_not_available">O cartão SIM não conseguiu ligar à rede</string>
+    <string name="sim_dectection_next">Continuar</string>
+    <string name="sim_redetection">Verifique o cartão SIM</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">O seu cartão SIM não conseguiu ligar a uma rede válida. Certifique-se que tem saldo e tente novamente</string>
+    <string name="skip_gesture_guide_dialog_message">Certifique-se que sabe utilizar os gestos de ecrã inteiro antes de seleccionar esta opção</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Cancelar</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+    <string name="skip_gesture_guide_dialog_title">Gestos de ecrã inteiro</string>
+    <string name="skip_underline">Ignorar este passo</string>
+    <string name="start_up_slogan">A vida torna-se mais fácil</string>
+    <string name="summary_not_set">Não definido</string>
+    <string name="system_navigation_mode">Modo de navegação do sistema</string>
+    <string name="terms_of_use">Termos e Condições</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fornecedor de localização, Visualizador HTML</string>
+    <string name="terms_of_use_label">"Leia os nossos Termos de Utilização e Política de Privacidade para perceber as informações que recolhemos, como as utilizamos e que escolhas estão disponíveis para si.
+Tem de concordar com os nossos  Termos de Utilização e Política de Privacidade antes de utilizar a MIUI.
+Os componentes de %s e Conta Xiaomi vão ligar à Internet e adquirir a sua localização"</string>
+    <string name="terms_of_use_label_Mistore">, Mi Store</string>
+    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_package">, Instalador de pacotes</string>
+    <string name="terms_of_use_label_phrase">, Frases frequentes</string>
+    <string name="terms_of_use_label_systemhelper">, Serviços auto-registados</string>
+    <string name="terms_of_use_label_updater">Serviço de actualização do sistema</string>
+    <string name="terms_of_use_lable_apps">Serviços Mi, Serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, Ecrã Inicial, Jogos, Assistente, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Serviços Mi, Serviços de activação de SIM Mi, Xiaomi Cloud, Localizar Dispositivo, Ecrã Inicial, Jogos, Assistente, Mi Link</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Tem de concordar com a Política de Privacidade de Facemoji para utilizar esta funcionalidade"</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+Tem de concordar com a Política de Privacidade do teclado Mint para utilizar esta funcionalidade"</string>
+    <string name="terms_of_use_lable_gms">, serviços Google Play </string>
+    <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
+    <string name="title_fingerprint">Definir bloqueio de ecrã</string>
+    <string name="title_set_fingerprint">Bloqueio de ecrã</string>
+    <string name="user_agreement">Termos de Utilização</string>
+    <string name="user_agreement_declare">Antes de utilizar a MIUI, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Enquanto o seu dispositivo está a ser activado, os serviços de activação SIM Mi, ecrã inicial, Frases frequentes e Actualizações vão ligar à Internet e aceder à sua localização</string>
+    <string name="user_agreement_declare_wifi_device">Antes de utilizar a MIUI, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Enquanto o seu dispositivo está a ser activado, os serviços de activação SIM Mi, ecrã inicial, Frases frequentes e Actualizações vão ligar à Internet e aceder à sua localização</string>
+    <string name="voice_assist_condition">"Vai poder utilizar a IA Mi nos seguintes casos:
+1. Quando o ecrã estiver ligado.
+2. Quando estiver a ouvir música com o ecrã desligado"</string>
+    <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
+    <string name="voice_assist_title">Ligar com voz</string>
+    <string name="wc_dialog_agree">Concordar</string>
+    <string name="wc_dialog_reject">Não concordar</string>
+    <string name="wc_dialog_summary">Os papéis de parede aleatórios oferecem imagens deslumbrantes e histórias emocionantes para o seu ecrã de bloqueio diariamente</string>
+    <string name="wc_dialog_title">Um ecrã de bloqueio reinventado</string>
+    <string name="wc_double_check_agree">Experimentar</string>
+    <string name="wc_double_check_reject">Não, obrigado</string>
+    <string name="wc_double_check_summary">Pode ligar os papéis de parede aleatórios se gostar. Pode sempre ligar ou desligar esta funcionalidade nas Definições > Ecrã de bloqueio</string>
+    <string name="wc_double_check_title">Experimentar papéis de parede aleatórios</string>
+    <string name="wc_notice_link_announcement_summary">Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e &lt;a href=\"%2$s\">Termos de Utilização&lt;/a> antes de utilizar esta funcionalidade</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="zone_picker_title">Escolher fuso horário</string>
+    <string name="access_non_personal_data">Se remover o consentimento ao acesso e utilização de dados, os papéis de parede aleatórios vão ser desactivados e todos os dados eliminados</string>
+    <string name="address_dialing_introduction">Pode utilizar esta aplicação para efectuar chamadas, ver o registo de chamadas e gerir contactos</string>
+    <string name="agree_cookie">Aceitar cookies</string>
+    <string name="agree_terms_input_method_facemoji">"I've read and agreed to Facemoji Privacy Policy."</string>
+    <string name="agree_terms_input_method_kika">"I've read and agreed to Kika Privacy Policy."</string>
+    <string name="agreement_declare_use_network_and_location_china">"Adicionalmente, os seguintes serviços vão ligar à rede e aceder à sua localização: "</string>
+    <string name="agreement_declare_use_network_china">vai ligar à rede</string>
+    <string name="ai_button_desc">O botão IA permite activar a Mi IA e utilizar atalhos Mi IA</string>
+    <string name="ai_button_double_press">Duplo toque</string>
+    <string name="ai_button_double_press_desc">Fazer duplo toque para concluir tarefas personalizadas</string>
+    <string name="ai_button_long_press">Premir e segurar</string>
+    <string name="ai_button_long_press_desc">Premir e segurar o botão IA para falar com Mi IA</string>
+    <string name="ai_button_single_press">Premir</string>
+    <string name="ai_button_single_press_desc">Premir o botão IA para ver os atalhos Mi IA</string>
+    <string name="ai_button_title">Botão IA</string>
+    <string name="bluetooth_introduction">Bluetooth é utilizado para comunicações sem fios. Para poder funcionar normalmente, o Bluetooth necessita das seguintes permissões:</string>
+    <string name="boot_video_replay">Reproduzir novamente</string>
+    <string name="boot_video_skip">Ignorar</string>
+    <string name="camera_application_introduction">Pode utilizar esta aplicação para tirar fotos e vídeos</string>
+    <string name="cloud_service_discount">Descontos de planos de armazenamento</string>
+    <string name="cookies_content_one">Quando tocar nas imagens nos papéis de parede aleatórios, vamos abrir as versões completas no navegador. Taboola pode recomendar conteúdo adicional baseado nos seus interesses. Se concordar em activar esta funcionalidade, Taboola vai colocar cookies no seu dispositivo via navegador, como descrito em &lt;a href =%1$s>Política de Cookies&lt;/a>. Se não aceitar a utilização de cookies, os papéis de parede aleatórios vão continuar a aparecer no seu ecrã de bloqueio, mas as recomendações adicionais não vão ser especialmente seleccionadas para si. Pode alterar isto nas Definições</string>
+    <string name="cookies_content_two">Decidir se quer utilizar cookies para personalizar recomendações baseadas nos seus interesses</string>
+    <string name="cookies_title">Cookies e conteúdo personalizados</string>
+    <string name="copy">Copiar</string>
+    <string name="data_traffic_enable_dialog_title">Se não estiver ligado ao Wi-Fi agora, o seu dispositivo vai utilizar dados móveis. Utilizar dados móveis pode gerar custos adicionais</string>
+    <string name="disagreement_application_not_working_properly">Se não concordar em conceder estas permissões, não vai poder utilizar esta aplicação</string>
+    <string name="disagreement_fast_pairing_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar esta aplicação. Pode ligar/desligar este serviço em Definições > Bluetooth > Definições adicionais > Mi Link</string>
+    <string name="disagreement_location_service_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar a localização. Pode ligar/desligar a localização em Definições > Protecção de Privacidade</string>
+    <string name="disagreement_mi_account_abnormal">Se não concordar em conceder estas permissões, não vai poder utilizar os serviços da Conta Xiaomi. Pode ligar/desligar os serviços da Conta Xiaomi em Definições > Conta Xiaomi</string>
+    <string name="disagreement_service_not_working_properly">Se não concordar em conceder estas permissões, não vai poder utilizar esta aplicação</string>
+    <string name="disagreement_terminate_bluetooth">Se não concordar em conceder estas permissões, não vai poder utilizar o Bluetooth. Pode ligar/desligar o Bluetooth e adicionar dispositivos nas Definições</string>
+    <string name="exclusive_member_merchandise">Mercadoria exclusiva</string>
+    <string name="expand_button_title">Avançado</string>
+    <string name="ims_introduction">O serviço IMS fornece comunicações básicas e é utilizado para áudio de alta definição e videochamadas</string>
+    <string name="interconnection_communication_introduction">O serviço de Internet Xiaomi permite descobrir, ligar e comunicar com outros dispositivos Xiaomi</string>
+    <string name="ktlocation_U">(agente de serviço KT)</string>
+    <string name="ktposition_header">Partilhar localização com agências de resgate</string>
+    <string name="member_exclusive_medal">Emblema de membro</string>
+    <string name="membership_rights_tip">Iniciar sessão na sua Conta Xiaomi para obter benefícios exclusivos</string>
+    <string name="message_introduction">Pode utilizar esta aplicação para enviar e receber SMS</string>
+    <string name="not_set">Não definido</string>
+    <string name="other_settings_ad_dialog_content_for_global">Quando as recomendações de anúncios personalizadas estão desligadas, vai ver a mesma quantidade de anúncios nas aplicações MIUI como se a funcionalidade estivesse ligada. Os anúncios apenas não vão ser relevantes porque não vão ser baseados nas suas preferências pessoais</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Um olhar para Mi</string>
+    <string name="permission_access_calendar">Aceder ao calendário</string>
+    <string name="permission_access_calendar_fast_application_summary">Para permitir que as aplicações rápidas acedam ao calendário</string>
+    <string name="permission_call_records_describe_bluetooth_summary">Para permitir que outros dispositivos compatíveis ligados possam aceder ao registo de chamadas. Isto apenas vai acontecer quando for necessário utilizar o registo de chamadas via outro dispositivo. O registo de chamadas e contactos partilhados pelo sistema via Bluetooth apenas vão ser guardados localmente e partilhados com a sua permissão</string>
+    <string name="permission_contact_describe">Aceder aos contactos</string>
+    <string name="permission_contact_describe_MIUIDaemon_summary">Para verificar a sua identidade</string>
+    <string name="permission_contact_describe_bluetooth_summary">Para permitir que outros dispositivos compatíveis ligados possam aceder aos contactos. Isto apenas vai acontecer quando ligar o Bluetooth ou editar os seus contactos com o Bluetooth ligado</string>
+    <string name="permission_contact_describe_desktop_summary">Para utilizar os contactos de emergência do ecrã inicial no Modo Leve e mostrar as notificações das conversas</string>
+    <string name="permission_contact_describe_message_summary">Para mostrar as informações de contacto das SMS e MMS</string>
+    <string name="permission_device">Aceder às informações do dispositivo</string>
+    <string name="permission_device_desktop_summary">Para aceder às informações do dispositivo (p.e. nome da operadora)</string>
+    <string name="permission_device_fast_pairing_summary">Para aceder ao estado do dispositivo e comunicar para dispositivos</string>
+    <string name="permission_device_message_summary">Para enviar e receber SMS e MMS</string>
+    <string name="permission_device_mi_account_summary">Para garantir a segurança do início de sessão</string>
+    <string name="permission_fast_pairing">Para poder localizar dispositivos próximos, Mi Link necessita de ligar à Internat e necessita das seguintes permissões:</string>
+    <string name="permission_location_describe">Aceder à localização</string>
+    <string name="permission_location_describe_desktop_summary">Para aceder aos nomes de rede Wi-Fi</string>
+    <string name="permission_location_describe_fast_application_summary">Para permitir que as aplicações rápidas acedam à sua localização</string>
+    <string name="permission_location_describe_fast_pairing_summary">Para mostrar a bateria consumida pelos dispositivos Bluetooth</string>
+    <string name="permission_location_describe_interconnection_communication_summary">Para aceder à sua localização para fornecer serviços utilizando Bluetooth ou Wi-Fi</string>
+    <string name="permission_location_describe_location_summary">Para aceder à sua localização exacta para fornecer serviços baseados na localização</string>
+    <string name="permission_make_a_call">Efectuar chamadas</string>
+    <string name="permission_make_a_call_fast_application_summary">Para permitir que as aplicações rápidas efectuem chamadas</string>
+    <string name="permission_read_app_list">Aceder à lista de aplicações instaladas neste dispositivo</string>
+    <string name="permission_read_application_list_summary">Para actualizar aplicações transferidas e confirmar informações utilizadas pelo instalador de pacotes</string>
+    <string name="permission_read_device_store">Aceder ao armazenamento</string>
+    <string name="permission_read_device_store_summary">Para aceder a ficheiros de configuração transferidos</string>
+    <string name="permission_read_send_message">Enviar e receber SMS</string>
+    <string name="permission_read_send_message_fast_application_summary">Para permitir que as aplicações rápidas enviem e recebam SMS</string>
+    <string name="permission_read_send_message_sim_activation_summary">Para enviar e receber SMS de activação</string>
+    <string name="permission_read_send_message_summary">Para receber, ver e enviar SMS</string>
+    <string name="permission_read_send_multimedia_message">Enviar e receber MMS</string>
+    <string name="permission_read_send_multimedia_message_summary">Para receber, ver e enviar MMS</string>
+    <string name="permission_read_write_call_log">Aceder e editar o registo de chamadas</string>
+    <string name="permission_read_write_call_log_summary">Para mostrar e editar o registo de chamadas</string>
+    <string name="permission_read_write_contacts">Aceder e editar contactos</string>
+    <string name="permission_read_write_contacts_fast_application_summary">Para permitir que as aplicações rápidas acedam e editem contactos</string>
+    <string name="permission_read_write_contacts_summary">Para ver e gerir contactos</string>
+    <string name="permission_read_write_device_store">Aceder e guardar itens no armazenamento</string>
+    <string name="permission_read_write_device_store_album_summary">Para armazenar, mostrar, editar, sincronizar e transferir as suas fotos e vídeos</string>
+    <string name="permission_read_write_device_store_application_package_summary">Para verificar pacotes de instalação</string>
+    <string name="permission_read_write_device_store_camera_summary">Para guardar ficheiros após tirar fotos ou vídeos</string>
+    <string name="permission_read_write_device_store_download_summary">Para fazer cache, aceder e gerir conteúdos transferidos</string>
+    <string name="permission_read_write_device_store_fast_application_summary">Para permitir que as aplicações rápidas acedam e editem ficheiros</string>
+    <string name="permission_read_write_phone_store">Para aceder e guardar itens do armazenamento</string>
+    <string name="permission_read_write_phone_store_summary">Para aceder e guardar itens do ecrã inicial</string>
+    <string name="permission_use_camera">Aceder à câmara</string>
+    <string name="permission_use_camera_camera_summary">Para tirar fotos, gravar vídeos e utilizar o flash</string>
+    <string name="permission_use_camera_desktop_summary">Para determinar se suporta a lanterna</string>
+    <string name="permission_use_camera_fast_application_summary">Para permitir que as aplicações rápidas acedam à câmara</string>
+    <string name="permission_use_camera_ims_summary">Para efectuar videochamadas</string>
+    <string name="permission_use_microphone">Aceder ao microfone</string>
+    <string name="permission_use_microphone_camera_summary">Para gravar áudio enquanto grava vídeos</string>
+    <string name="permission_use_microphone_desktop_summary">Para mostrar o estado da gravação</string>
+    <string name="permission_use_microphone_fast_application_summary">Para permitir que as aplicações rápidas tenham acesso ao microfone</string>
+    <string name="permission_write_device_store">Guardar itens no armazenamento</string>
+    <string name="permission_write_device_store_summary">Para fazer cache de ficheiros de configuração</string>
+    <string name="poco_agree_terms_other">(incluindo Política de Privacidade e Termos de Utilização de POCO Launcher)</string>
+    <string name="preinstall_tips">A preparar…</string>
+    <string name="privacy_content_one">Os papéis de parede aleatórios são fornecidos por Taboola. Para fornecer este conteúdo, Taboola necessita de aceder e armazenar dados do seu dispositivo, incluindo o idioma de sistema. Pode saber como Taboola utiliza os dados em &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Termos de Utilização&lt;/a>. Leia e concorde com os termos e condições antes de continuar. Se não concordar, os papéis de parede aleatórios vão ser desactivados</string>
+    <string name="privacy_refuse">Não concordar</string>
+    <string name="privacy_title">Termos e Política de Privacidade</string>
+    <string name="refuse_cookie">Rejeitar cookies</string>
+    <string name="require_authority_list_statement">Para poder funcionar normalmente, este serviço necessita das seguintes permissões:</string>
+    <string name="require_network_and_authority_statement">Para poder funcionar normalmente, este serviço necessita de ligar à Internet e das seguintes permissões:</string>
+    <string name="require_network_authority_statement_dual">Para poder funcionar normalmente, este serviço necessita de ligar à Internet e das seguintes permissões:</string>
+    <string name="service_company_adjust_content">Xunlei Network Services User Agreement</string>
+    <string name="service_fast_pairing_policy"><Data>Ler e concordar com &lt;a href=%1$s>Política de Privacidade Mi Link&lt;/a > antes de continuar</Data></string>
+    <string name="service_interconnection_communication">Serviços de Internet Xiaomi</string>
+    <string name="service_location_share_policy"><Data>Ler e concordar com &lt;a href=%1$s>Declaração de Privacidade dos Serviços de Localização&lt;/a > antes de continuar</Data></string>
+    <string name="service_mi_account">Conta Xiaomi</string>
+    <string name="service_name_address_dialing">Contactos e telefone</string>
+    <string name="service_name_bluetooth">Bluetooth</string>
+    <string name="service_name_ims">Serviço IMS</string>
+    <string name="service_name_message">Mensagens</string>
+    <string name="service_name_systemdesktop">Plugin de ecrã inicial</string>
+    <string name="service_policy_adjust_content">Xunlei Privacy Policy</string>
+    <string name="service_sim_activation">Activação cartão SIM</string>
+    <string name="sim_activation_introduction">A activação do cartão SIM verifica as informações do cartão para certificar que os serviços MIUI podem funcionar normalmente. Este serviços incluem Localizar Dispositivo, Mi Message, criar Conta Xiaomi e sincronizar mensagens e histórico de chamadas</string>
+    <string name="sim_card_dial_card1">SIM 1 para chamadas</string>
+    <string name="sim_card_dial_card2">SIM 2 para chamadas</string>
+    <string name="sim_card_do_not_select_dial_card">Seleccionar cartão SIM para chamadas</string>
+    <string name="sim_card_network_card1">Dados SIM 1</string>
+    <string name="sim_card_network_card2">Dados SIM 2</string>
+    <string name="systemdesktop_introduction">O plugin do ecrã inicial fornece as funcionalidades básicas tais como ecrã inicial, IU de sistema e capturas de ecrã</string>
+    <string name="term_condition_detail">Obter imagens fantásticas e histórias excitantes no seu ecrã de bloqueio diariamente. Esta funcionalidade não vai utilizar os seus dados sem o seu consentimento. Leia e concorde com &lt;a href =%1$s>Política de Privacidade&lt;/a> e &lt;a href =%2$s>Termos de Utilização&lt;/a> de terceiros antes de utilizar esta funcionalidade</string>
+    <string name="terms_of_use_label_MSA">MSA</string>
+    <string name="terms_of_use_label_RMS">Gestor de permissões</string>
+    <string name="terms_of_use_label_ai_assistant">Assistente IA</string>
+    <string name="terms_of_use_label_app_vault">Assistente</string>
+    <string name="terms_of_use_label_back">Serviço de cópias</string>
+    <string name="terms_of_use_label_ble">Fornecedor de localização</string>
+    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+    <string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Service</string>
+    <string name="terms_of_use_label_finddevice">Localizar Dispositivo</string>
+    <string name="terms_of_use_label_game">Jogos</string>
+    <string name="terms_of_use_label_home">Ecrã inicial</string>
+    <string name="terms_of_use_label_htmlViewer">Visualizador HTML</string>
+    <string name="terms_of_use_label_htmlviewer">Visualizador HTML</string>
+    <string name="terms_of_use_label_info_assistant">Mi Link</string>
+    <string name="terms_of_use_label_joyose">Joyose</string>
+    <string name="terms_of_use_label_landscape">landscape view optimization functionality</string>
+    <string name="terms_of_use_label_mi_account">Componentes da Conta Xiaomi</string>
+    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
+    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_os">Definições OS IA</string>
+    <string name="terms_of_use_label_parallel_windows">Janelas paralelas</string>
+    <string name="terms_of_use_label_power_detection">Detector de bateria</string>
+    <string name="terms_of_use_label_power_performance">Bateria e desempenho</string>
+    <string name="terms_of_use_label_quickapp">Aplicações rápidas</string>
+    <string name="terms_of_use_label_secure">Aplicações de segurança</string>
+    <string name="terms_of_use_label_simcard">Activação de serviços SIM</string>
+    <string name="terms_of_use_label_smart_service">Serviços inteligentes</string>
+    <string name="terms_of_use_label_statistics">Estatísticas</string>
+    <string name="terms_of_use_label_translation">Serviços de tradução</string>
+    <string name="terms_of_use_label_unionplay_security">Segurança UnionPay TSM (versão Xiaomi)</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Antes de utilizar a MIUI, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Vamos proteger as suas informações pessoais de acordo com as nossas políticas de privacidade. Quando o seu dispositivo for activado, os seguintes serviços vão ligar à rede e aceder à sua localização:</string>
+    <string name="terms_of_use_label_use_network_china">Antes de utilizar a MIUI, tem de ler e concordar com os nossos Termos de Utilização e Política de Privacidade. Vamos proteger as suas informações pessoais de acordo com as nossas políticas de privacidade. Quando o seu dispositivo for activado, os seguintes serviços vão ligar à rede e aceder à sua localização</string>
+    <string name="terms_of_use_label_wallpaper">Papel de parede</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+You must agree to Kika Privacy Policy before using this feature."</string>
+    <string name="terms_of_use_lable_vsimcore">MConnService</string>
+    <string name="terms_of_use_lable_xmsf">Framework Xiaomi</string>
+    <string name="terms_privacy_policy_input_method_facemoji">Facemoji Privacy Policy</string>
+    <string name="terms_privacy_policy_input_method_kika">Kika Privacy Policy</string>
+    <string name="trade_in">Trocas</string>
+    <string name="voice_assist_advice">A Mi IA permite utilizar os controlos de voz, mas consome mais bateria (+1% a cada hora)</string>
+    <string name="withdraw_consent">Se remover o consentimento, os papéis de parede aleatórios vão ser desactivados</string>
+    <string name="activate_esim_tips">Não foi possível activar. Tente novamente</string>
+    <string name="activating_esim_tips">A activar…</string>
+    <string name="bluetooth_usage_desc">A configuração inicial permite definir as preferências básicas para este dispositivo. Para configurar o seu dispositivo, os serviços Bluetooth vão utilizar as seguintes permissões:</string>
+    <string name="enable_or_disable_bluetooth">A ligar/desligar o Bluetooth</string>
+    <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
+    <string name="item_facerecognition">Desbloqueio facial</string>
+    <string name="miui_provision">Configuração inicial</string>
+    <string name="multisim_settings_sb_title">Cartão SIM %d detectado</string>
+    <string name="other_settings_quality_service">Permissões MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon é utilizado para melhorar a estabilidade e desempenho do sistema. Para poder funcionar normalmente, este serviço necessita de permissões para aceder e guardar itens no armazenamento</string>
+    <string name="permission_enable_disable_bluetooth_summary">Para localizar dispositivos próximos para ligar e transferir dados</string>
+    <string name="sim_card_detection_info_sb">"Inserir um cartão SIM antes de continuar. Localizar Dispositivo e funcionalidades de sincronização não vão estar disponíveis se não criar uma conta sem um cartão SIM. Este dispositivo suporta eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Tocar para activar eSIM</string>
+    <string name="sim_card_detection_sb_esim">Activar eSIM</string>
+    <string name="sim_card_detection_sb_nonactivated">Não activado</string>
+    <string name="sim_card_dial_card">SIM %d para chamadas</string>
+    <string name="sim_card_network_card">SIM %d para dados</string>
+    <string name="carousel_cookies_content"><Data>When you tap images and stories in Wallpaper Carousel, their full versions will be opened in your browser. Our trusted third party content provider can then recommend additional content and ads that are tailored to your interests. If you agree to activate this feature, they will place cookies in your browser, as described in this &lt;a href=\"%1$s\">Cookie Policy&lt;/a>. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.</Data></string>
+    <string name="carousel_cookies_subtitle">Cookies allow us to personalize your Lock screen experience.</string>
+    <string name="carousel_cookies_title">Personalized content and cookies</string>
+    <string name="carousel_privacy"><Data>"Read and agree to our trusted third party service provider's &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before using Wallpaper Carousel."</Data></string>
+    <string name="carousel_setting">Set up your Lock screen</string>
+    <string name="carousel_setting_sub">Wallpaper Carousel will show you fresh stories every time you unlock your device</string>
+    <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+    <string name="create_shortcut">Home screen shortcut</string>
+    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
+To be able to work normally, these service need to connect to the internet and require the following permissions:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For transferring items over Wi-Fi
+\u0009\u0009Record audio
+\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
+\u0009\u0009Access storage
+\u0009\u0009For transferring and receiving files wirelessly
+\u0009\u0009Mi Share:
+\u0009\u0009Access and save files and photos on your device
+\u0009\u0009For transferring and receiving files wirelessly
+\u0009\u0009Access location
+\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For finding devices nearby and transferring files wirelessly
+\u0009\u0009Connect to nearby devices
+\u0009\u0009For finding devices nearby and connecting to them
+\u0009\u0009Casting:
+\u0009\u0009Turn Bluetooth on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Turn Wi-Fi on and off
+\u0009\u0009For finding devices nearby
+\u0009\u0009Access location
+\u0009\u0009For getting the info about nearby devices
+\u0009\u0009Record audio
+\u0009\u0009For transferring audio playback to connected during casting
+If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
+Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
+</resources>

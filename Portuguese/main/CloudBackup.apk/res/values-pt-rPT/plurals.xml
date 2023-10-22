@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">Cópias: %1$s (%2$s)</item>
+        <item quantity="one">Cópias: %1$s (%2$s)</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d aplicações neste dispositivo</item>
+        <item quantity="one">%d aplicação neste dispositivo</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Prioridade normal: %d aplicações</item>
+        <item quantity="one">Prioridade normal: %d aplicação</item>
+    </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">Prioridade alta: %d aplicações</item>
+        <item quantity="one">Prioridade alta: %d aplicação</item>
+    </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d aplicações copiadas</item>
+        <item quantity="one">%d aplicação copiada</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d aplicações restauradas</item>
+        <item quantity="one">%d aplicação restaurada</item>
+    </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">%s minutos restantes</item>
+        <item quantity="one">%s minuto restantes</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Não foi possível sincronizar %s itens</item>
+        <item quantity="one">Não foi possível sincronizar %s item</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Não faz uma cópia há %s semanas. Crie cópias para não perder nada importante</item>
+        <item quantity="one">Não faz uma cópia há %s semana. Crie cópias para não perder nada importante</item>
+    </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">Não faz uma cópia há %s semanas. Toque para saber como ligar as cópias automáticas</item>
+        <item quantity="one">Não faz uma cópia há %s semana. Toque para saber como ligar as cópias automáticas</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nunca desactivar para %d aplicações</item>
+        <item quantity="one">Nunca desactivar para %d aplicação</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Desactivar sempre para %d aplicações</item>
+        <item quantity="one">Desactivar sempre para %d aplicação</item>
+    </plurals>
+</resources>

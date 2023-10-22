@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>Email</item>
+        <item>Organização</item>
+        <item>IM</item>
+        <item>Telefone SIP</item>
+        <item>Aniversário</item>
+        <item>Site</item>
+        <item>Endereço</item>
+        <item>Nota</item>
+        <item>Relação</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Mensagens de promoções de %s</item>
+        <item>Mensagens de serviço da operadora de %s</item>
+        <item>Mensagens financeiras de %s</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Máximo</item>
+        <item>Dois dias</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Não definido</item>
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 dia</item>
+        <item>Máximo</item>
+    </string-array>
+    <string-array name="message_sending_method">
+        <item>Serviço de mensagens proposto</item>
+        <item>SMS, MMS</item>
+        <item>Conversas RCS, Transferências de ficheiros RCS</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Apenas em modo Silêncio</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Enviar sempre como link SMS</item>
+        <item>Nunca enviar como link SMS</item>
+        <item>Perguntar sempre</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Enviar sempre como SMS</item>
+        <item>Nunca enviar como SMS</item>
+        <item>Perguntar sempre</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>Perguntar sempre</item>
+        <item>Nunca redimensionar</item>
+        <item>Redimensionar sempre e guardar como valor predefinido</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>Perguntar sempre</item>
+        <item>Nunca redimensionar</item>
+        <item>Redimensionar sempre e guardar como valor predefinido</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Message</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Message</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mi Message</item>
+        <item>CMCC SMS Inteligentes</item>
+    </string-array>
+</resources>

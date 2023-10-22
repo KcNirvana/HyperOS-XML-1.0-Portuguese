@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animation_rate_entries">
+        <item>Descontraído</item>
+        <item>Equilibrado</item>
+        <item>Rápido</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Papel parede</item>
+        <item>Widgets</item>
+        <item>Definições</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predefinido</item>
+        <item>Clássico</item>
+    </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>Nenhuma</item>
+        <item>Deslizar para cima</item>
+        <item>Barra de pesquisa</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Deslizar</item>
+        <item>Desvanecer</item>
+        <item>Moinho</item>
+        <item>Página</item>
+        <item>Cascata</item>
+        <item>Rotação</item>
+        <item>Cubo 3D</item>
+    </string-array>
+</resources>
