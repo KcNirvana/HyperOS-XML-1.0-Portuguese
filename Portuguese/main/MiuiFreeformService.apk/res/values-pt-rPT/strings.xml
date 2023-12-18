@@ -43,15 +43,86 @@
     <string name="freeform_demo_title_skip">Ignorar</string>
     <string name="freeform_guide_dialog_freeform_controller_summary">"Drag a floating window by its upper edge to move it around
 or tap to view more options"</string>
+    <string name="freeform_guide_dialog_freeform_resize_summary">Drag lower corners to resize</string>
+    <string name="freeform_guide_dialog_freeform_title">Floating windows</string>
+    <string name="freeform_guide_dialog_split_double_summary">"Swipe up from the bottom middle
+of the screen to close both apps"</string>
+    <string name="freeform_guide_dialog_split_single_summary">"Swipe up from the bottom middle
+of an app to close it"</string>
+    <string name="freeform_guide_dialog_split_title">Ecrã dividido</string>
+    <string name="freeform_guide_dialog_start_button">Iniciar</string>
+    <string name="freeform_guide_dialog_step_button">Seguinte</string>
+    <string name="freeform_guide_drag_fullscreen_title">Drag to switch to fullscreen mode</string>
+    <string name="freeform_guide_drag_split_title">Drag to switch to Split screen or fullscreen mode</string>
+    <string name="freeform_guide_drag_summary">Drag windows to specified areas to switch between display modes</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">Press and hold, and then pull down the action bar of a floating window</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Viewing floating windows in fullscreen mode</string>
+    <string name="freeform_guide_free_drag_summary">Drag text, images, or files between the different windows of supported apps.</string>
+    <string name="freeform_guide_free_drag_title">Drag items across windows</string>
+    <string name="freeform_guide_free_drag_title_phone">Drag to copy to other apps</string>
+    <string name="freeform_guide_how_to_free_drag_summary_phone">Press and hold the image and drag it to another app</string>
+    <string name="freeform_guide_move_and_close_summary">Drag the window by its upper edge to move it around or tap there to close it</string>
+    <string name="freeform_guide_move_and_close_title">Moving and closing floating windows</string>
+    <string name="freeform_guide_move_summary">Press and hold the action bar of a floating window to drag</string>
+    <string name="freeform_guide_move_title">Moving floating windows around</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">Drag the floating window to the corner of the screen</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">Minimizing floating windows</string>
+    <string name="freeform_guide_multiple_window_settings_summary">You can open new windows in supported apps by tapping the action bar</string>
+    <string name="freeform_guide_multiple_window_summary">"Press and hold an app icon on the dock to open a new window.
+*This feature works with Notes, Mail, Browser, and WPS."</string>
+    <string name="freeform_guide_multiple_window_title">Open multiple windows</string>
+    <string name="freeform_guide_notification_drop_down_summary">Press and hold, and then pull down the action bar of a notification</string>
+    <string name="freeform_guide_notification_drop_down_title">Opening floating windows</string>
+    <string name="freeform_guide_replace_and_close_split_summary">Close one or both windows in Split screen</string>
+    <string name="freeform_guide_replace_and_close_split_title">Close windows in Split screen</string>
+    <string name="freeform_guide_resize_pad_summary">Drag the corner to switch to a floating window and adjust its size</string>
+    <string name="freeform_guide_resize_pad_title">Resizing windows</string>
+    <string name="freeform_guide_resize_summary">Drag windows by their corners to resize them</string>
+    <string name="freeform_guide_resize_title">Resizing windows</string>
+    <string name="freeform_guide_settings">Floating windows</string>
+    <string name="freeform_guide_slide_to_small_freeform_settings_summary">"Press and hold the bottom of the window, and drag it to the upper right corner.
+This feature works only when system navigation is set to gestures."</string>
+    <string name="freeform_guide_slide_to_small_freeform_settings_summary_squarehot">"Press and hold the bottom of the window, and drag it to the upper edge of the screen.
+This feature works only when system navigation is set to gestures."</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Drag the corner to minimize an app</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Drag the corner to minimize an app</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Press and hold the bottom of the window, and drag it to the upper edge of the screen.
+This feature works only when system navigation is set to gestures."</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimize an app</string>
+    <string name="freeform_guide_slide_up_to_close_summary">Swipe up from the action bar of a floating window</string>
+    <string name="freeform_guide_slide_up_to_close_title">Closing floating windows</string>
+    <string name="freeform_guide_split_screen_combination_fold">Split screen combination</string>
+    <string name="freeform_guide_split_screen_combination_settings_fold">Split screen combination</string>
+    <string name="freeform_guide_split_screen_combination_summary">Press and hold a Split screen preview in Recents to create a shortcut for the combination</string>
+    <string name="freeform_guide_split_screen_combination_summary_fold">Create shortcuts for Split screen combinations using app dock on inner screen</string>
+    <string name="freeform_guide_split_screen_combination_summary_pad">Create shortcuts for Split screen combinations using app dock</string>
+    <string name="freeform_guide_split_screen_combination_title">Split screen combination</string>
+    <string name="freeform_guide_tip_controller">Tocar para abrir uma nova janela</string>
+    <string name="freeform_guide_tip_dock">Drag to the center to open in a floating window</string>
+    <string name="freeform_guide_tip_dock_browser">Premir e segurar para abrir uma nova janela</string>
+    <string name="freeform_guide_tip_dock_email">Premir e segurar para abrir uma nova janela</string>
+    <string name="freeform_guide_tip_dock_note">Premir e segurar para abrir uma nova janela</string>
+    <string name="freeform_guide_tip_dock_wps">Premir e segurar para abrir uma nova janela</string>
+    <string name="freeform_guide_tip_down">Press and hold the action bar and then swipe up to close</string>
+    <string name="freeform_guide_tip_notification">Pull down to open in a floating window</string>
+    <string name="freeform_guide_tip_pin">Press and hold the action bar and then quickly drag the window to the edge to minimize it</string>
+    <string name="freeform_guide_tip_pin_up">Drag inwards to open in a floating window</string>
+    <string name="freeform_guide_tip_sidebar">"Press and hold,
+then drag to move"</string>
+    <string name="freeform_guide_tip_sidedock">Swipe outwards to show dock</string>
+    <string name="freeform_guide_tip_split">Drag to the side to switch to Split screen</string>
+    <string name="freeform_guide_tip_window_top">To minimize the window, press and hold the top of the window, then quickly drag it to the edge of the screen</string>
+    <string name="freeform_guide_to_sidehide_settings_summary">Quickly drag the app to the side of the screen to hide it</string>
     <string name="freeform_guide_to_sidehide_summary">Arrastar rapidamente a janela para a lateral do ecrã</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Quickly drag the app to side of the screen to hide it</string>
     <string name="freeform_guide_to_sidehide_title">Ocultar janelas flutuantes</string>
-    <string name="freeform_slide_to_small_freeform">Minimizar janelas flutuantes</string>
-    <string name="freeform_slide_to_small_freeform_summary">Premir e deslizar para um canto</string>
     <string name="freeform_guide_vedio_description">Tocar numa aplicação na barra lateral para a abrir numa janela flutuante</string>
     <string name="freeform_recommend_open_switch_summary">Receber sugestões para abrir aplicações no modo ecrã dividido ou janelas flutuantes</string>
     <string name="freeform_recommend_open_switch_summary_fold">Nalguns cenários, as aplicações recomendadas vão ser abertas numa janela flutuante no ecrã externo ou numa janela flutuante/ecrã dividido no ecrã interno</string>
     <string name="freeform_recommend_open_switch_summary_phone">Nalguns cenários, as aplicações recomendadas vão ser abertas numa janela flutuante</string>
     <string name="freeform_recommend_open_switch_title">Sugestões inteligentes</string>
+    <string name="freeform_slide_to_small_freeform">Minimizar janelas flutuantes</string>
+    <string name="freeform_slide_to_small_freeform_summary">Premir e deslizar para um canto</string>
     <string name="freeform_vedio_description">"· Premir e segurar e depois puxar para baixo a notificação para a abrir numa janela flutuante.
 · Tocar em \"Janelas flutuantes\" em Recentes para seleccionar aplicações"</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante.
@@ -62,7 +133,13 @@ or tap to view more options"</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Premir e segurar a parte inferior da janela e mover para o canto superior direito</string>
     <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Deslizar desde o fundo até ao topo do ecrã</string>
     <string name="gd_setting_title">Barra lateral</string>
+    <string name="gesture_fullscreen_to_splitscreen">Trocar para ecrã dividido</string>
+    <string name="gesture_split_left_to_right_summary">Deslizar para a direita com 3 dedos</string>
+    <string name="gesture_split_right_to_left_summary">Deslizar para a esquerda com 3 dedos</string>
+    <string name="gesture_to_split_screen">Gestos</string>
     <string name="how_to_close_or_fullscreen_freeform">Fechar janelas flutuantes ou trocar para o modo ecrã inteiro</string>
+    <string name="how_to_create_split_screen_combination">Create a Split screen combination</string>
+    <string name="how_to_create_split_screen_combination_summary">Premir e segurar a combinação e adicionar ao ecrã inicial</string>
     <string name="how_to_drop_down_to_fullscreen">Trocar para o modo ecrã inteiro</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Premir, segurar e puxar para baixo a barra duma janela flutuante</string>
     <string name="how_to_hang_freeform">Minimizar janelas flutuantes</string>
@@ -76,12 +153,24 @@ or tap to view more options"</string>
     <string name="how_to_open_freeform">Abrir notificações numa janela flutuante</string>
     <string name="how_to_slide_up_to_close">Fechar a janela flutuante</string>
     <string name="how_to_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
+    <string name="how_to_split_screen_combination">Combinação de ecrã dividido</string>
+    <string name="how_to_split_screen_combination_summary_pad">Create shortcuts for Split screen combinations using app dock</string>
     <string name="how_to_use_freeform">Como utilizar as janelas flutuantes</string>
     <string name="miui_bubbles_notification">Bolhas de conversa</string>
     <string name="miui_bubbles_notification_status_opened">Ligado</string>
+    <string name="miui_desktop_mode_settings">Trabalho</string>
+    <string name="miui_desktop_mode_settings_title">Trabalho</string>
+    <string name="miui_desktop_mode_video_description">Tap app icons on the dock to open apps in floating windows. You can toggle Workstation mode on and off in Control center.</string>
+    <string name="more">Mais</string>
     <string name="multi_window_cvw_summary">Arrastar o canto para trocar para uma janela flutuante e ajustar o seu tamanho</string>
     <string name="multi_window_cvw_summary_global">Arrastar o canto para trocar para uma janela flutuante e ajustar o seu tamanho</string>
     <string name="multi_window_cvw_title">Janelas flutuantes</string>
     <string name="operation_guide_settings_title">Como utilizar as janelas flutuantes</string>
     <string name="operation_guide_title">Tutoriais</string>
+    <string name="other_advanced_settings">Definições adicionais</string>
+    <string name="other_operations_title">Outros tutoriais</string>
+    <string name="pin_toast">Slide up from the bottom of the screen and pause to unpin this app</string>
+    <string name="pin_toast_nav">Press and hold the back and preview buttons to unpin this app</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Swipe horizontally on inner screen with three fingers to open Split screen</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Swipe horizontally with three fingers to open Split screen</string>
 </resources>
