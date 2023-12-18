@@ -5622,11 +5622,6 @@ O seu dispositivo está %s mais rápido agora"</string>
     <string name="gb_predownload_receive_error">Ocorreu um erro de rede. Tente novamente</string>
     <string name="gb_predownload_receive_max">"Can't get more rewards on this device"</string>
     <string name="gb_predownload_receiving">A receber…</string>
-    <string name="global_dock_guide_desc_with_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante
-· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para utilizar o ecrã dividido
-· Premir e segurar o indicador para mover a janela"</string>
-    <string name="global_dock_guide_desc_without_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante
-· Premir e segurar o indicador para mover a janela"</string>
     <string name="bh_buy_order_fail_tips_text">An error occurred. Wait a minute or two and try again.</string>
     <string name="bh_charge_for_more">More</string>
     <string name="bh_charge_record">Purchase history</string>
