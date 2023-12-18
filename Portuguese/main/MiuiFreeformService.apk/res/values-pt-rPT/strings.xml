@@ -3,7 +3,35 @@
     <string name="app_name">Janelas flutuantes</string>
     <string name="bottom_bar_smallwindow_drag_text">Arrastar para aqui para fixar</string>
     <string name="bottom_bar_smallwindow_text">Soltar para fixar</string>
+    <string name="bubble_app_empty_page">Não foi possível localizar aplicações que suportem as bolhas de conversa</string>
+    <string name="bubble_app_manage">Gerir bolhas de conversas</string>
+    <string name="bubble_notification">Bolhas de conversas</string>
+    <string name="bubble_notification_switch">Mostrar bolhas de conversas</string>
+    <string name="bubble_notification_switch_desc">Quando uma aplicação de mensagens estiver numa janela flutuante oculta, mostrar as mensagens recebidas em bolhas</string>
     <string name="contentDescription">Mover a janela</string>
+    <string name="desktop_btn_cancel">Cancelar</string>
+    <string name="desktop_btn_continue">Iniciar</string>
+    <string name="desktop_mode_guide_summary">O modo trabalho permite abrir várias aplicações em janelas flutuantes ao abrir através da doca de aplicações</string>
+    <string name="desktop_mode_guide_title">Trabalho</string>
+    <string name="dock_location_left">Esquerda</string>
+    <string name="dock_location_right">Direita</string>
+    <string name="dock_location_title">Localização da doca de aplicações</string>
+    <string name="flashback_background_start_switch_summary">Generate flashcards with key info automatically when apps are running in the background</string>
+    <string name="flashback_background_start_switch_title">Generate flashcards automatically</string>
+    <string name="flashback_baidu_map_summary">Show route</string>
+    <string name="flashback_didi_summary">Show ride info</string>
+    <string name="flashback_meituan_summary">Show delivery info</string>
+    <string name="flashback_meituan_waimai_summary">Show delivery info</string>
+    <string name="flashback_open_switch_summary">Show key info when apps are displayed as floating windows</string>
+    <string name="flashback_open_switch_title">App flashcards</string>
+    <string name="flashback_shansong_summary">Show delivery progress</string>
+    <string name="flashback_status_close">Off</string>
+    <string name="flashback_status_open">On</string>
+    <string name="flashback_summary">Show key info when apps are displayed as floating windows</string>
+    <string name="flashback_support_apps_title">Available apps</string>
+    <string name="flashback_title">App flashcards</string>
+    <string name="flashback_wangzhe_summary">Show resurrection countdown</string>
+    <string name="fold_screen_settings">Features for foldable devices</string>
     <string name="freeform_demo_back">Voltar</string>
     <string name="freeform_demo_final_over">Concluído</string>
     <string name="freeform_demo_final_restart">Começar do início</string>
@@ -13,13 +41,27 @@
     <string name="freeform_demo_previous_tutorial">Voltar</string>
     <string name="freeform_demo_title_finish">Fixe!</string>
     <string name="freeform_demo_title_skip">Ignorar</string>
+    <string name="freeform_guide_dialog_freeform_controller_summary">"Drag a floating window by its upper edge to move it around
+or tap to view more options"</string>
     <string name="freeform_guide_to_sidehide_summary">Arrastar rapidamente a janela para a lateral do ecrã</string>
     <string name="freeform_guide_to_sidehide_title">Ocultar janelas flutuantes</string>
     <string name="freeform_slide_to_small_freeform">Minimizar janelas flutuantes</string>
     <string name="freeform_slide_to_small_freeform_summary">Premir e deslizar para um canto</string>
+    <string name="freeform_guide_vedio_description">Tocar numa aplicação na barra lateral para a abrir numa janela flutuante</string>
+    <string name="freeform_recommend_open_switch_summary">Receber sugestões para abrir aplicações no modo ecrã dividido ou janelas flutuantes</string>
+    <string name="freeform_recommend_open_switch_summary_fold">Nalguns cenários, as aplicações recomendadas vão ser abertas numa janela flutuante no ecrã externo ou numa janela flutuante/ecrã dividido no ecrã interno</string>
+    <string name="freeform_recommend_open_switch_summary_phone">Nalguns cenários, as aplicações recomendadas vão ser abertas numa janela flutuante</string>
+    <string name="freeform_recommend_open_switch_title">Sugestões inteligentes</string>
+    <string name="freeform_vedio_description">"· Premir e segurar e depois puxar para baixo a notificação para a abrir numa janela flutuante.
+· Tocar em \"Janelas flutuantes\" em Recentes para seleccionar aplicações"</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante.
+· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para a abrir no ecrã dividido"</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Arrastar uma aplicação da barra lateral para o centro do ecrã para a abrir numa janela flutuante ou para o lado para a abrir no ecrã dividido</string>
+    <string name="freeform_vedio_description_pad">Arrastar itens para abrir em janelas flutuantes</string>
     <string name="fullscreen_slide_to_small_freeform">Minimizar uma aplicação</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Premir e segurar a parte inferior da janela e mover para o canto superior direito</string>
     <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Deslizar desde o fundo até ao topo do ecrã</string>
+    <string name="gd_setting_title">Barra lateral</string>
     <string name="how_to_close_or_fullscreen_freeform">Fechar janelas flutuantes ou trocar para o modo ecrã inteiro</string>
     <string name="how_to_drop_down_to_fullscreen">Trocar para o modo ecrã inteiro</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Premir, segurar e puxar para baixo a barra duma janela flutuante</string>
@@ -35,7 +77,11 @@
     <string name="how_to_slide_up_to_close">Fechar a janela flutuante</string>
     <string name="how_to_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
     <string name="how_to_use_freeform">Como utilizar as janelas flutuantes</string>
+    <string name="miui_bubbles_notification">Bolhas de conversa</string>
+    <string name="miui_bubbles_notification_status_opened">Ligado</string>
     <string name="multi_window_cvw_summary">Arrastar o canto para trocar para uma janela flutuante e ajustar o seu tamanho</string>
     <string name="multi_window_cvw_summary_global">Arrastar o canto para trocar para uma janela flutuante e ajustar o seu tamanho</string>
     <string name="multi_window_cvw_title">Janelas flutuantes</string>
+    <string name="operation_guide_settings_title">Como utilizar as janelas flutuantes</string>
+    <string name="operation_guide_title">Tutoriais</string>
 </resources>

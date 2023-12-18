@@ -1547,7 +1547,7 @@ volunteer"</string>
     <string name="free_time_traffic_title">Introduzir o limite de dados do período</string>
     <string name="free_traffic_settings">Limite de dados por período</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante.
-· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para utilizar o ecrã dividido"</string>
+· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para a abrir no ecrã dividido"</string>
     <string name="full_fill_oprator_and_location">Fornecer informações da operadora e localização</string>
     <string name="full_fill_sim_location">Definir localização primeiro</string>
     <string name="fully_informed_privacy">Sensibilização de privacidade</string>
@@ -1874,6 +1874,11 @@ das suas sessões de jogo"</string>
     <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='https://privacy.mi.com/all/%1$s_%2$s'>Política de Privacidade</a>"</string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
     <string name="get_sys_info">A obter informações…</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante.
+· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para a abrir no ecrã dividido
+· Premir e segurar o indicador para mover a janela"</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante.
+· Premir e segurar o indicador para mover a janela"</string>
     <string name="global_satisfaction_notification_button">Avaliar</string>
     <string name="global_satisfaction_notification_subhead">Diga-nos a sua experiência</string>
     <string name="global_satisfaction_notification_title">Avaliar este dispositivo</string>

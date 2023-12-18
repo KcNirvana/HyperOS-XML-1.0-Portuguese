@@ -590,9 +590,11 @@ utilizar a câmara frontal"</string>
     <string name="turn_on_torch">Ligar lanterna</string>
     <string name="under_keyguard">Desligar ecrã</string>
     <string name="voice_assist">Mi IA</string>
+    <string name="wallpaper_floral_arrangement_title">Arranjos de flores</string>
     <string name="wallpaper_group_curves_title">Curvas</string>
     <string name="wallpaper_group_light_cycles_title">Círculos de neon</string>
     <string name="wallpaper_group_petros_koublis_title">Devaneios</string>
+    <string name="wallpaper_overlapping_space_title">Formas e sombras</string>
     <string name="knock_gesture_v">Desenhar V com um toque</string>
     <string name="knock_long_press_horizontal_slid">Premir e deslizar com um toque</string>
     <string name="knock_slide_shape">Desenhar um círculo com um toque</string>

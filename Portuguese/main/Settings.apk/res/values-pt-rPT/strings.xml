@@ -10778,8 +10778,8 @@ Para trocar entre funcionalidades, deslize para cima com 3 dedos e segure"</stri
     <string name="force_msaa_prefrence_summary_new">Activar 4x MSAA em aplicações OpenGL ES %1$.1f</string>
     <string name="freeform_guide_to_sidehide_summary">Arrastar a aplicação para o lado do ecrã para a ocultar</string>
     <string name="freeform_guide_to_sidehide_title">Ocultar janelas flutuantes</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocar na aplicação na barra lateral para a abrir numa janela flutuante
-· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou na lateral para utilizar o ecrã dividido"</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tocar numa aplicação na barra lateral para a abrir numa janela flutuante.
+· Arrastar uma aplicação para o centro do ecrã para a abrir numa janela flutuante ou para o lado para a abrir no ecrã dividido"</string>
     <string name="guide_button_text">Percebi</string>
     <string name="guide_text_center">"Deslizar para cima no meio do ecrã.
 A área onde pode confirmar o seu bloqueio de ecrã vai ser alinhada ao centro"</string>
