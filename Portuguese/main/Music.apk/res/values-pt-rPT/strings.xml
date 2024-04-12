@@ -71,6 +71,7 @@
     <string name="ad_setting">Definições de anúncios</string>
     <string name="add">Adicionar</string>
     <string name="add_music">Adicionar músicas</string>
+    <string name="add_songs_to_playlist">Adicionar à lista</string>
     <string name="add_to_group_notify">%1$s joined the family</string>
     <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
     <string name="add_to_playlist_successful">Adicionado com sucesso</string>
@@ -1280,7 +1281,7 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="September">September</string>
     <string name="Updated_at">"Updated: "</string>
     <string name="action_item_play_video">Play music video</string>
-    <string name="add_to_playlist">Add to queue</string>
+    <string name="add_to_playlist">Adicionar à fila</string>
     <string name="album_cover">Album cover</string>
     <string name="album_is_empty">Album name can not be empty.</string>
     <string name="always_use_metered">Always use mobile data</string>
@@ -1395,9 +1396,9 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="individuation_card_title">For you</string>
     <string name="individuation_cart_login_title">Want to see more recommendations?</string>
     <string name="individuation_recommend_switch_message">Turning this feature off will affect personalized Mi Music services. Turn off anyway?</string>
-    <string name="individuation_recommend_title">Recommendations</string>
-    <string name="individuation_setting_summary">Receive content recommendations based on your interests</string>
-    <string name="individuation_setting_title">Personalized recommendations</string>
+    <string name="individuation_recommend_title">Recomendações</string>
+    <string name="individuation_setting_summary">Receber conteúdo baseado nos seus interesses</string>
+    <string name="individuation_setting_title">Recomendações personalizadas</string>
     <string name="info_app_package_name">Package name:</string>
     <string name="info_app_version">App version:</string>
     <string name="info_language">Language:</string>
