@@ -55,6 +55,7 @@
     <string name="invisible_mode_dialog_title">Está anónimo</string>
     <string name="keywords_search_compass">Bússola;Calibrar bússola;Pressão;Altitude;Latitude;Longitude;Verificar longitude; Verificar latitude;Bússola MIUI;Pressão atmosférica; Verificar altitude</string>
     <string name="latitude">LAT</string>
+    <string name="live_action">Ao vivo</string>
     <string name="location_east">Long. E</string>
     <string name="location_enable">Permitir</string>
     <string name="location_enable_later">Mais tarde</string>
@@ -63,6 +64,8 @@
     <string name="location_not_enabled_summary">A bússola necessita de aceder à sua localização para mostrar coordenadas e altitude</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">A Bússola necessita de aceder à sua localização para mostrar as coordenadas actuais</string>
     <string name="location_not_enabled_title">Serviços de localização</string>
+    <string name="location_permission_tip_one">Tocar para conceder permissões de localização para ver a latitude, longitude, pressão do ar e altitude</string>
+    <string name="location_permission_tip_two">Tocar para conceder permissões de localização para ver a latitude e longitude</string>
     <string name="location_south">Lat. S</string>
     <string name="location_west">Long. O</string>
     <string name="longitude">LON</string>
