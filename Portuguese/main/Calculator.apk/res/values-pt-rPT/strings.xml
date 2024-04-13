@@ -106,6 +106,8 @@
     <string name="extra_deduction_title">Deduções adicionais</string>
     <string name="factorialDesc">Logaritmo</string>
     <string name="fat">Com excesso de peso</string>
+    <string name="female">Género: Feminino</string>
+    <string name="finance_interest">Taxa de juro (%s)</string>
     <string name="float_window_guide_text">Toque minimizar a calculadora</string>
     <string name="fmt_chinese_date" />
     <string name="fmt_date_long_month">MMMM</string>
@@ -250,6 +252,7 @@
 
 Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorrer atrasos devido a feriados bancários) no site do Banco Popular da China"</string>
     <string name="lpr_tips_title">LPR (Principal taxa de empréstimo)</string>
+    <string name="male">Género: Masculino</string>
     <string name="medical_treatment">Tratamentos médicos</string>
     <string name="menuDesc">Menu</string>
     <string name="minusDesc">Menos</string>
