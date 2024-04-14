@@ -83,6 +83,7 @@
     <string name="activity_title_antivirus_kddi">Verificação de segurança</string>
     <string name="activity_title_apps_manager">Aplicações</string>
     <string name="activity_title_auto_start_manager">Início automático</string>
+    <string name="activity_title_auto_start_manager_global">Início automático em segundo plano</string>
     <string name="activity_title_create_shortcut">Gerir atalhos</string>
     <string name="activity_title_garbage_cleanup">Limpeza</string>
     <string name="activity_title_license_manager">Permissões</string>
