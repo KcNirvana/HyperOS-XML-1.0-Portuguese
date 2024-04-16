@@ -67,6 +67,39 @@
         <item>Moderada</item>
         <item>Leve</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelente</item>
+        <item>Bom</item>
+        <item>Levemente poluído</item>
+        <item>Moderadamente poluído</item>
+        <item>Muito poluído</item>
+        <item>Severamente poluído</item>
+        <item>Além do índice</item>
+    </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Seco</item>
+        <item>Confortável</item>
+        <item>Húmido</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Alta</item>
+        <item>Moderada</item>
+        <item>Baixa</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Gelado</item>
+        <item>Frio</item>
+        <item>Confortável</item>
+        <item>Quente</item>
+        <item>Ferver</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Fraco</item>
+        <item>Moderado</item>
+        <item>Forte</item>
+        <item>Muito forte</item>
+        <item>Severo</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
         <item>Céu nublado</item>

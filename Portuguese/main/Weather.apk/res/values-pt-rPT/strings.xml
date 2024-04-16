@@ -36,10 +36,10 @@
     <string name="alert_weather_enable_settings_title">Alertas de tempo</string>
     <string name="already_voted_toast">Já votou hoje</string>
     <string name="app_name">Tempo</string>
-    <string name="aqi_15_days_desc">Previsão IQA para %d dias</string>
-    <string name="aqi_24_hours_desc">Previsão IQA para %d horas</string>
-    <string name="aqi_48_hours_desc">Previsão IQA para %d horas</string>
-    <string name="aqi_5_days_desc">Previsão IQA para %d dias</string>
+    <string name="aqi_15_days_desc">Previsão IQA para 15 dias</string>
+    <string name="aqi_24_hours_desc">Previsão IQA para 24 horas</string>
+    <string name="aqi_48_hours_desc">Previsão IQA para 48 horas</string>
+    <string name="aqi_5_days_desc">Previsão IQA para 5 dias</string>
     <string name="aqi_alert_channel_name">Alertas da qualidade do ar</string>
     <string name="aqi_data_source">Fornecido por Colorful Clouds</string>
     <string name="aqi_desc">Indíce de qualidade do ar</string>
