@@ -1094,6 +1094,7 @@ Se não concordar em utilizar os serviços mencionados, não vai poder utilizar 
     <string name="search_lyric">Pesquisar letras</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_more">Mais</string>
+    <string name="search_recommend">Recomendado</string>
     <string name="search_result_local_songs">Dispositivo</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Pesquisar músicas</string>
@@ -1427,7 +1428,7 @@ Toque em %s para iniciar esta transferência da próxima vez que obter uma liga�
     <string name="joox_auth_message_content_offline">"Online services aren't available now. We'll improve a couple of things and reopen access soon. Stay tuned!"</string>
     <string name="joox_auth_message_login_status_expired">Sign-in session expired. Sign in again.</string>
     <string name="joox_auth_message_one_hour_limit_for_one_company">You can play up to six songs from the same record label every hour. Listen to some recommended songs for now.</string>
-    <string name="joox_auth_message_recommend_for_you">Recommended</string>
+    <string name="joox_auth_message_recommend_for_you">Recomendado</string>
     <string name="joox_auth_message_update_vip_to_change_playlist">Get VIP membership to edit playlists</string>
     <string name="joox_auth_message_update_vip_to_download">Get VIP membership to download</string>
     <string name="joox_auth_message_update_vip_to_listen_offline">Your VIP membership expired. You can listen to songs online now. Get VIP membership to be able to download songs.</string>
