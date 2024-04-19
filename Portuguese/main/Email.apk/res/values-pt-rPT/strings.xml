@@ -914,6 +914,7 @@ Tente uma conta de email diferente"</string>
     <string name="notification_action_undo_remove_label">Marcador removido</string>
     <string name="notification_exchange_calendar_added">Adicionado calendário Exchange</string>
     <string name="notification_message">Apenas notificar acerca de novas mensagens nas pastas seleccionadas?</string>
+    <string name="notification_mutli_message_content">Tocar para ver</string>
     <string name="notification_off">Desligado</string>
     <string name="notification_on">Ligado</string>
     <string name="notify_channel_new_mail">Novos emails</string>

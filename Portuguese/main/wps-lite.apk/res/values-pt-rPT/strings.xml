@@ -250,7 +250,7 @@
     <string name="public_secre_dialog_content_1">Para fornecermos os nossos serviços, necessitamos de permissão de acesso ao armazenamento e obter informações de como utiliza as nossas funcionalidades</string>
     <string name="public_secre_dialog_content_2" formatted="false">Nós vamos proteger os seus dados pessoais de acordo com os nossos Termos de Utilização e Política de Privacidade</string>
     <string name="public_secre_dialog_exit">Sair</string>
-    <string name="public_secre_dialog_positive">Concordar</string>
+    <string name="public_secre_dialog_positive">Aceitar</string>
     <string name="public_secre_dialog_tips_agree">Se aceitar os termos e condições dos nossos Termos de Utilização e Política de Privacidade, toque \"Aceitar\" para começar a utilizar os nossos serviços</string>
     <string name="public_secre_dialog_tips_small">Bem-vindo a Documentos (fornecido por WPS)! Pode utilizar esta aplicação para ver documentos no seu dispositivo</string>
     <string name="public_secre_dialog_title">Declaração de privacidade</string>
