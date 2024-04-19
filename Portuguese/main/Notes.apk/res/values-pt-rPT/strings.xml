@@ -301,6 +301,7 @@
     <string name="new_audio_create_talkback_des">Toque para criar uma nota de texto. Prima e segure para criar uma nota de voz. Soltar o botão para parar a gravação e criar a nota ou deslizar para cima para cancelar</string>
     <string name="new_data_empty_note">Sem itens</string>
     <string name="new_lite_audio_create_talkback_des">Tocar para criar uma nota</string>
+    <string name="new_sync_desc_state_disable">Ligar a sincronização com a Xiaomi Cloud para notas e tarefas</string>
     <string name="no_network">Não é possível ligar à rede</string>
     <string name="not_now">Agora não</string>
     <string name="not_set">Não definido</string>
@@ -464,11 +465,11 @@
     <string name="set_alarm_description">Definir alarme</string>
     <string name="setting_big_screen_layout_columns">Barra lateral</string>
     <string name="setting_big_screen_layout_flat">Atalhos</string>
-    <string name="setting_big_screen_layout_title">Layout de ecrã grande</string>
+    <string name="setting_big_screen_layout_title">Disposição de ecrã grande</string>
     <string name="setting_cloud_service">Serviços Xiaomi Cloud</string>
-    <string name="setting_layout">Layout</string>
+    <string name="setting_layout">Disposição</string>
     <string name="setting_micloud_sync_title">Sincronizar com a Xiaomi Cloud</string>
-    <string name="setting_note_list_layout_title">Layout</string>
+    <string name="setting_note_list_layout_title">Disposição</string>
     <string name="setting_other">Outros</string>
     <string name="setting_privacy">Política de Privacidade</string>
     <string name="single_link_excerpt_saving">A guardar itens…</string>
