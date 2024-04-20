@@ -247,6 +247,11 @@
     <string name="effect_3dsurround">Som imersivo</string>
     <string name="effect_3dsurround_summary">Melhorar a profundidade da reprodução de som para auriculares e altifalantes</string>
     <string name="effect_3dsurround_summary_headphone">Melhorar a profundidade da reprodução de som</string>
+    <string name="effect_dolby">Dolby Atmos</string>
+    <string name="effect_misound">Som Xiaomi</string>
+    <string name="effect_none">Original</string>
+    <string name="effect_selection">Efeitos sonoros</string>
+    <string name="effect_selection_headset">Efeitos dos auscultadores</string>
     <string name="effect_virtual_surround">Som virtual imersivo</string>
     <string name="effect_virtual_surround_summary">Melhorar a profundidade do som para reprodução de áudio e vídeo em auriculares (não funciona quando o áudio %.1f for reproduzido)</string>
     <string name="eq_auto">Personalizar</string>
