@@ -727,7 +727,7 @@ Send this code to the supervisor."</string>
     <string name="feed_back_button_toast">Comentários enviados com sucesso</string>
     <string name="feed_back_icon_problem">Não consigo achar o ícone de Música</string>
     <string name="feed_back_iconp_desc">Certifique-se que o atalho de Música está visível em Definições > Aplicações > Gerir atalhos do ecrã inicial</string>
-    <string name="feed_back_iconp_generate">You can also tap below to create a Home screen shortcut for Mi Music.</string>
+    <string name="feed_back_iconp_generate">Pode também tocar no botão abaixo para criar um atalho de Música no ecrã inicial</string>
     <string name="feed_back_iconp_text">Criar atalho</string>
     <string name="feed_back_iconp_toast">Foi criado um atalho no ecrã inicial com sucesso</string>
     <string name="feed_back_other">Enviar comentários</string>

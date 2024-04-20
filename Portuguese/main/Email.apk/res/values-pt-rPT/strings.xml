@@ -258,12 +258,7 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
     <string name="auto_login_fail">Não foi possível iniciar sessão automaticamente</string>
     <string name="auto_login_fail_to_retry">Não foi possível iniciar sessão automaticamente. Tente novamente</string>
-    <string name="auto_remind_bind">Adicionar</string>
-    <string name="auto_remind_discribe_text">Ligar para receber lembretes automáticos</string>
-    <string name="auto_remind_text">Lembretes automáticos</string>
-    <string name="auto_remind_unbind">Parar</string>
-    <string name="auto_sync_off">Sincronização automática está desligada</string>
-    <string name="automatic_remind_text">Lembrar automaticamente</string>
+    <string name="auto_start_open_prompt">Permitir que a aplicação inicie automaticamente para poder sincronizar os seus emails. Pode conceder esta permissão nas Definições</string>
     <string name="bContact_list_search_hint">Pesquisar contactos bloqueados</string>
     <string name="b_contacts">Lista de bloqueio</string>
     <string name="b_contacts_remove">Remover da lista de bloqueio</string>

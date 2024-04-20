@@ -98,12 +98,12 @@ This feature works only when system navigation is set to gestures."</string>
     <string name="freeform_guide_split_screen_combination_summary_pad">Create shortcuts for Split screen combinations using app dock</string>
     <string name="freeform_guide_split_screen_combination_title">Split screen combination</string>
     <string name="freeform_guide_tip_controller">Tocar para abrir uma nova janela</string>
-    <string name="freeform_guide_tip_dock">Drag to the center to open in a floating window</string>
+    <string name="freeform_guide_tip_dock">Arrastar uma aplicação para o centro do ecrã e abrir numa janela flutuante</string>
     <string name="freeform_guide_tip_dock_browser">Premir e segurar para abrir uma nova janela</string>
     <string name="freeform_guide_tip_dock_email">Premir e segurar para abrir uma nova janela</string>
     <string name="freeform_guide_tip_dock_note">Premir e segurar para abrir uma nova janela</string>
     <string name="freeform_guide_tip_dock_wps">Premir e segurar para abrir uma nova janela</string>
-    <string name="freeform_guide_tip_down">Press and hold the action bar and then swipe up to close</string>
+    <string name="freeform_guide_tip_down">Para fechar uma janela flutuante, premir e segurar a barra de acção e puxar rapidamente para cima</string>
     <string name="freeform_guide_tip_notification">Pull down to open in a floating window</string>
     <string name="freeform_guide_tip_pin">Press and hold the action bar and then quickly drag the window to the edge to minimize it</string>
     <string name="freeform_guide_tip_pin_up">Drag inwards to open in a floating window</string>

@@ -3466,7 +3466,7 @@ To learn more, contact your creditor provider."</string>
     <string name="fingerprint_enroll_button_add">Adicionar outra</string>
     <string name="fingerprint_enroll_button_next">Seguinte</string>
     <string name="fingerprint_face_password_unlock">Impressões digitais, dados do rosto e bloqueio de ecrã</string>
-    <string name="fingerprint_face_password_unlock_new">Impressões digitais, dados do rosto e bloqueio de ecrã</string>
+    <string name="fingerprint_face_password_unlock_new">Segurança do ecrã de bloqueio</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma palavra-passe de ecrã de bloqueio primeiro)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma palavra-passe do ecrã de bloqueio primeiro)</string>
     <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desligadas pelas definições de segurança</string>
@@ -6310,7 +6310,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
     <string name="peak_refresh_rate_title">Ecrã suave</string>
     <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
     <string name="performance_category">Desempenho</string>
-    <string name="permission_action_prompt">Perguntar</string>
+    <string name="permission_action_prompt">Questão</string>
     <string name="permission_bar_chart_details">Ver tudo no painel de controlo</string>
     <string name="permission_bar_chart_empty_text">0 aplicações utilizaram permissões</string>
     <string name="permission_bar_chart_title">Utilização das permissões nas últimas 24 horas</string>
@@ -8615,6 +8615,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="super_resolution_reboot_tips">Reinicie as aplicações para que esta funcionalidade trabalhe após a ligar</string>
     <string name="super_resolution_title">Super resolução</string>
     <string name="supl_not_set">&lt;Não definido&gt;</string>
+    <string name="summary_quick_control_all_devices">Mostrar controlos para TVs, colunas de som e carros próximos no Centro de Controlo</string>
     <string name="supplicant_state_label">Estado suplicante:</string>
     <string name="support_summary">Help articles, phone &amp; chat</string>
     <string name="sure_sync_now">Sincronizar itens agora?</string>
@@ -8805,6 +8806,11 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
     <string name="title_layout_current2_weight">Tamanho do texto</string>
     <string name="title_miui_music_mute_by_user">Modo Silêncio</string>
     <string name="title_of_auto_launch_manage">Início automático</string>
+    <string name="title_quick_control_all_devices">Mostrar controlos de dispositivos próximos</string>
+    <string name="title_regional_pref_footer">Se uma aplicação não suportar as definições regionais, vai utilizar as definições predefinidas da mesma</string>
+    <string name="title_show_notification_icon">Mostrar ícones de notificações</string>
+    <string name="title_show_notification_icon_count">Número de ícones mostrados</string>
+    <string name="title_smart_device_control">Controlos de dispositivos inteligentes</string>
     <string name="title_special_features_health_global">Batimento cardíaco</string>
     <string name="to_close">Desligar</string>
     <string name="to_switch_networks_disconnect_ethernet">To switch networks, disconnect ethernet</string>
@@ -10245,6 +10251,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="wifi_unspecified">(não especificado)</string>
     <string name="wifi_update">Actualizar estatísticas</string>
     <string name="wifi_use_system_certs">Utilizar certificados do sistema</string>
+    <string name="wifi_validation">A verificar rede…</string>
     <string name="wifi_venue_website_button_text">Abrir site</string>
     <string name="wifi_verbose_logging">Activar registo extenso do Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de Wi-Fi (mostrar por RSSI de SSID)</string>

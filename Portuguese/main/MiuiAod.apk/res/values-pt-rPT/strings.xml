@@ -95,7 +95,7 @@ d 'de' MMMM"</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu</string>
     <string name="font_thickness">Texto em negrito</string>
     <string name="format_month_day_style1">dd/MMM</string>
-    <string name="format_month_day_style2">dd/MM</string>
+    <string name="format_month_day_style2">dd/M</string>
     <string name="format_month_day_week">"EEEE, d 'de' MMMM"</string>
     <string name="format_week_day_style1">EE d</string>
     <string name="format_week_day_style1_desc">%1$s, day of the month: %2$s</string>

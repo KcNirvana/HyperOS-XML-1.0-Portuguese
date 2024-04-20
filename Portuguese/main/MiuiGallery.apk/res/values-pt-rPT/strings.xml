@@ -252,6 +252,7 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="backup_automatically_title">Sincronização automática</string>
     <string name="backup_battery_low_desc">Pode escolher continuar a copiar</string>
     <string name="backup_battery_low_title">Cópia em pausa devido à bateria fraca</string>
+    <string name="backup_category_title">Cópias</string>
     <string name="backup_close">Fechar cópia</string>
     <string name="backup_cloud_space_low_btn_text">Obter mais</string>
     <string name="backup_cloud_space_low_desc">%1$s na Xiaomi Cloud | Disponíveis %2$s</string>
@@ -1537,6 +1538,7 @@ para personalizar a galeria"</string>
     <string name="online_video_vip_transcoding">"A iniciar o streaming VIP…
 A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="open">Ligar</string>
+    <string name="open_backup">Ligar</string>
     <string name="open_public_message">Criar URL para partilhar com os seus amigos</string>
     <string name="open_public_title">Partilhar</string>
     <string name="operate_processing_file_error">Aguarde até as fotos estarem processadas</string>

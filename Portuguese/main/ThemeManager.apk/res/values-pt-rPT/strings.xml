@@ -313,6 +313,9 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
     <string name="local_photos">Fotos locais</string>
     <string name="local_resouce_creator_name">Programador: %1$s</string>
     <string name="lock_screen_apply">Definir como ecrã de bloqueio</string>
+    <string name="lock_screen_card_title">Ecrã de bloqueio artístico</string>
+    <string name="lock_screen_keyguard_guide_popup">Veja as novas funcionalidades de personalização do ecrã de bloqueio</string>
+    <string name="lock_screen_keyguard_tip_title">Nova personalização do ecrã de bloqueio</string>
     <string name="lockscreen_apply_failured">Não é possível definir papel de parede no ecrã de bloqueio</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Papel de parede do ecrã inicial definido mas não foi possível definir no ecrã de bloqueio</string>
     <string name="lockscreen_apply_success">Papel de parede do ecrã de bloqueio definido</string>

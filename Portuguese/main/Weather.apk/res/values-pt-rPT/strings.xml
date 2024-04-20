@@ -219,7 +219,6 @@ Toque no ecrã para adicionar a cidade manualmente"</string>
     <string name="menu_add_city">Editar localizações</string>
     <string name="menu_location">Localizações</string>
     <string name="menu_speaker">Voice broadcast</string>
-    <string name="mi_pad2">latte</string>
     <string name="minute_rain">Precipitação 2 horas</string>
     <string name="minute_rain_after_an_hour">Uma hora depois</string>
     <string name="minute_rain_after_two_hour">Duas horas depois</string>
@@ -227,6 +226,7 @@ Toque no ecrã para adicionar a cidade manualmente"</string>
     <string name="minute_rain_feedback_text">Comentários</string>
     <string name="minute_rain_feedback_title">O tempo não parece correcto</string>
     <string name="minute_rain_let_go_refresh">Soltar para actualizar</string>
+    <string name="minute_rain_no_data">Sem dados</string>
     <string name="minute_rain_now">Agora</string>
     <string name="minute_rain_probability">Probabilidade de precipitação %1$d%%</string>
     <string name="minute_rain_pull_down_refresh">Puxar para actualizar</string>

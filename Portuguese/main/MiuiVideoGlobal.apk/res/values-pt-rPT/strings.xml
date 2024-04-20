@@ -923,7 +923,7 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="action_update_phone">Change phone number</string>
     <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
     <string name="activity_not_found_notice">"Can't find the app"</string>
-    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos na área de notificaçõesShow events in the Notification shade</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos na área de notificações</string>
     <string name="ad_bar_notification_setting_title">Eventos</string>
     <string name="ad_click_to_play">Tocar para reproduzir</string>
     <string name="ad">Ad</string>
