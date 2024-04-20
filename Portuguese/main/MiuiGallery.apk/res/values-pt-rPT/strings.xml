@@ -3047,8 +3047,6 @@ A transcodificação pode demorar algum tempo na primeira vez"</string>
     <string name="foods_travel_title_one">Um gostinho de %1$s</string>
     <string name="foods_travel_title_three">%1$s de gulosos</string>
     <string name="foods_travel_title_two">%1$s comida</string>
-    <string name="global_pc">O meu portátil</string>
-    <string name="global_phone">O meu telefone</string>
     <string name="group_header_title_media_group">Tipos de multimédia</string>
     <string name="hide_nearby_photos">Ocultar fotos e vídeos próximos</string>
     <string name="holiday_travel_title_one">%1$s férias</string>
@@ -3225,9 +3223,6 @@ Send this code to the supervisor."</string>
     <string name="for_diagnosis_usage_only">Logs are used only for diagnostics.</string>
     <string name="gallery_uninstall_description_content">"Gallery is a system app that allows you to view, manage, and sync photos and videos across all connected devices. If you uninstall Gallery, you'll lose the items you made private and other features related to viewing and selecting Gallery items will also be no longer available to you. Uninstall anyway?"</string>
     <string name="gallery_uninstall_description_title">Uninstall Gallery?</string>
-    <string name="get_GP_app_btn_install">Install</string>
-    <string name="get_GP_app_msg">Para ligar as cópias, tem de instalar o Google Fotos. Volte após instalar o Google Fotos para continuar</string>
-    <string name="get_GP_app_title">Instalar Google Fotos</string>
     <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
     <string name="google_login_btn_content_description">Sign in with Google</string>
     <string name="hdr_show_hint">Adjust the display to show more details in the shadows and highlights on items with high dynamic range</string>

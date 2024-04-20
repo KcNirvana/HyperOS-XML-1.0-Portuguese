@@ -11246,7 +11246,6 @@ After deletion, you will need your PIN, pattern, or password to unlock your phon
     <string name="toast_allows_restricted_settings_successfully">Restricted settings allowed for %s</string>
     <string name="turn_screen_on_title">Turn on screen</string>
     <string name="unused_apps_category">Unused app settings</string>
-    <string name="unused_apps_switch_summary">Remove permissions, delete temporary files, and stop notifications</string>
     <string name="user_add_user">Add user</string>
     <string name="user_choose_copy_apps_to_another_user">Choose apps to install</string>
     <string name="user_copy_apps_menu_title">Install available apps</string>
