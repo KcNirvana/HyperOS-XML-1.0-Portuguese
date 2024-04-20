@@ -242,6 +242,10 @@
     <string name="history_local_video">Dispositivo</string>
     <string name="history_online_video">Online</string>
     <string name="i_know">OK</string>
+    <string name="local_tip_act_for_android_u">Editar</string>
+    <string name="local_tip_info_for_android_u">Apenas permitiu a Vídeos mostrar alguns vídeos</string>
+    <string name="local_tip_info_for_no_audio">Não é possível aceder a áudios guardados no seu dispositivo. Conceda as permissões necessárias primeiro</string>
+    <string name="local_tip_info_for_no_video">Não é possível aceder a vídeos guardados no seu dispositivo. Conceda as permissões necessárias primeiro</string>
     <string name="local_video_create_a_new_playlist">Nova lista de reprodução</string>
     <string name="local_video_date">Data</string>
     <string name="local_video_dialog_default">Predefinido</string>
@@ -425,6 +429,7 @@
     <string name="notification_last_played_status">Histórico de reprodução</string>
     <string name="notification_open_tip">Ligar para receber notificações</string>
     <string name="notification_promotion">Recomendações</string>
+    <string name="notification_pupular_today_open_tip">Mostrar vídeos populares</string>
     <string name="notification_recall_action">Ligar</string>
     <string name="notification_recall_desc">Vídeos pode notificar acerca de vídeos populares e subscrições</string>
     <string name="notification_recall_title">Ligar notificações</string>
@@ -918,6 +923,9 @@ tamanho da actualização Delta: %2$s"</string>
     <string name="action_update_phone">Change phone number</string>
     <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
     <string name="activity_not_found_notice">"Can't find the app"</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostrar eventos na área de notificaçõesShow events in the Notification shade</string>
+    <string name="ad_bar_notification_setting_title">Eventos</string>
+    <string name="ad_click_to_play">Tocar para reproduzir</string>
     <string name="ad">Ad</string>
     <string name="add_to_trust_device">This is a trusted device</string>
     <string name="add_website">Adicionar um site</string>
@@ -1442,6 +1450,7 @@ Update Mi Video to the latest version first."</string>
     <string name="sending">Sending…</string>
     <string name="service_error">Server error</string>
     <string name="set_success">Changed successfully</string>
+    <string name="setting_privacy_title">Termos e Condições</string>
     <string name="settings_inline_auto_play">Sempre</string>
     <string name="settings_inline_auto_play_close">Desligada</string>
     <string name="settings_inline_auto_play_tip_close_forever">Desligado</string>

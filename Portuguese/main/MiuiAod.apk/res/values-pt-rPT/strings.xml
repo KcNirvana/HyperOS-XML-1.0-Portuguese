@@ -193,7 +193,7 @@ d 'de' MMMM"</string>
     <string name="kg_guidance_dialog_positive_button_text_next_step">Seguinte</string>
     <string name="kg_guidance_dialog_positive_button_text_start">Iniciar</string>
     <string name="kg_guidance_dialog_tip_browse_more">Deslizar para cima para trocar templates. Deslizar horizontalmente para ver mais opções de personalização</string>
-    <string name="kg_guidance_dialog_tip_customize">Personalizar o seu ecrã de bloqueio para o tornar seu</string>
+    <string name="kg_guidance_dialog_tip_customize">Personalizar o ecrã de bloqueio para o tornar seu</string>
     <string name="kg_guidance_dialog_title">Personalização de ecrã de bloqueio</string>
     <string name="kg_hierarchy_loading_tip">A detectar camadas…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Ajustar posição do papel de parede para tornar os efeitos de profundidade visíveis</string>

@@ -2410,6 +2410,11 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
     <string name="dark_mode_day_night_mode_summary">Alterar para o Modo Escuro ao pôr do sol e desligar ao nascer do sol</string>
     <string name="dark_mode_day_night_mode_title">Do pôr do sol ao nascer do sol</string>
     <string name="dark_mode_font_background_title">Ajustar texto e fundo automaticamente</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Percebi</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Se desligar as optimizações de sistema e ligar a poupança de bateria, o Modo Escuro vai ser ligado automaticamente.
+Para desligar o Modo Escuro, desligue a poupança de bateria ou ligue as optimizações de sistema em Definições > Opções de programador > Ligar optimizações de sistema"</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Modo Escuro</string>
+    <string name="dark_mode_settings">Opções do Modo Escuro</string>
     <string name="dark_mode_time_settings">Programar Modo Escuro</string>
     <string name="dark_theme_main_switch_title">Utilizar Modo Escuro</string>
     <string name="dark_theme_slice_subtitle">Ajuda a aumentar a vida da bateria</string>
@@ -2869,6 +2874,7 @@ Se isto continuar a acontecer, pode ser necessário desinstalar a aplicação pa
     <string name="display_label">Ecrã</string>
     <string name="display_order_text">Ordenar por:</string>
     <string name="display_settings">Ecrã</string>
+    <string name="display_settings_new">Ecrã e brilho</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="display_summary">Suspender após %1$s de inactividade</string>
     <string name="display_summary_example">Suspender após 10 minutos de inactividade</string>
@@ -3460,6 +3466,7 @@ To learn more, contact your creditor provider."</string>
     <string name="fingerprint_enroll_button_add">Adicionar outra</string>
     <string name="fingerprint_enroll_button_next">Seguinte</string>
     <string name="fingerprint_face_password_unlock">Impressões digitais, dados do rosto e bloqueio de ecrã</string>
+    <string name="fingerprint_face_password_unlock_new">Impressões digitais, dados do rosto e bloqueio de ecrã</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (definir uma palavra-passe de ecrã de bloqueio primeiro)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Impressões digitais (definir uma palavra-passe do ecrã de bloqueio primeiro)</string>
     <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desligadas pelas definições de segurança</string>
@@ -5500,11 +5507,13 @@ Mudar para a operadora %1$s não cancela o seu serviço na operadora %2$s"</stri
     <string name="module_license_title">Licenças da actualização do sistema do Google Play</string>
     <string name="module_version">Actualização do sistema do Google Play</string>
     <string name="more_account_settings_title">Outras contas</string>
+    <string name="more_connection">Mais opções de ligação</string>
     <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as definições</string>
     <string name="more_dark_mode_settings">Mais opções do Modo Escuro</string>
     <string name="more_font_pref_title">Mais tipos de letra</string>
     <string name="more_installed_services_title">Mais serviços transferidos</string>
     <string name="more_settings_button">Mais definições</string>
+    <string name="more_volume_settings">Ajustes de volume</string>
     <string name="morning">Manhã</string>
     <string name="move_app">Mover</string>
     <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
@@ -5581,6 +5590,8 @@ Seleccione o seu sistema operativo:"</string>
     <string name="multi_face_list">Dados de rosto</string>
     <string name="multi_face_name_prefix">"Rosto "</string>
     <string name="multi_face_number_reach_limit">Não é possível adicionar dados para mais do que 2 rostos</string>
+    <string name="multi_music_coexistence_summary">Não ajustar o volume multimédia durante as notificações recebidas ou enquanto o áudio de outra origem estiver a ser reproduzido</string>
+    <string name="multi_music_coexistence_title">Várias origens de áudio</string>
     <string name="multi_network_acceleration_app_settings">Aceleração de redes para aplicações</string>
     <string name="multi_network_acceleration_summery">Ligar a várias redes Wi-Fi ao mesmo tempo para optimizar velocidade</string>
     <string name="multi_touch_points_category_title">Pontos multi-toque</string>
@@ -5944,6 +5955,7 @@ As notificações melhoradas podem aceder a todo o conteúdo das notificações,
     <string name="notification_content_block_summary">Nunca mostrar notificações no painel ou nos dispositivos periféricos</string>
     <string name="notification_content_block_title">Mostrar notificações</string>
     <string name="notification_control_center">Notificações e Centro de Controlo</string>
+    <string name="notification_control_center_new">Notificações e barra de estado</string>
     <string name="notification_conversation_add_to_home">Adicionar ao ecrã inicial</string>
     <string name="notification_conversation_important">Prioridade</string>
     <string name="notification_conversation_summary_low">Sem som ou vibração e aparece na parte mais baixa da secção de conversas</string>
@@ -6029,6 +6041,8 @@ As notificações melhoradas podem aceder a todo o conteúdo das notificações,
     <string name="notification_sound_default">Toque de notificação predefinido</string>
     <string name="notification_sound_dialog_title">Toque de notificação predefinido</string>
     <string name="notification_sound_title">Outras notificações e lembretes</string>
+    <string name="notification_status_bar">Notificações e barra de estado</string>
+    <string name="notification_style_settings">Estilo de notificações</string>
     <string name="notification_style_title">Estilo de notificações</string>
     <string name="notification_suggestion_summary">Mostrar ou ocultar conteúdo de notificações</string>
     <string name="notification_suggestion_title">Controlar notificações do ecrã de bloqueio</string>
@@ -6041,7 +6055,11 @@ As notificações melhoradas podem aceder a todo o conteúdo das notificações,
     <string name="notification_update_new_version">Actualização disponível</string>
     <string name="notification_update_now">Actualizar agora</string>
     <string name="notification_vibrate_title">Vibração</string>
+    <string name="notification_volume_control">Controlo dos sons de notificação</string>
+    <string name="notification_volume_control_note">Ajustar o volume dos sons das notificações separadamente</string>
+    <string name="notification_volume_disabled_summary">Unavailable because ring is muted</string>
     <string name="notification_volume_option_title">Volume das notificações</string>
+    <string name="notification_volume_sync_ring">O volume das notificações vai ser o mesmo do seu toque</string>
     <string name="notification_volume_title">Notificação</string>
     <string name="notifications_bubble_setting_description">Algumas conversas vão aparecer como ícones flutuantes por cima de outras aplicações</string>
     <string name="notifications_bubble_setting_on_summary">Ligado / As conversas podem aparecer como ícones flutuantes</string>
@@ -8133,6 +8151,8 @@ Remover consentimento de %s agora?"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Atenção</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Ocorreu um erro no servidor. Aguarde um momento e tente novamente</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Não foi possível remover o consentimento</string>
+    <string name="sound_assist_key_summary">Ajustar o som para aplicações individualmente enquanto várias aplicações reproduzem áudio simultâneamente</string>
+    <string name="sound_assist_key_title">Ajustar o som multimédia em várias aplicações</string>
     <string name="sound_assist_summary">Personalizar as suas definições de som</string>
     <string name="sound_assist_title">Assistente de som</string>
     <string name="sound_category_call_ringtone_vibrate_title">Toques e notificações</string>
@@ -9045,7 +9065,8 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
     <string name="unsupported_setting_summary">A definição não é suportada neste telefone</string>
     <string name="untitled_apn">Sem título</string>
     <string name="unused_apps">Unused apps</string>
-    <string name="unused_apps_switch">Remove permissions and free up space</string>
+    <string name="unused_apps_switch">Pausar actividades se não utilizada</string>
+    <string name="unused_apps_switch_summary">Remover permissões, eliminar ficheiros temporários e parar notificações</string>
     <string name="update_new_version">Actualização disponível</string>
     <string name="update_progress_for_updates">A actualizar (%s)</string>
     <string name="update_sourceinfo_btn_txt">Update Source Info</string>

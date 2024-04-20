@@ -8,6 +8,7 @@
     <string name="as_new_device">Substituir o ecrã inicial e definições anteriores</string>
     <string name="as_new_device_summary">Eliminar cópias anteriores da Xiaomi Cloud</string>
     <string name="authentication_failed">Não foi possível verificar conta</string>
+    <string name="auto_backup_failed">Não foi possível fazer a cópia automática</string>
     <string name="back_up_task_in_process">A fazer cópia…</string>
     <string name="back_up_task_unfinished">Não foi possível copiar</string>
     <string name="backing_up_to_micloud">A fazer cópia…</string>
@@ -18,6 +19,10 @@
     <string name="backup_action_long_time_not_auto_backup_title">Copiar os seus itens</string>
     <string name="backup_action_long_time_not_backup_action">Copiar</string>
     <string name="backup_action_long_time_not_backup_title">Sem cópias recentes</string>
+    <string name="backup_action_no_space_with_wechat_off_content">Not enough cloud storage space to back up items from this device. Tap to view cloud storage options available to you.</string>
+    <string name="backup_action_no_space_with_wechat_off_title">"Couldn't back up items"</string>
+    <string name="backup_action_no_space_with_wechat_on_content">Not enough cloud storage space to back up WeChat data. Upgrade your storage plan to back up items.</string>
+    <string name="backup_action_no_space_with_wechat_on_title">"Couldn't back up WeChat data"</string>
     <string name="backup_action_retry_now">Tentar novamente</string>
     <string name="backup_failed_reason_app_data_error">Não foi possível copiar dados do WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Conceder as permissões necessárias para copiar itens</string>
@@ -31,6 +36,8 @@
     <string name="backup_remind_clean_disk_space">Libertar espaço de armazenamento</string>
     <string name="backup_remind_cloud_space_cost">Tamanho: %s</string>
     <string name="backup_size">Tamanho: %s</string>
+    <string name="backup_state_auto">Cópias automáticas ligadas</string>
+    <string name="backup_state_not_auto">Cópias automáticas desligadas</string>
     <string name="backup_stopped_msg">A cópia actual vai substituir a anterior. Toque para ver</string>
     <string name="backup_stopped_title">A cópia foi pausada</string>
     <string name="backup_success">Cópia feita com sucesso</string>
@@ -109,6 +116,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Xiaom
     <string name="cloud_backup_detail_frequence">Programação de cópias</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Fazer cópia a cada %d dias</string>
     <string name="cloud_backup_detail_frequence_every_day">Fazer cópia todos os dias</string>
+    <string name="cloud_backup_detail_header_condition_screen">Ecrã bloqueado</string>
+    <string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
+    <string name="cloud_backup_detail_header_condition_wlan_china">Wi-Fi</string>
     <string name="cloud_backup_detail_header_msg">Agora pode copiar o layout do ecrã inicial, aplicações, definições de sistema e dados WeChat. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toque para saber mais&lt;/a&gt;&lt;/font&gt;</string>
     <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Copiar o layout do ecrã inicial, aplicações e definições de sistema &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toque para saber mais&lt;/a&gt;&lt;/font&gt;"</string>
     <string name="cloud_backup_detail_local_backup_size">Tamanho estimado: %s</string>
@@ -228,6 +238,9 @@ Envie este código para o técnico"</string>
     <string name="load_backup_failed">Não foi possível carregar as cópias</string>
     <string name="loading_progress_num">Carregados %s%%</string>
     <string name="loading_user_backup">A carregar cópias…</string>
+    <string name="manage_and_restore_backups">Gerir e restaurar dados copiados</string>
+    <string name="manage_backups">Gerir cópias</string>
+    <string name="manage_cloud_backups">Gerir cópias da Xiaomi Cloud</string>
     <string name="managespace_delete_backup">Eliminar</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Fechar</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Definições</string>
