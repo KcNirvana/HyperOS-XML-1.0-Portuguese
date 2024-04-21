@@ -2033,7 +2033,7 @@ to join our egg hunt!"</string>
     <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
     <string name="guide_operator_text">"A sua operadora actual: "</string>
     <string name="guide_quck_open">Ligar</string>
-    <string name="guide_second_text">Após definir a sua operadora, a MIUI vai monitorizar a sua utilização de dados móveis diária ao enviar uma mensagem de texto gratuita. Quando a MIUI detectar que passou o limite de utilização de dados, vai notificá-lo e desligá-lo da rede</string>
+    <string name="guide_second_text">Após definir a sua operadora, vamos monitorizar a sua utilização de dados móveis diária ao enviar uma mensagem de texto gratuita. Quando detectarmos que passou o limite de utilização de dados, vai notificá-lo e desligá-lo da rede</string>
     <string name="guide_wait_setting">Agora não</string>
     <string name="handle_bar_summary_wifi_unknown">Desconhecido</string>
     <string name="handle_bar_title_system">Sistema</string>
@@ -5240,9 +5240,6 @@ mas aumenta o consumo de bateria e permite que o dispositivo possa superaquecer"
     <string name="not_support_root_summary">Permitir o acesso root para aplicações de terceiros pode representar riscos de segurança e danificar o seu dispositivo. Devido a isso, deixámos de fornecer opções para gerir permissões de acesso root</string>
     <string name="not_support_root_title">Acesso root</string>
     <string name="pc_battery_chart_loading">Aguarde…</string>
-    <string name="pc_fast_charge_notifi_action_text_off">Parar</string>
-    <string name="pc_fast_charge_notifi_action_text_on">Optimizar</string>
-    <string name="pc_fast_charge_notifi_power_threshold_title">Definir nível de bateria para lembretes</string>
     <string name="pc_hidemode_normal_title">Equilibrado</string>
     <string name="phone_manager_edit_commonly_used_func_title">Editar funcionalidades comuns</string>
     <string name="phone_manager_title">Ferramentas</string>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Juntar aplicações</item>
+        <item>Interconectividade/Juntar aplicações</item>
+        <item>Funcionalidades do carro</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interconectividade</item>
+        <item>Interconectividade/Interconectividade</item>
+        <item>Interconectividade entre dispositivos, Xiaomi, Xiaomi AIoT, AIoT</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Privacidade</item>
+        <item>Interconectividade/Privacidade</item>
+        <item>Privacidade e Interconectividade, Privacidade</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Serviços de interconectividade</item>
+        <item>Interconectividade/Serviços de interconectividade</item>
+        <item>Serviços de interconectividade</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Handoff</item>
+        <item>Interconectividade/Handoff</item>
+        <item>Transferir aplicações, Handoff, transferências</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Chamadas</item>
+        <item>Interconectividade/Chamadas</item>
+        <item>Chamadas</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Assistência de rede</item>
+        <item>Interconectividade/Assistência de rede</item>
+        <item>Assistência de rede, partilha de ligação, PA Móvel</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Ecrã inicial+</item>
+        <item>Interconectividade/Ecrã inicial+</item>
+        <item>Ecrã inicial+, Mi Smart Hub, partilha ecrã</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Área de transferências</item>
+        <item>Interconectividade/Área de transferências</item>
+        <item>Área de transferências</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Notificações entre dispositivos</item>
+        <item>Interconectividade/Notificações</item>
+        <item>Notificações entre dispositivos</item>
+    </string-array>
+</resources>

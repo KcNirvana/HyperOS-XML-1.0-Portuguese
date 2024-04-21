@@ -120,6 +120,8 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="toast_transfering">A transferir itens. Tente novamente mais tarde</string>
     <string name="transfer_intercept_to_remote">Não foi possível enviar: %1$s</string>
     <string name="transfer_to_pc_summary">Pode utilizar o Mi Share para enviar itens para Mi Notebooks directamente. Nos outros portáteis tem de instalar o Mi Share primeiro</string>
+    <string name="transfer_to_pc_summary_new"><Data>A última versão de MIUI+ instalada nos portáteis Mi é compatível com Mi Share. Pode verificar a lista de portáteis suportados no site do MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu portátil estiver na lista, mas não tiver o MIUI+ instalado transfira o MIUI+</Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>A Xiaomi PC Manager agora suporta Mi Share! Pode verificar a lista de computadores suportados &lt;a href=%1$s>aqui&lt;/a></Data></string>
     <string name="transfer_to_pc_title">Enviar ficheiros para computadores</string>
     <string name="transfer_to_phone_summary">"Turn on Mi Share using the toggle in the Notification shade. After that, you'll be able to see nearby devices when you start sharing a photo or a file. Tap the recipient's device to send the item you're sharing."</string>
     <string name="transfer_to_phone_summary_new">O Mi Share permite enviar imagens e ficheiros para telefones Mi próximos e outros dispositivos Android compatíveis</string>
@@ -205,7 +207,6 @@ Antes de utilizar o Mi Share, tem de conceder as seguintes permissões, assim co
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="some_files_receive_completed">Ver os ficheiro que já recebeu em %1$s</string>
-    <string name="transfer_to_pc_summary_new"><Data>A última versão de MIUI+ instalada nos portáteis Mi é compatível com Mi Share. Pode verificar a lista de portáteis suportados no site do MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Se o seu portátil estiver na lista, mas não tiver o MIUI+ instalado transfira o MIUI+</Data></string>
     <string name="transfer_to_title">Enviar ficheiros para dispositivos móveis</string>
     <string name="user_instructions">Atenção</string>
     <string name="uwb_guide_summary_1">Se não consegue encontrar o dispositivo que necessita, diga à outra pessoa tocar no atalho do Mi Share no Centro de Controlo</string>

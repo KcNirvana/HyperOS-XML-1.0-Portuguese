@@ -2594,7 +2594,7 @@ Endereço Wi-Fi (BSSID)
     <string name="wifi_no_internet_no_reconnect">Não é possível ligar à Internet</string>
     <string name="wifi_not_in_range">Fora do alcance</string>
     <string name="wifi_passpoint_expired">Expirado</string>
-    <string name="wifi_remembered">Guardado</string>
+    <string name="wifi_remembered">Guardada</string>
     <string name="wifi_scan_throttling">Controlo da procura de Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Reduzir o descarregamento de bateria e melhorar o desempenho da rede</string>
     <string name="wifi_security_none">Nenhuma</string>

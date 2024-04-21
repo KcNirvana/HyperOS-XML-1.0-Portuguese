@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d horas</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d dispositivos</item>
+        <item quantity="one">%1$d dispositivo</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d dispositivos</item>
+        <item quantity="one">%1$d dispositivo</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Introduzir o código de %1$s (%2$d segundos)</item>
+        <item quantity="one">Introduzir o código de %1$s (%2$d segundo)</item>
+    </plurals>
+</resources>
