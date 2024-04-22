@@ -437,6 +437,14 @@ Ligue o carregador e desligue o ecrã para fazer as memórias aparecerem"</strin
     <string name="clear_dup_medias">Limpar fotos duplicadas</string>
     <string name="clear_dup_success">Limpo com sucesso</string>
     <string name="clear_dup_tip">A limpar fotos duplicadas</string>
+    <string name="clear_thumbnails_ending_dialog_cancer">Cancelar</string>
+    <string name="clear_thumbnails_ending_dialog_content">Sincronizar com a Xiaomi Cloud já não está disponível nesta versão da Galeria. Não vai poder ver itens que não foram transferidos para este dispositivo. Ainda pode ver e transferir através de i.mi.com</string>
+    <string name="clear_thumbnails_ending_dialog_title">Sincronizar com a Xiaomi Cloud já não está disponível</string>
+    <string name="clear_thumbnails_ending_view_detail_btn">Continuar</string>
+    <string name="clear_thumbnails_progress_dialog_text">A verificar dados…</string>
+    <string name="clear_thumbnails_text_link_content">Sincronizar com a Xiaomi Cloud já não está disponível nesta versão da Galeria. Pode ver os itens em i.mi.com</string>
+    <string name="clear_thumbnails_text_link_content_global">Sincronizar com a Xiaomi Cloud já não está disponível. Itens não sincronizados foram removidos do feed da Galeria</string>
+    <string name="clear_thumbnails_text_show_no_again">Não mostrar novamente</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_download_gif">Toque para transferir GIF</string>
     <string name="click_top_right">Toque neste ícone</string>

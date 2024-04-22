@@ -520,6 +520,7 @@ Prima \"Limpar e converter…\" para continuar"</string>
     <string name="dial_emergency_empty_error">Não é possível ligar. Marque um número de emergência</string>
     <string name="dial_emergency_error">Não é possível ligar. %s não é um número de emergência</string>
     <string name="dial_related_setting_catory">Marcação</string>
+    <string name="dial_settings_screen_title">Definições de marcação</string>
     <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
     <string name="dialog_cancel">Cancelar</string>
     <string name="dialog_network_priority_title">Rede prioritária</string>
@@ -1101,6 +1102,8 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
     <string name="other_available_phone_accounts">Outras contas disponíveis</string>
     <string name="other_settings">Outras definições de chamada</string>
     <string name="other_settings_category">Outros</string>
+    <string name="other_settings_categorys">Funcionalidades adicionais</string>
+    <string name="other_settings_screen_title">Outras definições</string>
     <string name="overseas_roaming_setting">Dados em roaming</string>
     <string name="pane_title_emergency_dialpad">Teclado de emergência</string>
     <string name="password_changed">Palavra-passe alterada</string>
