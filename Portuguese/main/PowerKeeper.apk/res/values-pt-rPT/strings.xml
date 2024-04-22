@@ -23,7 +23,7 @@
     <string name="cloud_russion_addr">Actualizar dados do servidor</string>
     <string name="cloud_staging_addr">Actualizar dados do servidor desenvolvimento</string>
     <string name="config_classify">Ordenar por definições da aplicação</string>
-    <string name="config_description">A MIUI consegue identificar as aplicações com processos em segundo plano (p.e. aplicações de mensagens e navegação, leitores de música) e poupar bateria de modo a que não influencie as actividades mais importantes em segundo plano</string>
+    <string name="config_description">O seu dispositivo consegue identificar as aplicações com processos em segundo plano (p.e. aplicações de mensagens e navegação, leitores de música) e poupar bateria de modo a que não influencie as actividades mais importantes em segundo plano</string>
     <string name="config_mode_title">Definições de segundo plano</string>
     <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade das aplicações</string>
     <string name="config_no_restrict_title">Sem restrições</string>

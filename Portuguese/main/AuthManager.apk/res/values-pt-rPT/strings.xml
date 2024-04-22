@@ -107,6 +107,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">aceder ao hardware de NFC (Near Field Communication)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Aceder à aplicação Telefone</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">atender, monitorizar e terminar chamadas</string>
+    <string name="HIPS_Perm_read_Calendar">Aceder ao calendário</string>
+    <string name="HIPS_Perm_read_Calendar_Desc">Ver eventos adicionados ao calendário</string>
     <string name="HIPS_Perm_read_clipboard">Aceder a itens na área de transferências</string>
     <string name="HIPS_Perm_read_clipboard_Desc">permitir que a aplicação aceda a itens na área de transferências</string>
     <string name="HIPS_Perm_read_notification_sms">SMS de serviços</string>
