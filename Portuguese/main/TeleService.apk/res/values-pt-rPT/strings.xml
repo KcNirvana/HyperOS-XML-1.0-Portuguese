@@ -647,6 +647,7 @@ Prima \"Limpar e converter…\" para continuar"</string>
     <string name="fdn_list_with_label">Lista FDN (%s)</string>
     <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
     <string name="fdn_with_label">Números de marcação fixa (%s)</string>
+    <string name="feedback_title">Comentários</string>
     <string name="fire_type_description">Fire</string>
     <string name="fiveg_hosted_mode_summary">Seleccionar a melhor rede automaticamente para poupar bateria</string>
     <string name="fiveg_hosted_mode_title">Rede 5G</string>
@@ -2278,7 +2279,6 @@ You can still make emergency calls."</string>
     <string name="oem_unlock_enable_summary">Permitir que o bootloader seja desbloqueado</string>
     <string name="okay">OK</string>
     <string name="optimization_settings_category">Optimization</string>
-    <string name="other_settings_categorys">Additional features</string>
     <string name="overlay_display_devices_title">Simulate secondary displays</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="permission_description">Detalhes das permiss\oes</string>
