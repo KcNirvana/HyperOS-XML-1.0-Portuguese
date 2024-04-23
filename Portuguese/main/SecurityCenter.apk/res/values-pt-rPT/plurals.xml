@@ -603,8 +603,8 @@ You can get a %d-day free trial now!"</item>
         <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
-        <item quantity="other">vezes</item>
-        <item quantity="one">vez</item>
+        <item quantity="other">" vezes"</item>
+        <item quantity="one">" vez"</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d problemas de bateria</item>
@@ -643,8 +643,8 @@ You can get a %d-day free trial now!"</item>
         <item quantity="one">" %d item pode ser optimizado"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
-        <item quantity="other">Optimize %d itens para poupar bateria</item>
-        <item quantity="one">Optimize %d item para poupar bateria</item>
+        <item quantity="other">Optimizar %d itens para poupar bateria</item>
+        <item quantity="one">Optimizar %d item para poupar bateria</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
         <item quantity="other">Pode optimizar %d itens para poupar bateria</item>
