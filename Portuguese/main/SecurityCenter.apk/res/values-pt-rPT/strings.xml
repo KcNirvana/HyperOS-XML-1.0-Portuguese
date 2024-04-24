@@ -5290,7 +5290,6 @@ mas aumenta o consumo de bateria e permite que o dispositivo possa superaquecer"
     <string name="not_set">Não definido</string>
     <string name="not_support_root_summary">Permitir o acesso root para aplicações de terceiros pode representar riscos de segurança e danificar o seu dispositivo. Devido a isso, deixámos de fornecer opções para gerir permissões de acesso root</string>
     <string name="not_support_root_title">Acesso root</string>
-    <string name="pc_battery_chart_loading">Aguarde…</string>
     <string name="pc_hidemode_normal_title">Equilibrado</string>
     <string name="phone_manager_edit_commonly_used_func_title">Editar funcionalidades comuns</string>
     <string name="phone_manager_title">Ferramentas</string>

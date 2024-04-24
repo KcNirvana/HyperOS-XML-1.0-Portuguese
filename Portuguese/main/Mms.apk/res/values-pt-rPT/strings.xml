@@ -498,6 +498,7 @@ Uma mensagem SMS é necessária para activar o Mi Message. A sua operadora pode 
     <string name="pref_collapse_sp_messages_summary">Agrupar automaticamente as notificações de SMS</string>
     <string name="pref_delivery_ringtone">Som de entrega</string>
     <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
+    <string name="pref_feedback_title">Comentários</string>
     <string name="pref_forward_title">Reencaminhar</string>
     <string name="pref_hide_verification_code_summary">Ocultar OTP automaticamente nas notificações no ecrã de bloqueio seguro</string>
     <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
