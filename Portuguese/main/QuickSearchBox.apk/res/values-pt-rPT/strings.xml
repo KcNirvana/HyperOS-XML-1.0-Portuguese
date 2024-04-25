@@ -121,7 +121,7 @@ Pode alterar esta definição em Definições &gt; Aplicações de sistema &gt; 
     <string name="update_title">Actualização disponível</string>
     <string name="update_version_alpha">Alpha</string>
     <string name="update_version_dev">Beta</string>
-    <string name="update_version_stable">Estável</string>
+    <string name="update_version_stable">Stable</string>
     <string name="updated_title">A MIUI está actualizada</string>
     <string name="voice_search_hint_title">Tente dizer:</string>
     <string name="web_search_results">Google</string>

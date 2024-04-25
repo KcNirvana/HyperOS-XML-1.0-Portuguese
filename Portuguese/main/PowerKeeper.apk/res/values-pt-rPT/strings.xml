@@ -28,6 +28,7 @@
     <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade das aplicações</string>
     <string name="config_no_restrict_title">Sem restrições</string>
     <string name="config_restrict_function_description">Fechar aplicações após 10 minutos de actividade em segundo plano</string>
+    <string name="config_restrict_function_description_new">Fechar aplicações após %d minutos de actividade em segundo plano</string>
     <string name="config_restrict_function_title">Restringir aplicações em segundo plano</string>
     <string name="config_restrict_running_description">Aplicações vão ser fechadas para poupar bateria</string>
     <string name="config_restrict_running_title">Restringir actividade em segundo plano</string>

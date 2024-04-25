@@ -712,6 +712,7 @@ Alterar definições agora?"</string>
     <string name="applications_settings_header">Definições da aplicação</string>
     <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
     <string name="applications_settings_title">Aplicações</string>
+    <string name="applications_settings_title_new">Gerir aplicações</string>
     <string name="apply">Aplicar</string>
     <string name="apply_fingerprint_to">Utilizar impressões digitais para</string>
     <string name="apply_fingerprint_to_category_title">Utilização de impressões digitais</string>
@@ -1078,7 +1079,7 @@ As cópias são guardadas na Xiaomi Cloud e podem ser acedidas de qualquer lugar
     <string name="battery_saver_on_summary">Ligada</string>
     <string name="battery_saver_schedule_settings_title">Programar</string>
     <string name="battery_saver_seekbar_title_placeholder">Ligar</string>
-    <string name="battery_saver_sticky_description_new">Desligar quando a bateria estiver a ^1%</string>
+    <string name="battery_saver_sticky_description_new">Desligar quando a bateria estiver a %1$s</string>
     <string name="battery_saver_sticky_title_new">Desligar quando carregada</string>
     <string name="battery_saver_turn_on_automatically_never">Nunca</string>
     <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
@@ -2728,17 +2729,17 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
     <string name="device_internal_memory">Armazenamento interno</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">Ver mais</string>
-    <string name="device_miui_version">Versão MIUI</string>
-    <string name="device_miui_version_for_POCO">Versão MIUI (para POCO)</string>
-    <string name="device_miui_version_parameters">Versão MIUI</string>
-    <string name="device_miui_version_update">Actualização MIUI disponível</string>
+    <string name="device_miui_version">Versão SO</string>
+    <string name="device_miui_version_for_POCO">Versão SO (para POCO)</string>
+    <string name="device_miui_version_parameters">Versão SO</string>
+    <string name="device_miui_version_update">Actualizar</string>
     <string name="device_name">Nome do dispositivo</string>
     <string name="device_name_input_error">Erro ao guardar o nome do dispositivo</string>
     <string name="device_name_input_hint">Introduzir nome</string>
     <string name="device_name_input_overlength">O texto introduzido é demasiado longo</string>
     <string name="device_name_usage_point">Outros dispositivos próximos podem ver este nome</string>
     <string name="device_oaid">ID de dispositivo</string>
-    <string name="device_oaid_desc">Em vez do seu identificador único, a MIUI vai fornecer um ID virtual (OAID) para as aplicações instaladas. Impede que as aplicações registem o seu comportamento e preferências e protege a sua privacidade</string>
+    <string name="device_oaid_desc">Em vez do seu identificador único, o sistema vai fornecer um ID virtual (OAID) para as aplicações instaladas. Impede que as aplicações registem o seu comportamento e preferências e protege a sua privacidade</string>
     <string name="device_oaid_title">ID virtual</string>
     <string name="device_of_someone">%2$s de %1$s</string>
     <string name="device_opcust_version">Versão personalizado</string>
@@ -3358,6 +3359,7 @@ O desbloqueio facial é menos seguro que PIN, palavra-passe ou padrão. O seu di
     <string name="face_intro_error_unknown">Não é possível adicionar mais rosto</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Ao proteger o seu telefone com uma opção de bloqueio de ecrã ninguém o vai conseguir utilizar se for roubado ou se o perder. Também precisa de uma opção de bloqueio de ecrã para configurar o desbloqueio facial. Para voltar, toque em Cancelar</string>
     <string name="face_password_unlock">Dados do rosto e bloqueio de ecrã</string>
+    <string name="face_password_unlock_new">Dados do rosto e bloqueio de ecrã</string>
     <string name="face_unlock">Desbloqueio facial</string>
     <string name="face_unlock_be_on_the_screen">Segure o dispositivo em frente ao seu rosto</string>
     <string name="face_unlock_by_notification_screen_on_msg">Pode desbloquear o dispositivo utilizando o seu rosto sempre que houver notificações. Isto consome mais bateria</string>
@@ -3412,6 +3414,7 @@ de frente para o ecrã externo"</string>
     <string name="feedback">Comentários</string>
     <string name="feedback_btn_text">Submeter comentário</string>
     <string name="feedback_settings">Comentários</string>
+    <string name="feedback_settings_new">Comentários</string>
     <string name="file_privacy_password_role_instruction">Os seus ficheiros privados vão ser armazenados aqui</string>
     <string name="filter">Filtro</string>
     <string name="filter_all_apps">Todas as aplicações</string>
@@ -7534,6 +7537,7 @@ Para utilizar a fixação da aplicação: \u0009
     <string name="security_password_category_name">Tipo de segurança</string>
     <string name="security_passwords_title">Privacidade</string>
     <string name="security_patch">Actualização de segurança do Android</string>
+    <string name="security_patch_subtitle">"Actualização de segurança do Android: "</string>
     <string name="security_privacy_settings_title">Privacidade</string>
     <string name="security_relative">Segurança</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Face and fingerprints added</string>

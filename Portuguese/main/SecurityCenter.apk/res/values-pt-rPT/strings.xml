@@ -391,7 +391,7 @@
     <string name="app_install_tips_go_to">Abrir</string>
     <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
     <string name="app_management_empty_desc">Esta aplicação não suporta esta funcionalidade</string>
-    <string name="app_management_for_chain_start">Bloquear aberturar de outras aplicações</string>
+    <string name="app_management_for_chain_start">Bloquear abertura de outras aplicações</string>
     <string name="app_management_for_chain_start_desc">Prevenir que esta aplicação se ligue ou abra outras aplicações</string>
     <string name="app_management_for_device_id">Ocultar identificadores e prevenir rastreio</string>
     <string name="app_management_for_device_id_desc">Prevenir que esta aplicação aceda ao seu número de telefone e informações pessoais</string>
