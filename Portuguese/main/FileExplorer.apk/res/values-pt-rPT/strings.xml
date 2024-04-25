@@ -133,6 +133,7 @@
     <string name="create_folder">Criar</string>
     <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
     <string name="cta_function_account_operation">Para um início rápido na sua Conta Xiaomi</string>
+    <string name="cta_use_sync_midrive_file">Para sincronizar ficheiros com o Mi Drive</string>
     <string name="data_consume_dialog_message">Está a utilizar dados móveis. Se continuar, vai utilizar %s de dados</string>
     <string name="data_consume_dialog_title">Utilizar dados móveis?</string>
     <string name="data_consume_dialog_upload_title">Carregar utilizando dados móveis</string>
@@ -252,9 +253,9 @@
     <string name="ftp_transfer_secure">Segurança</string>
     <string name="ftp_username_and_passworld">Iniciar sessão</string>
     <string name="ftp_username_hint">Utilizador</string>
-    <string name="function_file_operation">"Para aceder e abrir ficheiros; "</string>
-    <string name="function_set_private">"Para ver e encriptar ficheiros; "</string>
-    <string name="function_use_imei">"Para aceder ao IMEI e encriptar ficheiros; "</string>
+    <string name="function_file_operation">Para aceder e abrir ficheiros</string>
+    <string name="function_set_private">Para ver e encriptar ficheiros</string>
+    <string name="function_use_imei">Para aceder ao IMEI e encriptar ficheiros</string>
     <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
     <string name="go_ahead">Abrir</string>
     <string name="grid_mode">Vista de grelha</string>

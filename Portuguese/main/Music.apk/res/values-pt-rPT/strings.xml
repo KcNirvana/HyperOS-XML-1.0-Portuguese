@@ -121,7 +121,7 @@
     <string name="app_permission_use_group_storage">Armazenamento</string>
     <string name="app_permission_use_group_storage_desc">Para localizar e reproduzir músicas no dispositivo</string>
     <string name="app_resident_push_switch">Permitir notificações permanentes</string>
-    <string name="app_third_privacy">Política Privacidade de terceiros</string>
+    <string name="app_third_privacy">Política de Privacidade de terceiros</string>
     <string name="app_push_game_invite_title">%1$s invites you to play %2$s</string>
     <string name="apply_failure">Failed to upload the microphone</string>
     <string name="apply_failure_net_error">The network is abnormal, the request to upload the microphone failed, please try again later~</string>

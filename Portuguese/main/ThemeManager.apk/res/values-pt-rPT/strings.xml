@@ -326,6 +326,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
     <string name="lockscreen_magazine_system_subscribe">%1$s papéis de parede</string>
     <string name="lockscreen_magazine_system_title">Dispositivo</string>
     <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
+    <string name="lockscreen_tip_content">Premir e segurar o ecrã de bloqueio para começar a editar. Torne-o realmente seu com novos templates e personalizações</string>
     <string name="lockscreen_wallpaper">Ecrã de bloqueio</string>
     <string name="lockstyle_personal_settings">Personalizar</string>
     <string name="long_click_can_hide_resource">Prima e segure para ocultar itens</string>
