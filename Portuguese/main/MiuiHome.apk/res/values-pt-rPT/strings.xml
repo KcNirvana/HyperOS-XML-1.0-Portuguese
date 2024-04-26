@@ -428,11 +428,6 @@ Segurança melhorada"</string>
     <string name="search_no_result">Sem resultados</string>
     <string name="select_all">Seleccionar tudo</string>
     <string name="server_error">Ocorreu um erro de servidor. Aguarde um momente e tente novamente</string>
-    <string name="setting_wallpaper_tip">Faça zoom ou deslize para ajustar</string>
-    <string name="settings">Definições</string>
-    <string name="settings_shortcut">Definições</string>
-    <string name="shake_to_align_icons">Agitar o dispositivo para preencher as células vazias com ícones</string>
-    <string name="share">Partilhar</string>
     <string name="shortcut_share_dialog_content">Os ficheiros que enviar do seu telefone são determinados por si. Tenha em atenção quando escolher ficheiros para partilhar e seleccionar os seus remetentes. Não utilize o seu telefone para enviar software que possa afectar o normal funcionamento do dispositivo do remetente</string>
     <string name="shortcut_share_dialog_content_pad">Os ficheiros que enviar do seu telefone são determinados por si. Tenha em atenção quando escolher ficheiros para partilhar e seleccionar os seus remetentes. Não utilize o seu telefone para enviar software que possa afectar o normal funcionamento do dispositivo do remetente</string>
     <string name="shortcut_share_dialog_positive_button">Percebi</string>
@@ -563,6 +558,14 @@ Segurança melhorada"</string>
     <string name="request_permission_msg">POCO Launcher necessita de permissões para ter acesso a todas as funcionalidades</string>
     <string name="request_permission_title">Permissões necessárias</string>
     <string name="service_double_attention">A pesquisa melhorada é fornecida por Branch Metrics Inc. Para funcionar, é necessário partilhar as suas pesquisas e endereço IP com a Branch Metrics Inc. Leia e concorde com <font color="#B3000000"><a href="http://url1">Termos e Condições de Branch Discoverys</a></font> e <font color="#B3000000"><a href="http://url2">Política de Privacidade de Branch Discovery</a></font> antes de utilizar esta funcionalidade</string>
+    <string name="setting_close">Desligado</string>
+    <string name="setting_no_word">Em todo o lado</string>
+    <string name="setting_only_widget_no_word">Em widgets</string>
+    <string name="setting_wallpaper_tip">Apertar ou deslizar para ajustar</string>
+    <string name="settings">Definições</string>
+    <string name="settings_shortcut">Definições</string>
+    <string name="shake_to_align_icons">Agitar o dispositivo para preencher as células vazias com ícones</string>
+    <string name="share">Partilhar</string>
     <string name="small_window">Janelas flutuantes</string>
     <string name="suggestions">Sugestões</string>
     <string name="switch_on_button">Ligar</string>
