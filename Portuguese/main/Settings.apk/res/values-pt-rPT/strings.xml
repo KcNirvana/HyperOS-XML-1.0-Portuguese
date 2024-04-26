@@ -31,7 +31,7 @@
     <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Xiaomi para repor palavra-passe</string>
     <string name="access_denied_info">Demasiadas tentativas. Aguarde um momento e tente novamente</string>
     <string name="access_point_names">Pontos de acesso (APN)</string>
-    <string name="accessibility_alarm_vibration_title">Alarm vibration</string>
+    <string name="accessibility_alarm_vibration_title">Vibração do alarme</string>
     <string name="accessibility_audio_adjustment_title">Ajuste de áudio</string>
     <string name="accessibility_audio_description_summary">Ouvir uma descrição do que se está a passar no ecrã em filmes e séries suportados</string>
     <string name="accessibility_autoclick_about_title">Acercar de Clique automático</string>
@@ -11196,9 +11196,6 @@ To learn more, contact your credit provider."</string>
     <string name="reboot_dialog_reboot_now">Reboot now</string>
     <string name="reboot_with_mte_message">System will reboot and allow to experiment with Memory Tagging Extension (MTE). MTE may negatively impact system performance and stability. Will be reset on next subsequent reboot.</string>
     <string name="reboot_with_mte_title">Reboot with MTE</string>
-    <string name="reduce_bright_colors_about_title">About extra dim</string>
-    <string name="reduce_bright_colors_preference_intro_text">Make your screen dimmer so it’s more comfortable to read</string>
-    <string name="reduce_bright_colors_shortcut_title">Extra dim shortcut</string>
     <string name="safety_center_summary">App security, device lock, permissions</string>
     <string name="safety_center_title">Segurança e privacidade</string>
     <string name="screen_resolution_footer">Switching your resolution might cause some apps currently running to close.</string>
