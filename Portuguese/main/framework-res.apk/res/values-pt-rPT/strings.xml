@@ -1540,8 +1540,9 @@ para a conta %s"</string>
     <string name="reboot_to_update_title">Actualização do sistema Android</string>
     <string name="recent_tasks_title">Recente</string>
     <string name="redo">Redo</string>
-    <string name="reduce_bright_colors_feature_name">Extra dim</string>
-    <string name="region_picker_section_all">All regions</string>
+    <string name="reduce_bright_colors_feature_name">Escuridade</string>
+    <string name="region_picker_section_all">Todas as regiões</string>
+    <string name="region_picker_section_suggested_bilingual">Regiões sugeridas</string>
     <string name="relationTypeAssistant">Assistente</string>
     <string name="relationTypeBrother">Irmão</string>
     <string name="relationTypeChild">Filho</string>

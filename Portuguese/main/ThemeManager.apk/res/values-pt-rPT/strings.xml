@@ -697,6 +697,10 @@ Toque aqui para iniciar agora"</string>
     <string name="resource_waiting_download">A aguardar</string>
     <string name="resource_waiting_pause">Pausar</string>
     <string name="resource_wallpaper_download">Transferir papel de parede</string>
+    <string name="restore_default_change_wallpaper_when_special_lockscreen">Está a utilizar um template de ecrã de bloqueio. Se continuar, o ecrã de bloqueio vai ser reposto para o predefinido e os papéis de parede vão ser substituídos. Aplicar agora?</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">Este ecrã de bloqueio não suporta os Super papéis de parede. Se aplicar, o ecrã de bloqueio vai ser reposto para o predefinido e os papéis de parede vão ser substituídos. Aplicar agora?</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">Está a utilizar um template de ecrã de bloqueio. Se continuar, o ecrã de bloqueio vai ser reposto para o predefinido. Aplicar agora?</string>
+    <string name="restore_history_lock_screen_when_apply_theme">Está a utilizar um tema de terceiros. Se alterar o papel de parede do ecrã de bloqueio, pode fazer com que o relógio seja resposto para o predefinido. Aplicar agora?</string>
     <string name="restore_home_icon_text">Adicionar um atalho no ecrã inicial</string>
     <string name="restore_icon_later">Pode adicionar um atalho no ecrã inicial nas Definições novamente</string>
     <string name="ringtone_confirm_dialog_message">A duração deste toque é longa. Usar mesmo assim?</string>
