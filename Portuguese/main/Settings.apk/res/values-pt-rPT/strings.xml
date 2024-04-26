@@ -1478,7 +1478,7 @@ Não se ligou a %2$s antes"</string>
     <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s</string>
     <string name="bluetooth_pairing_key_msg">Código de emparelhamento Bluetooth</string>
     <string name="bluetooth_pairing_page_title">Emparelhar novo dispositivo</string>
-    <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O PIN ou a palavra-chave não está correcto</string>
+    <string name="bluetooth_pairing_pin_error_message">O PIN ou a palavra-chave incorrecto. Não foi possível emparelhar</string>
     <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
     <string name="bluetooth_pairing_request">Emparelhar com %1$s?</string>
     <string name="bluetooth_pairing_shares_phonebook">Permitir o acesso aos contactos e registo de chamadas</string>
@@ -8236,12 +8236,11 @@ Remover consentimento de %s agora?"</string>
     <string name="split_screen">Abrir ecrã dividido</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
-    <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
-%s
+    <string name="ssl_ca_cert_info_message">"{numberOfCertificates, plural, =1 {{orgName} has installed a certificate authority for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
 
-O seu administrador pode monitorizar a sua actividade na rede, incluindo emails, aplicações e páginas de Internet seguras.
+Para mais informações contacte o seu administrador} other {{orgName} has installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
 
-Para mais informações contacte o seu administrador"</string>
+Para mais informações contacte o seu administrador} }"</string>
     <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
     <string name="ssl_ca_cert_warning">A rede pode estar a ser monitorizada</string>
     <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de email, aplicações e páginas de Internet seguras.
@@ -9328,7 +9327,7 @@ ou auscultadores com ficha de 3,5 mm"</string>
     <string name="use_this_wlan">Permanecer ligado</string>
     <string name="use_wifi_hotsopt_main_switch_title">Use Wi-Fi hotspot</string>
     <string name="user_account_title">Conta para conteúdo</string>
-    <string name="user_add_max_count">É possível adicionar até %1$d utilizadores</string>
+    <string name="user_add_max_count">Não pode adicionar mais utilizadores. Remova um utilizador para adicionar outro</string>
     <string name="user_add_on_lockscreen_menu">Adicionar utilizadores do ecrã de bloqueio</string>
     <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicações e conteúdos a partir da sua conta</string>
     <string name="user_add_profile_item_title">Perfil restrito</string>
@@ -9632,7 +9631,7 @@ Durante uma chamada de voz, não pode utilizar a Internet e algumas aplicações
     <string name="vpn_turn_on">Ligar</string>
     <string name="vpn_type">Tipo</string>
     <string name="vpn_username">Utilizador</string>
-    <string name="vpn_version">Versão %s</string>
+    <string name="vpn_version">Versão</string>
     <string name="vr_listener_security_warning_summary">Será possível executar o %1$s quando estiver a utilizar aplicações no modo de realidade virtual</string>
     <string name="vr_listener_security_warning_title">Pretende permitir que o serviço de RV tenha acesso a %1$s?</string>
     <string name="vr_listeners_title">Serviços de assistente de RV</string>

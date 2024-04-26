@@ -317,7 +317,8 @@ Pode iniciar outra sessão no seu computador"</string>
     <string name="lock_layout_sub">Desbloquear para continuar</string>
     <string name="lock_layout_title">Computador bloqueado</string>
     <string name="low_battery_notification_action">Ligar</string>
-    <string name="low_battery_notification_content">Menos de %2$d%% bateria restante em %1$s. Ligue a poupança de bateria</string>
+    <string name="low_battery_notification_content">Menos de %2$s bateria restante em %1$s</string>
+    <string name="low_battery_notification_content_default">A bateria está menos de %1$s</string>
     <string name="low_battery_notification_title">Bateria fraca</string>
     <string name="notification_state_cancel">Desligar</string>
     <string name="notification_state_content">Este dispositivo está ligado ao computador de %1$s. Pode partilhar dispositivos, ficheiros e imagens agora</string>

@@ -337,7 +337,7 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
     <string name="n_a">N/A</string>
     <string name="name_amount">Valor</string>
     <string name="name_cgst">CGST/SGST: 2.5</string>
-    <string name="name_discount">Desconto (%)</string>
+    <string name="name_discount">Desconto (%s)</string>
     <string name="name_gst">TBS</string>
     <string name="name_is">Resultados</string>
     <string name="name_of">Total</string>

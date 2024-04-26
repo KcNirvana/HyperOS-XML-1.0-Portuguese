@@ -337,6 +337,7 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Predefinição de sistema</item>
@@ -344,6 +345,7 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Predefinição de sistema</item>
@@ -354,9 +356,10 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
@@ -369,9 +372,10 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
     </string-array>
@@ -417,6 +421,7 @@
         <item>Activado</item>
         <item>Cabeçalhos filtrados</item>
         <item>Multimédia filtrado</item>
+        <item>Perfis filtrados</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>

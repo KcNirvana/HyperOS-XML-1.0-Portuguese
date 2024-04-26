@@ -408,7 +408,7 @@ Toque no ecrã para adicionar a cidade manualmente"</string>
     <string name="unit">Unidades</string>
     <string name="unit_temperature">Temperatura</string>
     <string name="unit_wind">Velocidade do vento</string>
-    <string name="update_night_setting_summary_text">Actualizar informações do tempo entre as %1$s e %2$s</string>
+    <string name="update_night_setting_summary_text">Actualizar informações do tempo entre as 23:00 e as 7:00s</string>
     <string name="update_night_setting_title_text">Actualizar à noite automaticamente</string>
     <string name="update_notification_info">A actualizar dados em segundo plano…</string>
     <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
@@ -427,7 +427,7 @@ Toque no ecrã para adicionar a cidade manualmente"</string>
     <string name="weather_aqi_full_air_quality_forcast">Previsão total da qualidade do ar</string>
     <string name="weather_introduce">Sempre consigo, faça chuva ou sol</string>
     <string name="weather_main_aqi_desc">IQA</string>
-    <string name="weather_main_minute_hour">Precipitação %d horas</string>
+    <string name="weather_main_minute_hour">Precipitação de 2 horas</string>
     <string name="weather_main_speak_tips">Toque para transmitir o tempo por voz</string>
     <string name="weather_more_air_quality">Mais sobre a qualidade do ar</string>
     <string name="weather_permission_agree">Aceitar</string>

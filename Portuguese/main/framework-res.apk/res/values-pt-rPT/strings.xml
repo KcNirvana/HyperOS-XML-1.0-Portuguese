@@ -529,7 +529,7 @@ utilizando %s"</string>
     <string name="ext_media_unmountable_notification_title">%s danificado</string>
     <string name="ext_media_unmounting_notification_message">Não remover</string>
     <string name="ext_media_unmounting_notification_title">Ainda a ejectar %s…</string>
-    <string name="ext_media_unsupported_notification_message">O dispositivo não suporta este %s. Toque para configurar num formato suportado</string>
+    <string name="ext_media_unsupported_notification_message">Tocar para configurar</string>
     <string name="ext_media_unsupported_notification_title">%s não suportado</string>
     <string name="extract_edit_menu_button">Edit</string>
     <string name="face_acquired_insufficient">Couldn’t capture accurate face data. Try again.</string>
@@ -808,7 +808,7 @@ Tente novamente dentro de %d segundos"</string>
     <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
     <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas vão desactivar o SIM permanentemente</string>
     <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números</string>
-    <string name="kg_invalid_sim_puk_hint">Código PUK deve ter 8 números</string>
+    <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 números</string>
     <string name="kg_login_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
 Visite <b>google.com/accounts/recovery</b>"</string>
     <string name="kg_login_checking_password">A verificar conta…</string>

@@ -3219,10 +3219,8 @@ Send this code to the supervisor."</string>
     <string name="disconnect_migration_btn_disconnect">Stop</string>
     <string name="disconnect_migration_msg">Photos and videos that have already been transferred will remain in Google Photos.</string>
     <string name="disconnect_migration_title">Stop transferring?</string>
-    <string name="doc_photo_enter" />
     <string name="doing_query_account">Checking account info…</string>
     <string name="downloading_desc">%1$d/%2$d</string>
-    <string name="edit_subtitle_enter" />
     <string name="equivalent_focal_length">(Equivalent focal length %dmm)</string>
     <string name="error_check_network_later">Check your network settings and try again</string>
     <string name="error_create_share_album_fail_default">"Couldn't create due to an unknown error"</string>
@@ -3391,7 +3389,6 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
 %2$s"</string>
     <string name="stop_use_secret_ok">Transfer items</string>
     <string name="stop_use_secret_title">Private album is no longer available</string>
-    <string name="super_slow_motion_enter" />
     <string name="switch_account_continue">Resume</string>
     <string name="switch_account_msg_with_email">You previously stopped a transfer to %1$s. Do you want to resume transferring to this Google Account, or start over using another account?</string>
     <string name="switch_account_switch">Start over</string>

@@ -737,9 +737,11 @@
     <string name="ola_trip_content_detail">Calcular tarifa ola aproximada e ligar para um ola</string>
     <string name="opened">On</string>
     <string name="pa_accessibility_picker_home_appList_entrance">View list of supported widgets</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">Selected %1$s, row %2$d, number %3$d. Double tap to start.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Double tap to start."</string>
     <string name="pa_accessibility_picker_home_search">Search for widgets</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">Selected %1$s, row %2$d, number %3$d. Double tap to start.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
+Double tap to start."</string>
     <string name="pa_accessibility_picker_home_title">Add widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selected %s. Switching widgets.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Double tap the button below it to replace with another widget.</string>
