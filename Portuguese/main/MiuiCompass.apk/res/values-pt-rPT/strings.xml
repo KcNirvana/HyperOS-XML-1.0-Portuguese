@@ -105,4 +105,6 @@
     <string name="unit_degree">Graus</string>
     <string name="using_camera_confirm_cancel">Sair</string>
     <string name="using_camera_confirm_ok">Concordar</string>
+    <string name="v2_permission_location_desc_one">Para mostrar latitude, longitude, altitude e pressão do ar</string>
+    <string name="v2_permission_location_desc_two">Para mostrar latitude e longitude</string>
 </resources>

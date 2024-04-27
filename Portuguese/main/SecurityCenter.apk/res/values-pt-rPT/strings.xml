@@ -505,6 +505,7 @@
     <string name="app_manager_show_detail_infos">Ver tudo</string>
     <string name="app_manager_start_by">Iniciado por %s</string>
     <string name="app_manager_system_mobile_disable">Desligar dados móveis</string>
+    <string name="app_manager_systemapp_setting">Aplicações de sistema</string>
     <string name="app_manager_tab_app">Aplicações</string>
     <string name="app_manager_tab_manager">Gerir</string>
     <string name="app_manager_thumbnail_blur_summary">Desfocar pré-visualizações em Recentes</string>
@@ -2099,6 +2100,7 @@ to join our egg hunt!"</string>
     <string name="input_aviable_traffic">Definir utilização de dados</string>
     <string name="input_celluar_data_quota_hint">Introduzir limite de dados</string>
     <string name="input_cellular_data_warn_hint">Introduzir limite do aviso de utilização de dados</string>
+    <string name="input_hint_search_app">Pesquisar aplicações</string>
     <string name="input_password_hint_text">Introduzir palavra-passe</string>
     <string name="input_traffic_pkg">Definir utilização de dados</string>
     <string name="input_used_hint">Definir utilização de dados</string>
@@ -2876,6 +2878,8 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="permission_action_reject">Negar</string>
     <string name="permission_action_tag">Protecção de privacidade</string>
     <string name="permission_action_virtual">Devolver mensagens em branco</string>
+    <string name="permission_action_virtual_common_summary">Conceder às aplicações as permissões necessárias mas retornar mensagens vazias para proteger a sua privacidade</string>
+    <string name="permission_action_virtual_phone_summary">Conceder às aplicações as permissões necessárias mas não permitir que acedam ao número de telefone real do cartão SIM</string>
     <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo, as aplicações não vão pedir a sua permissão para lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
     <string name="permission_close_permission_control_dialog_title">Desligar?</string>
     <string name="permission_group_audio">Permite que as aplicações acedam a músicas e outros ficheiros áudio neste dispositivo</string>

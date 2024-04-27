@@ -308,7 +308,12 @@
 
 How to grant permission
 Tap \"%1$s\", and then select \"%2$s\"."</string>
-    <string name="new_saf_permission_dialog_grant_permission_immediately">Next</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Seguinte</string>
+    <string name="new_search_alll_records_hint">Pesquisar todas as gravações</string>
+    <string name="new_search_app_records_hint">Pesquisar gravações de aplicações</string>
+    <string name="new_search_call_records_hint">Pesquisar gravações de chamadas</string>
+    <string name="new_search_fm_records_hint">Pesquisar gravações de rádio</string>
+    <string name="new_search_recorder_records_hint">Pesquisar no Gravador</string>
     <string name="not_allowed">Not granted</string>
     <string name="not_set">Not set</string>
     <string name="offline_recognize_progress">Transcribing offline %s…</string>

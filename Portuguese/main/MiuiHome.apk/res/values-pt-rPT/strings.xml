@@ -337,8 +337,6 @@ Segurança melhorada"</string>
     <string name="navigation_type_title">Navegação do sistema</string>
     <string name="navigation_type_virtual_key">Botões</string>
     <string name="network_error">Não foi possível ligar à rede. Tente novamente</string>
-    <string name="no_space_toast">Sem espaço</string>
-    <string name="no_space_toast_when_click_widget">Sem espaço nesta página. Tente uma página diferente</string>
     <string name="notification_open_button">Abrir</string>
     <string name="notification_reset_title">Ícones organizados com sucesso</string>
     <string name="one_key_call_title">Toque para marcar</string>
@@ -546,6 +544,12 @@ Segurança melhorada"</string>
     <string name="navigation_position_summary">As posições personalizadas dos botões de navegação apenas podem ser aplicadas ao ecrã inicial</string>
     <string name="navigation_position_title">Posição dos botões de navegação</string>
     <string name="new_feature_title">O que há de novo</string>
+    <string name="new_open_personal_assistant_settings_simplified">Assistente</string>
+    <string name="new_privacy_thumbnail_blur_summary">Desfocar pré-visualização de aplicações em Recentes</string>
+    <string name="new_recents_config_title">Outros</string>
+    <string name="no_space_toast">Sem espaço</string>
+    <string name="no_space_toast_fold">Sem espaço</string>
+    <string name="no_space_toast_when_click_widget">Sem espaço nesta página. Tente uma página diferente</string>
     <string name="not_set">Não definido</string>
     <string name="notification_channel_alerts">Alertas</string>
     <string name="popular_search">Destaques</string>

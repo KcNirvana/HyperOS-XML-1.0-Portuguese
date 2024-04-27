@@ -893,6 +893,10 @@ Alterar definições agora?"</string>
     <string name="automatic_storage_manager_text">Quando o espaço para armazenamento estiver quase cheio, remova as fotos e os vídeos do seu dispositivo</string>
     <string name="automatic_system_heap_dump_summary">Fazer automaticamente uma captura da área dinâmica para dados para o sistema Android quando utilizar demasiada memória</string>
     <string name="automatic_system_heap_dump_title">Capturas automáticas da área dinâmica para dados do sistema</string>
+    <string name="autoui_mode_guide_text">Optimizar layouts da aplicação para aplicações compatíveis para melhorar a experiência visual</string>
+    <string name="autoui_mode_name">Optimizar layout da aplicação</string>
+    <string name="autoui_mode_no_support_apps">Não foi possível encontrar aplicações compatíveis</string>
+    <string name="autoui_search_hint">Pesquisar aplicações</string>
     <string name="available_size">Disponível: %s</string>
     <string name="available_via_app">Disponível via %1$s</string>
     <string name="available_via_carrier">Disponível via %1$s</string>
@@ -3711,6 +3715,10 @@ Esta funcionalidade apenas está disponível quando a navegação está definida
     <string name="freeform_guide_slide_up_to_close_summary">Deslizar para cima a partir da barra duma janela flutuante</string>
     <string name="freeform_guide_slide_up_to_close_title">Fechar janelas flutuantes</string>
     <string name="freeform_guide_vedio_description">Tocar numa aplicação na barra lateral para a abrir numa janela flutuante</string>
+    <string name="freeform_recommend_open_switch_summary">Receber sugestões para abrir aplicações no modo ecrã dividido ou janelas flutuantes</string>
+    <string name="freeform_recommend_open_switch_summary_fold">Nalguns cenários, as aplicações recomendadas vão ser abertas numa janela flutuante no ecrã externo ou numa janela flutuante/ecrã dividido no ecrã interno</string>
+    <string name="freeform_recommend_open_switch_summary_phone">Nalguns cenários, as aplicações recomendadas vão ser abertas numa janela flutuante</string>
+    <string name="freeform_recommend_open_switch_title">Sugestões inteligentes</string>
     <string name="freeform_vedio_description">"·Premir, segurar e puxar para baixo uma notificação para a abrir numa janela flutuante
 
 ·Toque \"Janelas flutuantes\" em Recentes para seleccionar aplicações"</string>
@@ -5189,6 +5197,14 @@ Não pode reverter esta acção!"</string>
     <string name="mi_upi_settings">Mi Pay Account</string>
     <string name="mi_wallet">Mi Wallet</string>
     <string name="mi_wallet_desc">Mi Wallet</string>
+    <string name="mibi_cta_CANCEL">Cancelar</string>
+    <string name="mibi_cta_CheckBox">Não mostrar novamente</string>
+    <string name="mibi_cta_OK">OK</string>
+    <string name="mibi_cta_description">"To use tethering, a subscription is required.If not for subscription, please contact My au.
+%s"</string>
+    <string name="mibi_cta_title">Tethering</string>
+    <string name="mibi_privacy_manage_user_license">Web</string>
+    <string name="mic_toggle_description">Para aplicações e serviços. Se estiver desligado, os dados do microfone ainda podem ser partilhados quando ligar para um número de emergência</string>
     <string name="mic_toggle_title">Acesso ao microfone</string>
     <string name="micloud_service_summary">Sincronizar a lista de aplicações, copiar definições de sistema e layout do ecrã inicial</string>
     <string name="micloud_service_summary_temp">Sincronizar fotos, vídeos, contactos e mais</string>
@@ -6341,7 +6357,7 @@ Leia e concorde com %s antes de utilizar este serviço"</string>
     <string name="peak_refresh_rate_title">Ecrã suave</string>
     <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
     <string name="performance_category">Desempenho</string>
-    <string name="permission_action_prompt">Questão</string>
+    <string name="permission_action_prompt">Perguntar</string>
     <string name="permission_bar_chart_details">Ver tudo no painel de controlo</string>
     <string name="permission_bar_chart_empty_text">0 aplicações utilizaram permissões</string>
     <string name="permission_bar_chart_title">Utilização das permissões nas últimas 24 horas</string>
@@ -7342,6 +7358,7 @@ Para utilizar a fixação da aplicação: \u0009
     <string name="search_apn_settings">APN;Pontos de acesso (APN)</string>
     <string name="search_app_invisible">Aplicações invisíveis;Aplicação invisível</string>
     <string name="search_app_switch_key">Recentes;Recente;Menu;Botão Menu;Gestor de tarefas</string>
+    <string name="search_application_count">Pesquisar aplicações</string>
     <string name="search_application_lock_name">Bloqueio de aplicações</string>
     <string name="search_applications_settings">Aplicações instaladas</string>
     <string name="search_back_key">Voltar;Botão Voltar;Botão voltar</string>
@@ -7908,7 +7925,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
     <string name="show_operator_name_title">Nome da rede</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
     <string name="show_password">Mostrar palavras-passe</string>
-    <string name="show_password_summary">Mostrar carateres rapidamente ao escrever</string>
+    <string name="show_password_summary">Mostrar caracteres rapidamente ao escrever</string>
     <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil no ecrã de bloqueio</string>
     <string name="show_refresh_rate">Mostrar taxa de actualização</string>
     <string name="show_refresh_rate_summary">Mostrar a taxa de actualização actual do ecrã</string>

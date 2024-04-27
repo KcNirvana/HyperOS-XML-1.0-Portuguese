@@ -68,6 +68,14 @@
         <item quantity="other">A cada %1$s minutos</item>
         <item quantity="one">A cada %1$s minuto</item>
     </plurals>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">A cada %1$d minutos</item>
+        <item quantity="one">A cada %1$d minuto</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">Desligar %1$d vezes</item>
+        <item quantity="one">Desligar %1$d vez</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Os alarmes vão desligar %2$s vezes (A cada %1$s min.)</item>
         <item quantity="one">O alarme vai desligar %2$s vez (A cada %1$s min.)</item>

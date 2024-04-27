@@ -590,6 +590,294 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">Transferido por %1$d pessoas</item>
         <item quantity="one">Transferido por %1$d pessoa</item>
     </plurals>
+    <plurals name="permission_usage_allow_activity_recognization">
+        <item quantity="other">%1$s | Acedeu às suas informações de treino %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu às suas informações de treino %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_autostart">
+        <item quantity="other">%1$s | Iniciou automaticamente %2$d vezes</item>
+        <item quantity="one">%1$s | Iniciou automaticamente %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_body_sensor">
+        <item quantity="other">%1$s | Acedeu aos sensores do corpo %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu aos sensores do corpo %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_call_phone">
+        <item quantity="other">%1$s | Efectuou chamadas %2$d vezes</item>
+        <item quantity="one">%1$s | Efectuou chamadas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_camera">
+        <item quantity="other">%1$s | Acedeu à câmara %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu à câmara %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_clipboard">
+        <item quantity="other">%1$s | Acedeu à área de transferências %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu à área de transferências %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_delete_pic">
+        <item quantity="other">%1$s | Eliminou fotos da Galeria %2$d vezes</item>
+        <item quantity="one">%1$s | Eliminou fotos da Galeria %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_device_sensor">
+        <item quantity="other">%1$s | Acedeu à orientação e movimento do dispositivo %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu à orientação e movimento do dispositivo %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_files">
+        <item quantity="other">%1$s | Acedeu a ficheiros e documentos %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu a ficheiros e documentos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_installed">
+        <item quantity="other">%1$s | Acedeu à lista de aplicações instaladas %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu à lista de aplicações instaladas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_number">
+        <item quantity="other">%1$s | Acedeu às informações do telefone %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu às informações do telefone %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_sms">
+        <item quantity="other">%1$s | Leu mensagens (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Leu mensagens (SMS) %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_location">
+        <item quantity="other">%1$s | Acedeu à sua localização %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu à sua localização %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Acedeu a músicas e áudios %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu a músicas e áudios %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_visual">
+        <item quantity="other">%1$s | Acedeu a fotos e vídeos %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu a fotos e vídeos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_volume">
+        <item quantity="other">%1$s | Ajustou o volume multimédia %2$d vezes</item>
+        <item quantity="one">%1$s | Ajustou o volume multimédia %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_mic">
+        <item quantity="other">%1$s | Acedeu ao microfone %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu ao microfone %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_nearby_device">
+        <item quantity="other">%1$s | Acedeu à lista de dispositivos próximos %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu à lista de dispositivos próximos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_perm">
+        <item quantity="other">%1$s | Acedeu %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_phone_state">
+        <item quantity="other">%1$s| Acedeu ao estado da chamada %2$d vezes</item>
+        <item quantity="one">%1$s| Acedeu ao estado da chamada %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calendar">
+        <item quantity="other">%1$s | Acedeu ao calendário %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu ao calendário %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calllog">
+        <item quantity="other">%1$s | Acedeu ao registo de chamadas %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu ao registo de chamadas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_contacts">
+        <item quantity="other">%1$s | Acedeu aos contactos %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu aos contactos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_receive_sms">
+        <item quantity="other">%1$s | Recebeu mensagens (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Recebeu mensagens (SMS) %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_send_sms">
+        <item quantity="other">%1$s | Enviou mensagens (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Enviou mensagens (SMS) %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_storage">
+        <item quantity="other">%1$s | Acedeu a fotos, vídeos, áudios e ficheiros %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu a fotos, vídeos, áudios e ficheiros %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calendar">
+        <item quantity="other">%1$s | Editou o calendário %2$d vezes</item>
+        <item quantity="one">%1$s | Editou o calendário %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calllog">
+        <item quantity="other">%1$s| Editou o registo de chamadas %2$d vezes</item>
+        <item quantity="one">%1$s| Editou o registo de chamadas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Editou os contactos %2$d vezes</item>
+        <item quantity="one">%1$s | Editou os contactos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wake_path">
+        <item quantity="other">%1$s | Iniciado automaticamente por %2$s %3$d vezes</item>
+        <item quantity="one">%1$s | Iniciado automaticamente por %2$s %3$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wakepath">
+        <item quantity="other">%1$s | Permitida %2$d vezes</item>
+        <item quantity="one">%1$s | Permitida %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_delete_pic_more">
+        <item quantity="other">%1$s | Eliminou fotos da Galeria %2$d vezes</item>
+        <item quantity="one">%1$s | Eliminou fotos da Galeria %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_activity_recognization">
+        <item quantity="other">%1$s | Foi negado o acesso às informações de treino %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso às informações de treino %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_autostart">
+        <item quantity="other">%1$s | Foi negado o início automático %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o início automático %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_body_sensor">
+        <item quantity="other">%1$s | Foi negado o acesso aos sensores do corpo %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso aos sensores do corpo %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_call_phone">
+        <item quantity="other">%1$s | Foi negado o acesso de efectuar chamadas %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso de efectuar chamadas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_camera">
+        <item quantity="other">%1$s | Foi negado o acesso à câmara %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso à câmara %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_clipboard">
+        <item quantity="other">%1$s | Foi negado o acesso à área de transferências %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso à área de transferências %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_delete_pic">
+        <item quantity="other">%1$s | Foi negado o acesso de eliminar fotos da Galeria %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso de eliminar fotos da Galeria %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_device_sensor">
+        <item quantity="other">%1$s | Foi negado o acesso à orientação e movimento do dispositivo %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso à orientação e movimento do dispositivo %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_files">
+        <item quantity="other">%1$s | Foi negado o acesso a ficheiros e documentos %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso a ficheiros e documentos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_installed">
+        <item quantity="other">%1$s | Foi negado o acesso à lista de aplicações instaladas %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso à lista de aplicações instaladas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_number">
+        <item quantity="other">%1$s | Foi negado o acesso às informações do telefone %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso às informações do telefone %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_sms">
+        <item quantity="other">%1$s | Foi negado a leitura de mensagens (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado a leitura de mensagens (SMS) %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_location">
+        <item quantity="other">%1$s | Foi negado o acesso à sua localização %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso à sua localização %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_aural">
+        <item quantity="other">%1$s | Foi negado o acesso a músicas e áudios %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso a músicas e áudios %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_visual">
+        <item quantity="other">%1$s | Foi negado o acesso a fotos e vídeos %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso a fotos e vídeos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_volume">
+        <item quantity="other">%1$s | Foi negado o ajuste do volume multimédia %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o ajuste do volume multimédia %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_mic">
+        <item quantity="other">%1$s | Foi negado o acesso ao microfone %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso ao microfone %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_nearby_device">
+        <item quantity="other">%1$s | Foi negado o acesso à lista de dispositivos próximos %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso à lista de dispositivos próximos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_perm">
+        <item quantity="other">%1$s | Acesso negado %2$d vezes</item>
+        <item quantity="one">%1$s | Acesso negado %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_phone_state">
+        <item quantity="other">%1$s | Foi negado o acesso ao estado da chamada %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso ao estado da chamada %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calendar">
+        <item quantity="other">%1$s | Foi negado o acesso ao calendário %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso ao calendário %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calllog">
+        <item quantity="other">%1$s | Foi negado o acesso ao registo de chamadas %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso ao registo de chamadas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_contacts">
+        <item quantity="other">%1$s | Foi negado o acesso aos contactos %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso aos contactos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_receive_sms">
+        <item quantity="other">%1$s | Foi negado o recebimento de mensagens (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o recebimento de mensagens (SMS) %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_send_sms">
+        <item quantity="other">%1$s | Foi negado o envio de mensagens (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o envio de mensagens (SMS) %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_storage">
+        <item quantity="other">%1$s | Foi negado o acesso a fotos, vídeos, áudios e ficheiros %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso a fotos, vídeos, áudios e ficheiros %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calendar">
+        <item quantity="other">%1$s | Foi negada a edição do calendário %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negada a edição do calendário %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calllog">
+        <item quantity="other">%1$s | Foi negada a edição do registo de chamadas %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negada a edição do registo de chamadas %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_contacts">
+        <item quantity="other">%1$s | Foi negada a edição dos contactos %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negada a edição dos contactos %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wake_path">
+        <item quantity="other">%1$s | Foi negado o início automático por %2$s %3$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o início automático por %2$s %3$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wakepath">
+        <item quantity="other">%1$s | Negado %2$d vezes</item>
+        <item quantity="one">%1$s | Negado %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_projection_screen">
+        <item quantity="other">%1$s | Acedeu ou gravou conteúdo do ecrã %2$d vezes</item>
+        <item quantity="one">%1$s | Acedeu ou gravou conteúdo do ecrã %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_recent_day">
+        <item quantity="other">%1$d dias atrás</item>
+        <item quantity="one">%1$d dia atrás</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_camera">
+        <item quantity="other">%1$s | Utilizou a câmara %2$d vezes</item>
+        <item quantity="one">%1$s | Utilizou a câmara %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_screen">
+        <item quantity="other">%1$s | Utilizou o ecrã %2$d vezes</item>
+        <item quantity="one">%1$s | Utilizou o ecrã %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_calllog_more">
+        <item quantity="other">%1$s | Enviou um registo de chamadas vazio %2$d vezes</item>
+        <item quantity="one">%1$s | Enviou um registo de chamadas vazio %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_common_more">
+        <item quantity="other">%1$s | Enviou uma mensagem vazia %2$d vezes</item>
+        <item quantity="one">%1$s | Enviou uma mensagem vazia %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_contacts_more">
+        <item quantity="other">%1$s | Enviou um contacto vazio %2$d vezes</item>
+        <item quantity="one">%1$s | Enviou um contacto vazio %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_phone_state_more">
+        <item quantity="other">%1$s | Enviou um estado de chamada vazio %2$d vezes</item>
+        <item quantity="one">%1$s | Enviou um estado de chamada vazio %2$d vez</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_sms_more">
+        <item quantity="other">%1$s | Enviou uma mensagem vazia (SMS) %2$d vezes</item>
+        <item quantity="one">%1$s | Enviou uma mensagem vazia (SMS) %2$d vez</item>
+    </plurals>
     <plurals name="power_20s_shutdown">
         <item quantity="other">O dispositivo vai desligar em %d segundos</item>
         <item quantity="one">O dispositivo vai desligar em %d segundo</item>
