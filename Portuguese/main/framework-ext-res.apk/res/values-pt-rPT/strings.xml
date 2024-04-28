@@ -335,6 +335,7 @@
     <string name="presentation_payphone">Telefone público</string>
     <string name="presentation_private">Número privado</string>
     <string name="presentation_unknown">Número desconhecido</string>
+    <string name="propotional_freeform_tip">Esta aplicação não suporta totalmente as janelas flutuantes</string>
     <string name="radar">Radar</string>
     <string name="raindrops">Pingos de chuva</string>
     <string name="reboot_confirm_title">Reiniciar o dispositivo agora?</string>

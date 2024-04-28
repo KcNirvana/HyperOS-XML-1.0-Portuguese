@@ -1992,6 +1992,9 @@ Se tiver perguntas, contacte %2$s"</string>
     <string name="quick_settings_sim_disabled">" (desactivado)"</string>
     <string name="quick_settings_state_change_message_off">%1$s desligado</string>
     <string name="quick_settings_state_change_message_on">%1$s ligado</string>
+    <string name="quick_settings_state_saved">Guardado</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Seleccionar redes Wi-Fi próximas</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Seleccionar redes Wi-Fi próximas</string>
     <string name="quick_settings_sync_label">Sincronização</string>
     <string name="quick_settings_sync_state_change_message_off">Sincronização desligada</string>
     <string name="quick_settings_sync_state_change_message_on">Sincronização ligada</string>
