@@ -718,8 +718,6 @@ Email: service.jp@xiaomi.com"</string>
     <string name="phone_hint">Phone number</string>
     <string name="phone_num_use_for">Phone number is used for:</string>
     <string name="phone_number">Phone number</string>
-    <string name="photoPickerNotFoundText">No photos available.</string>
-    <string name="please_agree_protocal">Please Agree Protocal</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
 %2$s

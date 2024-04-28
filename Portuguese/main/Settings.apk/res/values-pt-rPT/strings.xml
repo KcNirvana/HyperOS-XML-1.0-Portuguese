@@ -11172,7 +11172,6 @@ To learn more, contact your credit provider."</string>
     <string name="lockscreen_trivial_controls_setting_toggle">Control from locked device</string>
     <string name="lockscreen_trivial_controls_summary">Control external devices without unlocking your phone or tablet if allowed by the device controls app</string>
     <string name="lockscreen_trivial_disabled_controls_summary">To use, first turn on \"Show device controls\"</string>
-    <string name="mic_toggle_description">For apps and services. If this setting is off, microphone data may still be shared when you call an emergency number.</string>
     <string name="next_page_content_description">Next</string>
     <string name="nls_feature_read_summary">It can read your notifications, including personal information such as contacts, messages, and photos.</string>
     <string name="nls_feature_read_title">Read your notifications</string>
