@@ -791,8 +791,8 @@ You can get a %d-day free trial now!"</item>
         <item quantity="one">%1$s | Foi negado o acesso à lista de dispositivos próximos %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_deny_perm">
-        <item quantity="other">%1$s | Acesso negado %2$d vezes</item>
-        <item quantity="one">%1$s | Acesso negado %2$d vez</item>
+        <item quantity="other">%1$s | Foi negado o acesso %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado o acesso %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_deny_phone_state">
         <item quantity="other">%1$s | Foi negado o acesso ao estado da chamada %2$d vezes</item>
@@ -839,8 +839,8 @@ You can get a %d-day free trial now!"</item>
         <item quantity="one">%1$s | Foi negado o início automático por %2$s %3$d vez</item>
     </plurals>
     <plurals name="permission_usage_deny_wakepath">
-        <item quantity="other">%1$s | Negado %2$d vezes</item>
-        <item quantity="one">%1$s | Negado %2$d vez</item>
+        <item quantity="other">%1$s | Foi negado %2$d vezes</item>
+        <item quantity="one">%1$s | Foi negado %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_projection_screen">
         <item quantity="other">%1$s | Acedeu ou gravou conteúdo do ecrã %2$d vezes</item>
