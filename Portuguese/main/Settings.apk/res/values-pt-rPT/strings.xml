@@ -8863,6 +8863,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
     <string name="title_show_notification_icon_count">Número de ícones mostrados</string>
     <string name="title_smart_device_control">Controlos de dispositivos inteligentes</string>
     <string name="title_special_features_health_global">Batimento cardíaco</string>
+    <string name="title_unavailable_locale">%s não disponível</string>
+    <string name="title_wordless_mode">Não mostrar texto dos atalhos</string>
     <string name="to_close">Desligar</string>
     <string name="to_switch_networks_disconnect_ethernet">To switch networks, disconnect ethernet</string>
     <string name="toast_apply_font_fail">Não é possível definir o tipo de letra</string>
