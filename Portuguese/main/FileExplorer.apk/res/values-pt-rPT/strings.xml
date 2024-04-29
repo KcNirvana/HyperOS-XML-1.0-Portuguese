@@ -184,6 +184,9 @@
     <string name="dialog_type_video">Vídeos</string>
     <string name="disk_available">"Disponível: "</string>
     <string name="disk_total">"Total: "</string>
+    <string name="display_all_dirs">Todas as pastas</string>
+    <string name="display_hide_sys_dirs">Ocultar pastas de sistema</string>
+    <string name="display_mode">Mostrar/Ocultar</string>
     <string name="display_setting">Itens mostrados</string>
     <string name="doc_all">Tudo</string>
     <string name="downloading">A transferir…</string>
@@ -253,6 +256,7 @@
     <string name="ftp_transfer_secure">Segurança</string>
     <string name="ftp_username_and_passworld">Iniciar sessão</string>
     <string name="ftp_username_hint">Utilizador</string>
+    <string name="func_settings">Definições das funcionalidades</string>
     <string name="function_file_operation">Para aceder e abrir ficheiros</string>
     <string name="function_set_private">Para ver e encriptar ficheiros</string>
     <string name="function_use_imei">Para aceder ao IMEI e encriptar ficheiros</string>
@@ -546,6 +550,7 @@
     <string name="pick_file">Seleccionar ficheiros</string>
     <string name="pick_folder">Seleccionar pasta</string>
     <string name="port_range">A porta tem de ser entre 1024–65535</string>
+    <string name="positive_order">Ascendente</string>
     <string name="pre_privacy_recall">Remoção de consentimento</string>
     <string name="pref_permission_allowed">Concedidas</string>
     <string name="pref_permission_manage_key_storage">Aceder a fotos e ficheiros no dispositivo</string>
@@ -600,6 +605,7 @@
     <string name="request_timeout">Pedido de rede expirou</string>
     <string name="reset_password">Alterar palavra-passe</string>
     <string name="restoring">A restaurar…</string>
+    <string name="reverse_order">Descendente</string>
     <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
     <string name="rlv_loading_more">Aguarde…</string>
     <string name="rlv_pull_to_refresh">Puxe para actualizar</string>
@@ -625,6 +631,7 @@
     <string name="search_more_category">Mais</string>
     <string name="search_result">Resultados</string>
     <string name="search_result_more">Mais</string>
+    <string name="search_text_hint">Pesquisar ficheiros</string>
     <string name="search_title">Pesquisar</string>
     <string name="search_title_hint">Pesquisar</string>
     <string name="select_dest_folder">Seleccionar pasta</string>
@@ -653,8 +660,10 @@
     <string name="sort_hint_name">Ordenado por nome</string>
     <string name="sort_hint_time">Ordenado por data</string>
     <string name="sort_hint_type">Ordenado por tipo</string>
+    <string name="sort_mode">Ordenação</string>
     <string name="sort_size_asc">Tamanho: Ascendente</string>
     <string name="sort_size_desc">Tamanho: Descendente</string>
+    <string name="sort_type">Filtros</string>
     <string name="start_all">Ver tudo</string>
     <string name="start_doc">Ficheiros</string>
     <string name="start_phone">Armazenamento</string>
@@ -719,12 +728,15 @@
     <string name="user_guide_continue_use">OK</string>
     <string name="user_not_login">Iniciar sessão primeiro</string>
     <string name="utf8_summary">Codificação do Sistema FTP padrão</string>
-    <string name="view_type">Vista</string>
+    <string name="video_data_consume_dialog_confirm">Continuar</string>
+    <string name="video_data_consume_dialog_title">Utilizar dados móveis?</string>
+    <string name="view_mode_grid">Grelha</string>
+    <string name="view_mode_list">Lista</string>
+    <string name="view_type">Visualização</string>
+    <string name="view_type_mode">Layout</string>
     <string name="web_sso_login_fail">Tem de iniciar sessão novamente</string>
     <string name="web_sso_login_message">A iniciar sessão…</string>
     <string name="webview_reload">Tentar novamente</string>
-    <string name="video_data_consume_dialog_confirm">Continuar</string>
-    <string name="video_data_consume_dialog_title">Utilizar dados móveis?</string>
     <string name="wechat_msg">"Due to Android 11 restrictions, File Manager can't access and display the documents previewed in WeChat. Open and save documents in WeChat to make them appear here."</string>
     <string name="wechat_title">"Can't access WeChat documents"</string>
     <string name="wechat_video">Vídeo em %s</string>

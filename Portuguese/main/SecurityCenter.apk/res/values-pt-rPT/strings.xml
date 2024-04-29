@@ -3272,6 +3272,7 @@ Tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um 
     <string name="power_save_mode_other_optimization">Optimizações opcionais</string>
     <string name="power_save_mode_start_time">Início</string>
     <string name="power_save_mode_summary">Monitorizar processos em segundo plano e desligar a sincronização</string>
+    <string name="power_save_model_open">Poupança de bateria ligada</string>
     <string name="power_save_on_time_end_time_summary_na">Até</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
     <string name="power_save_ps_clean">Limpar cache quando o dispositivo estiver bloqueado</string>
