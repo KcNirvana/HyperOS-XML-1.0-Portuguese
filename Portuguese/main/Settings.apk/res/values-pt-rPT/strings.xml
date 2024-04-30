@@ -1058,6 +1058,7 @@ As cópias são guardadas na Xiaomi Cloud e podem ser acedidas de qualquer lugar
     <string name="battery_info_scale_label">Nível da bateria:</string>
     <string name="battery_info_screen_on">Tempo de ecrã activo:</string>
     <string name="battery_info_status_charging">A carregar</string>
+    <string name="battery_info_status_charging_dock">A carregar</string>
     <string name="battery_info_status_charging_ac">A carregar por CA</string>
     <string name="battery_info_status_charging_fast">Carregamento rápido</string>
     <string name="battery_info_status_charging_slow">Carregamento lento</string>

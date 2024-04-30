@@ -385,6 +385,7 @@ Se esta permissão estiver desligada, os alarmes existentes e os eventos com bas
     <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
     <string name="battery_detail_switch_title">Poupança de bateria</string>
     <string name="battery_info_status_charging">A carregar</string>
+    <string name="battery_info_status_charging_lower">A carregar</string>
     <string name="battery_info_status_charging_fast">Carregamento rápido</string>
     <string name="battery_info_status_charging_slow">Carregamento lento</string>
     <string name="battery_info_status_charging_wireless">A carregar sem fios</string>
@@ -2263,6 +2264,11 @@ d 'de' MMMM"</string>
     <string name="stream_system_enforced">Sistema reforçado</string>
     <string name="stream_tts">TTS</string>
     <string name="stream_voice_call">Chamadas</string>
+    <string name="strong_toast_charging">A carregar</string>
+    <string name="strong_toast_quick_charging">Carregamento rápido</string>
+    <string name="stylus_battery_low_percentage">%s bateria restante</string>
+    <string name="stylus_battery_low_subtitle">Ligar a stylus a um carregador</string>
+    <string name="system_multitasking_full_screen">Trocar do ecrã dividido para ecrã inteiro</string>
     <string name="strict_mode">Modo rigoroso</string>
     <string name="strict_mode_summary">Piscar ecrã se app fazem oper. prolong. no tópico princ.</string>
     <string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de rosto 3D. Tente novamente</string>
@@ -2834,6 +2840,7 @@ Your device app determines which devices can be controlled in this way."</string
     <string name="media_output_first_notify_broadcast_message">"People near you with compatible Bluetooth devices can listen to the media you're broadcasting"</string>
     <string name="media_seamless_other_device">Other device</string>
     <string name="media_transfer_failed">Something went wrong. Try again.</string>
+    <string name="media_transfer_loading">Loading</string>
     <string name="media_transfer_playing_different_device">Playing on %1$s</string>
     <string name="media_transfer_playing_this_device">Playing on this phone</string>
     <string name="media_transfer_undo">Undo</string>

@@ -445,8 +445,8 @@ Para entender completamente os seus direitos como utilizador, assim como process
     <string name="dialog_disagree">Não concordar</string>
     <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não existe espaço suficiente no armazenamento externo</string>
     <string name="dialog_insufficient_space_on_internal">Não existe espaço suficiente no armazenamento interno</string>
-    <string name="dialog_system_auto_sync_account_no_open">Ligue a sincronização da conta para receber emails automaticamente</string>
-    <string name="dialog_system_auto_sync_master_no_open">Ligue a sincronização para receber emails automaticamente</string>
+    <string name="dialog_system_auto_sync_account_no_open">Ligar a sincronização da conta para receber emails automaticamente</string>
+    <string name="dialog_system_auto_sync_master_no_open">Ligar a sincronização para receber emails automaticamente</string>
     <string name="disable_admin_warning">AVISO: Desactivar as permissões da aplicação Email para administrar o seu dispositivo, todas as contas de email vinculadas vão ser eliminadas, assim como os emails, contactos, eventos do calendário e outros dados</string>
     <string name="discard_drafts">Rejeitar rascunhos</string>
     <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
