@@ -2009,6 +2009,8 @@ Os vídeos vão ser guardados em Game Turbo &gt; Momentos chave"</string>
     <string name="gtb_guide_gtb_game_effected">Aplicado</string>
     <string name="gtb_guide_gtb_game_new">Novo</string>
     <string name="gtb_guide_gtb_line_new">Intensificar o jogo com o novo Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new_global">Deslizar para abrir Game Turbo</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Intensificar o jogo com o novo Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Utilizar outras aplicações enquanto joga</string>
     <string name="gtb_guide_small_window_app_title">Janelas flutuantes</string>
     <string name="gtb_setting_item_summary_smart_5g">Quando o Game Turbo detecta uma rede 5G, pode ligar o seu dispositivo à melhor rede disponível para reduzir o atraso da rede</string>
