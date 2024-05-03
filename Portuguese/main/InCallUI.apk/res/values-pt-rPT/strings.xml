@@ -148,6 +148,8 @@
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
     <string name="enter_ai_assistant">Utilizar</string>
     <string name="enter_ai_assistant_tip">O assistente de chamadas IA pode atender esta chamada e transcrever o discurso da outra pessoa. Permitir que a IA atenda agora?</string>
+    <string name="focus_notification_on_call">A chamar…</string>
+    <string name="focus_notification_on_ringing">Chamada recebida</string>
     <string name="font_camera_tip">Dobrar o dispositivo para utilizar a câmara frontal</string>
     <string name="high_temperature_toast">O seu dispositivo está superaquecido. Não é possível utilizar esta funcionalidade agora</string>
     <string name="inCallLabel">Telefone</string>
