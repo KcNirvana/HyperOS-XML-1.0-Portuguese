@@ -41,6 +41,14 @@
         <item quantity="other">anos</item>
         <item quantity="one">ano</item>
     </plurals>
+    <plurals name="delete_msg">
+        <item quantity="other">Eliminar %d itens agora?</item>
+        <item quantity="one">Eliminar %d item agora?</item>
+    </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>

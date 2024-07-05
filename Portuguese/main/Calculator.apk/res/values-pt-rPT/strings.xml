@@ -75,7 +75,9 @@
     <string name="day">d</string>
     <string name="degDesc">Ângulo</string>
     <string name="del">DEL</string>
+    <string name="delete">Eliminar</string>
     <string name="deleteDesc">Eliminar</string>
+    <string name="delete_tips">Eliminar itens</string>
     <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calculador de hipotecas e taxas</string>
     <string name="description_title">Acerca de Calculadora</string>
     <string name="deselect_all">Desmarcar</string>
@@ -393,7 +395,14 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
     <string name="privacy_revoke_error">Não foi possível remover. Tente novamente</string>
     <string name="privacy_revoke_progress">A remover…</string>
     <string name="privacy_switch">Remoção de consentimento</string>
+    <string name="pull_to_refresh">Puxar para ver histórico</string>
     <string name="radDesc">Radianos</string>
+    <string name="rate_number_first_house">Taxa de juro %1$s da 1ª propriedade (%2$s)</string>
+    <string name="rate_number_second_house">Taxa de juro %1$s da 2ª propriedade (%2$s)</string>
+    <string name="re_compute">Recalcular</string>
+    <string name="reciprocalDesc">Reciprocal</string>
+    <string name="relationship">Relationship</string>
+    <string name="release_to_refresh">Soltar para ver histórico</string>
     <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
     <string name="reciprocalDesc">Inversos</string>
     <string name="rightParenDesc">Parêntese direito</string>
