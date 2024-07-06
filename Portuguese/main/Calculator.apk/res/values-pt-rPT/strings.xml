@@ -400,11 +400,10 @@ Os LPRs de um e cinco anos vão ser cotados no dia 20 de cada mês (podem ocorre
     <string name="rate_number_first_house">Taxa de juro %1$s da 1ª propriedade (%2$s)</string>
     <string name="rate_number_second_house">Taxa de juro %1$s da 2ª propriedade (%2$s)</string>
     <string name="re_compute">Recalcular</string>
-    <string name="reciprocalDesc">Reciprocal</string>
+    <string name="reciprocalDesc">Inversos</string>
     <string name="relationship">Relationship</string>
     <string name="release_to_refresh">Soltar para ver histórico</string>
     <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
-    <string name="reciprocalDesc">Inversos</string>
     <string name="rightParenDesc">Parêntese direito</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
