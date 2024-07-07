@@ -16,8 +16,8 @@
     <string name="app_appvault">Assistente</string>
     <string name="app_browser">Navegador</string>
     <string name="app_calculator">Calculadora</string>
-    <string name="app_camera">Câmara</string>
     <string name="app_calendar">Calendário</string>
+    <string name="app_camera">Câmara</string>
     <string name="app_clock">Relógio</string>
     <string name="app_files">Ficheiros</string>
     <string name="app_gallery">Galeria</string>
@@ -28,6 +28,7 @@
     <string name="app_mihome">Mi Home</string>
     <string name="app_mipay">Wallet</string>
     <string name="app_mivideo">Vídeos</string>
+    <string name="app_music">Música</string>
     <string name="app_notes">Notas</string>
     <string name="app_recorder">Gravador</string>
     <string name="app_scanner">Digitalizador</string>

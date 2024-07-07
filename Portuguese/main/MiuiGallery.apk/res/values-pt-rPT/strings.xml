@@ -168,7 +168,7 @@
     <string name="alert_secret_album_message_new">Puxar em \"Álbuns\" para ver os ficheiros privados</string>
     <string name="alert_secret_album_title">Como ver álbuns ocultos</string>
     <string name="alert_secret_album_title_new">Adicionado com sucesso</string>
-    <string name="alert_selection_description">A MIUI vai analisar fotos parecidas e marcar as melhores para si</string>
+    <string name="alert_selection_description">A Galeria vai analisar fotos parecidas e marcar as melhores para si</string>
     <string name="alert_selection_title">Seleccionar melhor foto</string>
     <string name="all_faces">Fotos com esta pessoa</string>
     <string name="all_items_synced">Todos os álbuns foram sincronizados com a Xiaomi Cloud</string>
@@ -1134,7 +1134,7 @@ efeitos de fotos"</string>
     <string name="image_invalid_path">Caminho inválido</string>
     <string name="image_not_found">Não foi possível encontrar imagem</string>
     <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
-    <string name="image_selection_summary">A MIUI vai analisar as suas fotos e marcar as melhores. Desligue esta funcionalidade para remover as marcas das fotos</string>
+    <string name="image_selection_summary">A Galeria vai analisar as suas fotos e marcar as melhores. Desligue esta funcionalidade para remover as marcas das fotos</string>
     <string name="image_selection_title">Seleccionar a melhor foto</string>
     <string name="image_with_time">Foto tirada em %s</string>
     <string name="image_with_time_and_location">Foto tirada em %1$s. Localização: %2$s.</string>
