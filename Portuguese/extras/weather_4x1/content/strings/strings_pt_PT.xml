@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_location_null">Sem localização</string>
     <string name="weather_null">Toque para obter informação do tempo</string>
